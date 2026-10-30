@@ -72,13 +72,22 @@ def text_of(el, *paths):
 
 
 def pick_image(e):
-    """First usable image URL from media:content/thumbnail or an image enclosure."""
-    for tag in ("media:thumbnail", "media:content"):
+    """Largest image URL from media:content/thumbnail or an image enclosure."""
+    best, best_w = "", -1
+    for tag in ("media:content", "media:thumbnail"):
         for m in e.findall(tag, NS):
             url = m.get("url", "")
             kind = m.get("type", "") or m.get("medium", "")
-            if url.startswith("https://") and (not kind or "image" in kind):
-                return url
+            if not url.startswith("https://") or (kind and "image" not in kind):
+                continue
+            try:
+                w = int(m.get("width") or 0)
+            except ValueError:
+                w = 0
+            if w > best_w:
+                best, best_w = url, w
+    if best:
+        return best
     for m in e.findall("enclosure"):
         if m.get("type", "").startswith("image/") and m.get("url", "").startswith("https://"):
             return m.get("url")
