@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T11:53:57+00:00",
+ "generated": "2026-10-30T11:59:19+00:00",
  "status": {
   "politiken": {
    "ok": true,
@@ -116,6 +116,17 @@
  },
  "items": [
   {
+   "feed": "bbc_sport",
+   "outlet": "BBC Sport",
+   "section": "Sports",
+   "lang": "en",
+   "title": "England thrash Wales in Wheelchair Rugby League World Cup",
+   "summary": "Defending champions England thrash Wales 98-18 in their opening Wheelchair Rugby League World Cup game in Australia.",
+   "link": "https://www.bbc.co.uk/sport/rugby-league/videos/c6ewep00w4nno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d35/live/c91a78e0-d455-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-10-30T11:53:32+00:00"
+  },
+  {
    "feed": "euronews",
    "outlet": "Euronews",
    "section": "World",
@@ -160,6 +171,17 @@
    "published": "2026-10-30T11:46:44+00:00"
   },
   {
+   "feed": "guardian",
+   "outlet": "The Guardian",
+   "section": "World",
+   "lang": "en",
+   "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
+   "summary": "69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missing. Peunte begins by paying tribute to all affected by the incident. He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to clarify what exactly happened.” He says he still has confidence in the system.…",
+   "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/5db46eb38c6083f927b683f97dd5e7033a8a2ba7/1543_524_2950_2360/master/2950.jpg?width=700&quality=85&auto=format&fit=max&s=2f5f0080efc06549d60a3ef344641f85",
+   "published": "2026-10-30T11:46:42+00:00"
+  },
+  {
    "feed": "dr",
    "outlet": "DR",
    "section": "Denmark",
@@ -169,6 +191,28 @@
    "link": "https://www.dr.dk/nyheder/seneste/mand-anholdt-paa-foerste-flyvning-til-ny-groenlandsk-lufthavn",
    "image": "",
    "published": "2026-10-30T11:46:00+00:00"
+  },
+  {
+   "feed": "guardian_business",
+   "outlet": "The Guardian",
+   "section": "Markets",
+   "lang": "en",
+   "title": "UK financial watchdogs monitoring fallout from $6.3bn Binance heist, as ‘elite North Korean hackers’ blamed – business live",
+   "summary": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist. Most major cryptocurrencies have fallen in value since news of the Binance theft broke, Coinmarketcap data shows . That includes: Bitcoin : -2.35% over the last 24 hours, to $77,940.…",
+   "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/c88d8154f76fef59b24c916cab7348652d9f113c/481_0_4070_3256/master/4070.jpg?width=700&quality=85&auto=format&fit=max&s=9222d9e55df20fc9a26a16b4bdc9da5c",
+   "published": "2026-10-30T11:45:44+00:00"
+  },
+  {
+   "feed": "guardian_business",
+   "outlet": "The Guardian",
+   "section": "Markets",
+   "lang": "en",
+   "title": "BP profits hit 18-year high as Iran war drives up oil refining margins",
+   "summary": "Third-quarter underlying ​replacement ⁠cost profit rises to $8.46bn, angering climate campaigners. BP’s profits have hit their highest level in almost two decades as the war in the Middle East drove up oil and gas prices and led to “significantly higher” trading. The energy company hailed a “banner quarter” on Friday, with its underlying ​replacement ⁠cost profit – a key measure of its income –…",
+   "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+   "image": "https://i.guim.co.uk/img/media/d524eb35bfb6cb2a0181248f4fae344aebcfd872/4_0_2723_2180/master/2723.jpg?width=700&quality=85&auto=format&fit=max&s=7910e484103060c3720e829efed8c8c4",
+   "published": "2026-10-30T11:45:34+00:00"
   },
   {
    "feed": "verge",
@@ -367,17 +411,6 @@
    "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
    "image": "https://images.mktw.net/im-37901280",
    "published": "2026-10-30T11:27:00+00:00"
-  },
-  {
-   "feed": "guardian",
-   "outlet": "The Guardian",
-   "section": "World",
-   "lang": "en",
-   "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
-   "summary": "69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missing. Peunte begins by paying tribute to all affected by the incident. He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to clarify what exactly happened.” He says he still has confidence in the system.…",
-   "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/5db46eb38c6083f927b683f97dd5e7033a8a2ba7/1543_524_2950_2360/master/2950.jpg?width=700&quality=85&auto=format&fit=max&s=2f5f0080efc06549d60a3ef344641f85",
-   "published": "2026-10-30T11:26:59+00:00"
   },
   {
    "feed": "dw",
@@ -598,17 +631,6 @@
    "link": "https://www.youtube.com/watch?v=MENoB3Rex28",
    "image": "",
    "published": "2026-10-30T11:16:15+00:00"
-  },
-  {
-   "feed": "guardian_business",
-   "outlet": "The Guardian",
-   "section": "Markets",
-   "lang": "en",
-   "title": "UK financial watchdogs monitoring fallout from $6.3bn Binance heist, as ‘elite North Korean hackers’ blamed – business live",
-   "summary": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist. Most major cryptocurrencies have fallen in value since news of the Binance theft broke, Coinmarketcap data shows . That includes: Bitcoin : -2.35% over the last 24 hours, to $77,940.…",
-   "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/c88d8154f76fef59b24c916cab7348652d9f113c/481_0_4070_3256/master/4070.jpg?width=700&quality=85&auto=format&fit=max&s=9222d9e55df20fc9a26a16b4bdc9da5c",
-   "published": "2026-10-30T11:15:15+00:00"
   },
   {
    "feed": "wallnot",
@@ -939,17 +961,6 @@
    "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/in-recent-years-i-put-too-much-pressure-on-myself-failed-search-for-a-new-team-ends-in-retirement-for-former-la-fleche-wallonne-winner-dylan-teuns/",
    "image": "https://cdn.mos.cms.futurecdn.net/8VUsE5cW4nvjMvuyCULHBi-1920-80.png",
    "published": "2026-10-30T11:00:00+00:00"
-  },
-  {
-   "feed": "guardian_business",
-   "outlet": "The Guardian",
-   "section": "Markets",
-   "lang": "en",
-   "title": "BP profits hit 18-year high as Iran war drives up oil refining margins",
-   "summary": "Third-quarter underlying ​replacement ⁠cost profit rises to $8.46bn, angering climate campaigners. BP’s profits have hit their highest level in almost two decades, as the war in the Middle East drove up oil and gas prices and led to “significantly higher” trading. The energy company hailed a “banner quarter” on Friday, with its underlying ​replacement ⁠cost profit – a key measure of its income –…",
-   "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
-   "image": "https://i.guim.co.uk/img/media/d524eb35bfb6cb2a0181248f4fae344aebcfd872/4_0_2723_2180/master/2723.jpg?width=700&quality=85&auto=format&fit=max&s=7910e484103060c3720e829efed8c8c4",
-   "published": "2026-10-30T10:57:55+00:00"
   },
   {
    "feed": "dw",
@@ -4837,6 +4848,17 @@
    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
    "image": "",
    "published": "2026-10-29T19:14:36+00:00"
+  },
+  {
+   "feed": "bbc_sport",
+   "outlet": "BBC Sport",
+   "section": "Sports",
+   "lang": "en",
+   "title": "Dream win to set up WNBA Finals decider",
+   "summary": "Atlanta Dream deny the Golden State Valkyries their first WNBA Finals victory after an 80-69 win forces the series into a seventh and deciding game on Sunday.",
+   "link": "https://www.bbc.co.uk/sport/basketball/articles/cr4g181v4q4wo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6be/live/0da73700-d3c0-11f1-a62f-fd53d503ac8d.jpg",
+   "published": "2026-10-29T19:12:04+00:00"
   },
   {
    "feed": "bbc_business",
