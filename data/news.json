@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T10:44:03+00:00",
+ "generated": "2026-10-30T10:48:15+00:00",
  "status": {
   "politiken": {
    "ok": true,
@@ -72,6 +72,26 @@
    "outlet": "Berlingske",
    "section": "Denmark",
    "lang": "da",
+   "title": "Syvende mand er skyldig i bandedobbeltdrab på parkeringsplads",
+   "summary": "En mand, der er fundet skyldig i medvirken til dobbeltdrab, har nægtet at have noget med drabene at gøre.",
+   "link": "https://www.berlingske.dk/indland/syvende-mand-er-skyldig-i-bandedobbeltdrab-paa-parkeringsplads?referrer=RSS",
+   "published": "2026-10-30T10:43:46+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
+   "summary": "As Washington and Tehran send mixed signals, analysts say trust remains a key obstacle to any deal.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
+   "published": "2026-10-30T10:40:52+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
    "title": "Handicappet udlænding taber retssag om statsborgerskab",
    "summary": "Østre Landsret giver myndighederne medhold i en retssag anlagt af kvinde med palæstinensisk baggrund.",
    "link": "https://www.berlingske.dk/indland/handicappet-udlaending-taber-retssag-om-statsborgerskab?referrer=RSS",
@@ -79,11 +99,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "POV International",
    "section": "Denmark",
    "lang": "da",
    "title": "Våbenhvile holder: Nødhjælp og evakuering i gang i Olesjky",
-   "summary": "Artikel fra POV International",
+   "summary": "",
    "link": "https://pov.international/vaabenhvile-holder-noedhjaelp-og-evakuering-i-gang-i-olesjky",
    "published": "2026-10-30T10:37:13+00:00"
   },
@@ -129,11 +149,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "Avisen Danmark",
    "section": "Denmark",
    "lang": "da",
    "title": "Niki håber på en afskedssejr: - Vi er for gode til at ligge, hvor vi gør",
-   "summary": "Artikel fra Avisen Danmark",
+   "summary": "",
    "link": "https://avisendanmark.dk/fodbold/niki-haaber-paa-en-afskedssejr-vi-er-for-gode-til-at-ligge-hvor-vi-goer",
    "published": "2026-10-30T10:30:51+00:00"
   },
@@ -159,21 +179,21 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "EB",
    "section": "Denmark",
    "lang": "da",
    "title": "Lastbil i flammer: 42 grise døde",
-   "summary": "Artikel fra EB",
+   "summary": "",
    "link": "https://ekstrabladet.dk/krimi/lastbil-i-flammer-42-grise-doede/11337850",
    "published": "2026-10-30T10:27:36+00:00"
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "EB",
    "section": "Denmark",
    "lang": "da",
    "title": "George Michael-guitar solgt for millionbeløb",
-   "summary": "Artikel fra EB",
+   "summary": "",
    "link": "https://ekstrabladet.dk/underholdning/udlandkendte/george-michael-guitar-solgt-for-millionbeloeb/11337553",
    "published": "2026-10-30T10:27:22+00:00"
   },
@@ -259,11 +279,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "Kristeligt Dagblad",
    "section": "Denmark",
    "lang": "da",
    "title": "Spansk hastighedstog bragede ind i tog med 160-200 kilometer i timen",
-   "summary": "Artikel fra Kristeligt Dagblad",
+   "summary": "",
    "link": "https://www.kristeligt-dagblad.dk/udland/spansk-hastighedstog-bragede-ind-i-tog-med-160-200-kilometer-i-timen",
    "published": "2026-10-30T10:20:50+00:00"
   },
@@ -289,41 +309,41 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "Kristeligt Dagblad",
    "section": "Denmark",
    "lang": "da",
    "title": "Tidligere moderat minister vender tilbage fra barselsorlov",
-   "summary": "Artikel fra Kristeligt Dagblad",
+   "summary": "",
    "link": "https://www.kristeligt-dagblad.dk/danmark/tidligere-moderat-minister-vender-tilbage-fra-barselsorlov",
    "published": "2026-10-30T10:18:42+00:00"
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "DR",
    "section": "Denmark",
    "lang": "da",
    "title": "Sportsdomstol vil have Rusland til ishockey-VM næste år",
-   "summary": "Artikel fra DR",
+   "summary": "",
    "link": "https://dr.dk/sporten/ishockey/sportsdomstol-vil-have-rusland-til-ishockey-vm-naeste-aar",
    "published": "2026-10-30T10:18:21+00:00"
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "EB",
    "section": "Denmark",
    "lang": "da",
    "title": "Tragedien i Spanien: Bragede ind i stillestående tog med 160-200 km/t",
-   "summary": "Artikel fra EB",
+   "summary": "",
    "link": "https://ekstrabladet.dk/nyheder/tragedien-i-spanien-bragede-ind-i-stillestaaende-tog-med-160-200-kmt/11337863",
    "published": "2026-10-30T10:17:59+00:00"
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "EB",
    "section": "Denmark",
    "lang": "da",
    "title": "Skyldig i sag om dobbeltdrab",
-   "summary": "Artikel fra EB",
+   "summary": "",
    "link": "https://ekstrabladet.dk/krimi/skyldig-i-sag-om-dobbeltdrab/11336505",
    "published": "2026-10-30T10:15:11+00:00"
   },
@@ -349,21 +369,21 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "Kristeligt Dagblad",
    "section": "Denmark",
    "lang": "da",
    "title": "42 grise døde efter lastbilbrand på motorvej",
-   "summary": "Artikel fra Kristeligt Dagblad",
+   "summary": "",
    "link": "https://www.kristeligt-dagblad.dk/42-grise-doede-efter-lastbilbrand-paa-motorvej",
    "published": "2026-10-30T10:12:56+00:00"
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "DR",
    "section": "Denmark",
    "lang": "da",
    "title": "Familiefar ønsker ikke flere akavede halloween-besøg, nu har han en løsning",
-   "summary": "Artikel fra DR",
+   "summary": "",
    "link": "https://dr.dk/nyheder/indland/familiefar-oensker-ikke-flere-akavede-halloween-besoeg-nu-har-han-en-loesning",
    "published": "2026-10-30T10:12:00+00:00"
   },
@@ -409,11 +429,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "TV 2",
    "section": "Denmark",
    "lang": "da",
    "title": "Mistænkt for bedrageri for 73,6 millioner – har gemt sig for politiet i ni år",
-   "summary": "Artikel fra TV 2",
+   "summary": "",
    "link": "https://nyheder.tv2.dk/krimi/2026-10-29-mistaenkt-for-bedrageri-for-736-millioner-har-gemt-sig-for-politiet-i-ni-aar",
    "published": "2026-10-30T10:05:58+00:00"
   },
@@ -489,11 +509,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "Kristeligt Dagblad",
    "section": "Denmark",
    "lang": "da",
    "title": "Evakueringer fra russiskbesat by i Sydukraine går i gang",
-   "summary": "Artikel fra Kristeligt Dagblad",
+   "summary": "",
    "link": "https://www.kristeligt-dagblad.dk/udland/evakueringer-fra-russiskbesat-i-sydukraine-gaar-i-gang",
    "published": "2026-10-30T09:59:24+00:00"
   },
@@ -509,11 +529,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "Avisen Danmark",
    "section": "Denmark",
    "lang": "da",
    "title": "CAS vil lade Rusland deltage ved ishockey-VM",
-   "summary": "Artikel fra Avisen Danmark",
+   "summary": "",
    "link": "https://avisendanmark.dk/sport/cas-vil-lade-rusland-deltage-ved-ishockey-vm",
    "published": "2026-10-30T09:55:03+00:00"
   },
@@ -539,11 +559,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "EB",
    "section": "Denmark",
    "lang": "da",
    "title": "Nye detaljer i makaber drabssag",
-   "summary": "Artikel fra EB",
+   "summary": "",
    "link": "https://ekstrabladet.dk/nyheder/samfund/nye-detaljer-i-makaber-drabssag-offer-skudt-i-baghovedet/11337840",
    "published": "2026-10-30T09:52:20+00:00"
   },
@@ -559,11 +579,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "EB",
    "section": "Denmark",
    "lang": "da",
    "title": "Rusland får lov til at deltage ved VM i ishockey i 2027",
-   "summary": "Artikel fra EB",
+   "summary": "",
    "link": "https://ekstrabladet.dk/sport/rusland-faar-lov-til-at-deltage-ved-vm-i-ishockey-i-2027/11337842",
    "published": "2026-10-30T09:51:15+00:00"
   },
@@ -579,11 +599,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "POV International",
    "section": "Denmark",
    "lang": "da",
    "title": "Stemmerne er talt op: Svær regeringsdannelse venter i Israel",
-   "summary": "Artikel fra POV International",
+   "summary": "",
    "link": "https://pov.international/stemmerne-er-talt-op-svaer-regeringsdannelse-venter-i-israel",
    "published": "2026-10-30T09:51:02+00:00"
   },
@@ -609,11 +629,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "EB",
    "section": "Denmark",
    "lang": "da",
    "title": "Blodbad: Aktier står til tæsk",
-   "summary": "Artikel fra EB",
+   "summary": "",
    "link": "https://ekstrabladet.dk/penge/gigantisk-blodbad-paa-vej-aktier-staar-til-kaempe-smaek/11337817",
    "published": "2026-10-30T09:48:14+00:00"
   },
@@ -629,11 +649,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "EB",
    "section": "Denmark",
    "lang": "da",
    "title": "Sidder dybt: - Det er brutalt",
-   "summary": "Artikel fra EB",
+   "summary": "",
    "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/sidder-dybt-i-staale-solbakken-det-er-brutalt/11337664",
    "published": "2026-10-30T09:39:40+00:00"
   },
@@ -649,11 +669,11 @@
   },
   {
    "feed": "wallnot",
-   "outlet": "Wallnot (mixed)",
+   "outlet": "POV International",
    "section": "Denmark",
    "lang": "da",
    "title": "Europa ruster sig til en weekend med protester",
-   "summary": "Artikel fra POV International",
+   "summary": "",
    "link": "https://pov.international/europa-ruster-sig-til-en-weekend-med-protester",
    "published": "2026-10-30T09:36:05+00:00"
   },
