@@ -27,6 +27,7 @@ NS = {
     "content": "http://purl.org/rss/1.0/modules/content/",
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "rss1": "http://purl.org/rss/1.0/",
+    "media": "http://search.yahoo.com/mrss/",
 }
 TAG_RE = re.compile(r"<[^>]+>")
 WS_RE = re.compile(r"\s+")
@@ -70,6 +71,20 @@ def text_of(el, *paths):
     return ""
 
 
+def pick_image(e):
+    """First usable image URL from media:content/thumbnail or an image enclosure."""
+    for tag in ("media:thumbnail", "media:content"):
+        for m in e.findall(tag, NS):
+            url = m.get("url", "")
+            kind = m.get("type", "") or m.get("medium", "")
+            if url.startswith("https://") and (not kind or "image" in kind):
+                return url
+    for m in e.findall("enclosure"):
+        if m.get("type", "").startswith("image/") and m.get("url", "").startswith("https://"):
+            return m.get("url")
+    return ""
+
+
 def parse_feed(xml_bytes):
     root = ET.fromstring(xml_bytes)
     items = []
@@ -86,6 +101,7 @@ def parse_feed(xml_bytes):
                 "summary": clean(text_of(e, "atom:summary", "atom:content")),
                 "link": link,
                 "date": parse_date(text_of(e, "atom:published", "atom:updated")),
+                "image": pick_image(e),
             })
     else:  # RSS 2.0 or RSS 1.0 (RDF)
         entries = root.findall(".//item") or root.findall(".//rss1:item", NS)
@@ -98,6 +114,7 @@ def parse_feed(xml_bytes):
                 "summary": clean(text_of(e, "description", "rss1:description", "content:encoded")),
                 "link": link,
                 "date": parse_date(text_of(e, "pubDate", "dc:date")),
+                "image": pick_image(e),
             })
     return items
 
@@ -198,6 +215,7 @@ def main():
                 "title": title,
                 "summary": shorten(summary),
                 "link": it["link"],
+                "image": it.get("image", "") or old.get(it["link"], {}).get("image", ""),
                 "published": dt.isoformat(timespec="seconds"),
             }
             n += 1
