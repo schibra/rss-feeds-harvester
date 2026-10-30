@@ -1,9 +1,13 @@
 name: harvest
 
+# Runs once a day at 06:15 Copenhagen time. GitHub schedules in UTC only, and
+# Copenhagen is UTC+1 in winter and UTC+2 in summer, so two UTC slots are listed
+# and the "gate" step lets through only the one that falls in the 06:xx hour there.
 on:
   schedule:
-    - cron: "17 * * * *"   # hourly at :17
-  workflow_dispatch: {}
+    - cron: "15 4 * * *"   # 06:15 in summer (CEST)
+    - cron: "15 5 * * *"   # 06:15 in winter (CET)
+  workflow_dispatch: {}    # manual runs always go through
 
 permissions:
   contents: write
@@ -17,13 +21,27 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Gate on Copenhagen local time
+        id: gate
+        run: |
+          hour=$(TZ=Europe/Copenhagen date +%H)
+          echo "Copenhagen hour: $hour, event: ${{ github.event_name }}"
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$hour" != "06" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.12"
       - name: Fetch feeds
+        if: steps.gate.outputs.run == 'true'
         run: python harvest.py
       - name: Commit if changed
+        if: steps.gate.outputs.run == 'true'
         run: |
           if [ -n "$(git status --porcelain data/)" ]; then
             git config user.name "news-harvest"
