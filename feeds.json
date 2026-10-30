@@ -1,0 +1,25 @@
+[
+  {"id": "politiken",   "outlet": "Politiken",           "section": "Denmark", "lang": "da", "url": "https://politiken.dk/rss/senestenyt.rss"},
+  {"id": "berlingske",  "outlet": "Berlingske",          "section": "Denmark", "lang": "da", "url": "https://www.berlingske.dk/content/rss"},
+  {"id": "dr",          "outlet": "DR",                  "section": "Denmark", "lang": "da", "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt"},
+  {"id": "information", "outlet": "Information",         "section": "Denmark", "lang": "da", "url": "https://www.information.dk/feed"},
+  {"id": "wallnot",     "outlet": "Wallnot (mixed)",     "section": "Denmark", "lang": "da", "url": "https://wallnot.dk/rss"},
+  {"id": "cphpost",     "outlet": "The Copenhagen Post", "section": "Denmark", "lang": "en", "url": "https://cphpost.dk/feed/"},
+  {"id": "thelocal",    "outlet": "The Local",           "section": "Denmark", "lang": "en", "url": "https://www.thelocal.dk/feed/"},
+
+  {"id": "aljazeera",   "outlet": "Al Jazeera",          "section": "World", "lang": "en", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+  {"id": "euronews",    "outlet": "Euronews",            "section": "World", "lang": "en", "url": "https://www.euronews.com/rss"},
+  {"id": "france24",    "outlet": "France 24",           "section": "World", "lang": "en", "url": "https://www.france24.com/en/rss"},
+  {"id": "bbc",         "outlet": "BBC News",            "section": "World", "lang": "en", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+  {"id": "guardian",    "outlet": "The Guardian",        "section": "World", "lang": "en", "url": "https://www.theguardian.com/world/rss"},
+  {"id": "nyt",         "outlet": "The New York Times",  "section": "World", "lang": "en", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"},
+  {"id": "dw",          "outlet": "Deutsche Welle",      "section": "World", "lang": "en", "url": "https://rss.dw.com/rdf/rss-en-all"},
+  {"id": "npr",         "outlet": "NPR",                 "section": "World", "lang": "en", "url": "https://feeds.npr.org/1004/rss.xml"},
+
+  {"id": "techcrunch",  "outlet": "TechCrunch",          "section": "Tech", "lang": "en", "url": "https://techcrunch.com/feed/"},
+  {"id": "verge",       "outlet": "The Verge",           "section": "Tech", "lang": "en", "url": "https://www.theverge.com/rss/index.xml"},
+  {"id": "ars",         "outlet": "Ars Technica",        "section": "Tech", "lang": "en", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+  {"id": "hn",          "outlet": "Hacker News",         "section": "Tech", "lang": "en", "url": "https://hnrss.org/frontpage"},
+
+  {"id": "sciencedaily","outlet": "ScienceDaily",        "section": "Science", "lang": "en", "url": "https://www.sciencedaily.com/rss/top/science.xml"}
+]
