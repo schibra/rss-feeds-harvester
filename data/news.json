@@ -37,10 +37,6 @@
    "ok": true,
    "items": 40
   },
-  "france24": {
-   "ok": true,
-   "items": 24
-  },
   "bbc": {
    "ok": true,
    "items": 34
@@ -76,10 +72,6 @@
   "hn": {
    "ok": true,
    "items": 20
-  },
-  "sciencedaily": {
-   "ok": true,
-   "items": 40
   }
  },
  "items": [
@@ -102,16 +94,6 @@
    "summary": "Artikel fra POV International",
    "link": "https://pov.international/vaabenhvile-holder-noedhjaelp-og-evakuering-i-gang-i-olesjky",
    "published": "2026-10-30T10:37:13+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Tennis: Alexander Zverev guaranteed to become world No. 1",
-   "summary": "Alexander Zverev secured his place as the next world No. 1 by beating Tallon Griekspoor (6-4, 7-5) at the ATP 500 tournament in Vienna. The 29-year-old German will top the ATP rankings on Monday, November 2, replacing Jannik Sinner. He will become the first German world No. 1 since Boris Becker in 1991, and the 30th player in history to reach the top spot.",
-   "link": "https://www.france24.com/en/tv-shows/sports/20261030-tennis-alexander-zverev-guaranteed-to-become-world-no-1",
-   "published": "2026-10-30T10:34:46+00:00"
   },
   {
    "feed": "berlingske",
@@ -404,26 +386,6 @@
    "published": "2026-10-30T10:11:04+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Israel elections: Netanyahu attacks Arab parties as they emerge as potential kingmakers",
-   "summary": "Benjamin Netanyahu's Likud party alleged on Thursday, without ​providing evidence, that Arab parties' record gains in an election this week were driven in part by voter fraud. These accusations represent an escalation of anti-Arab rhetoric by Netanyahu and his far-right partners after Arab-led parties made a historic showing in the election – giving them a potential kingmaker role in the next…",
-   "link": "https://www.france24.com/en/video/20261030-israel-elections-netanyahu-attacks-arab-parties-as-they-emerge-as-potential-kingmakers",
-   "published": "2026-10-30T10:10:41+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Israel elections: Difficult negotiations lie ahead after Netanyahu's bloc lost majority",
-   "summary": "Israel's final election results confirmed Prime Minister Benjamin Netanyahu’s bloc lost its majority of parliamentary seats and that weeks of difficult negotiations among very different parties, from ultra-Orthodox Jewish to secular to Arab-led, lie ahead. The results released early Friday showed Netanyahu’s bloc won 53 seats in Tuesday's elections. The main opposition bloc won 48. FRANCE 24's…",
-   "link": "https://www.france24.com/en/video/20261030-israel-elections-difficult-negotiations-lie-ahead-after-netanyahu-s-bloc-lost-majority",
-   "published": "2026-10-30T10:08:10+00:00"
-  },
-  {
    "feed": "bbc",
    "outlet": "BBC News",
    "section": "World",
@@ -462,16 +424,6 @@
    "summary": "Artikel fra TV 2",
    "link": "https://nyheder.tv2.dk/krimi/2026-10-29-mistaenkt-for-bedrageri-for-736-millioner-har-gemt-sig-for-politiet-i-ni-aar",
    "published": "2026-10-30T10:05:58+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Spain demands answers as train disaster toll rises",
-   "summary": "Spain began demanding answers on Thursday after the toll from the country's second high-speed train collision this year rose to 69 people, with scores injured and distraught relatives desperately seeking news about their loved ones. One of Europe's deadliest rail disasters this century struck south of Madrid on Wednesday morning when a service by state operator Renfe ploughed into the back of a…",
-   "link": "https://www.france24.com/en/video/20261030-spain-demands-answers-as-train-disaster-toll-rises",
-   "published": "2026-10-30T10:05:53+00:00"
   },
   {
    "feed": "aljazeera",
@@ -744,16 +696,6 @@
    "published": "2026-10-30T09:32:14+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "US midterms: With deep-red states now in play, could blue wave redraw America's political landscape?",
-   "summary": "With the US approaching a potentially consequential midterm election, the political landscape appears to be shifting. Alison Sargent is pleased to welcome Dr Richard Johnson, Senior Lecturer in US Politics & Policy at Queen Mary University of London, who examines the prospect of a sweeping Democratic victory. He argues that the party could achieve gains of a magnitude not seen since Barack…",
-   "link": "https://www.france24.com/en/us-midterms-with-deep-red-states-now-in-play-could-blue-wave-redraw-america-s-political-landscape",
-   "published": "2026-10-30T09:30:26+00:00"
-  },
-  {
    "feed": "euronews",
    "outlet": "Euronews",
    "section": "World",
@@ -964,16 +906,6 @@
    "published": "2026-10-30T08:53:25+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Russia's bastion of free press Novaya Gazeta shuts down under Kremlin pressure",
-   "summary": "Newspaper Novaya Gazeta, one of the last vestiges of independent journalism in Russia, announced Friday that it was closing down, citing pressure from authorities who recently searched the home of its senior editor and earlier this year detained one of its journalists.",
-   "link": "https://www.france24.com/en/europe/20261030-russia-s-bastion-of-free-press-novaya-gazeta-shuts-down-after-years-of-kremlin-pressure",
-   "published": "2026-10-30T08:42:24+00:00"
-  },
-  {
    "feed": "politiken",
    "outlet": "Politiken",
    "section": "Denmark",
@@ -1102,16 +1034,6 @@
    "summary": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
    "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-30T08:02:02+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "French economy 'headed for a wall' as GDP shrinks, finance minister warns",
-   "summary": "France's economy unexpectedly shrank in the third quarter while inflation rose more than anticipated, piling pressure on the government ahead of further nationwide protests this weekend that are ​making it ‌more difficult to cut spending. Finance Minister Roland Lescure warned that the economy could be \"headed for a wall\" if parliament fails to approve a deficit-reducing budget soon.",
-   "link": "https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns",
-   "published": "2026-10-30T08:01:46+00:00"
   },
   {
    "feed": "dw",
@@ -1264,16 +1186,6 @@
    "published": "2026-10-30T07:31:44+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Ukraine war live: Russia strikes Kyiv as aid convoy enters stricken city of Oleshky",
-   "summary": "Russia said its forces struck energy infrastructure in and around Ukraine's capital on Friday as an aid ⁠convoy entered the beleaguered Russian-held city of Oleshky ​in southern Ukraine, carrying food and medical supplies as part of a localised ceasefire deal. Ukrainian officials said 527 people would be evacuated from the city to areas controlled by Kyiv. Follow our liveblog for the latest…",
-   "link": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine",
-   "published": "2026-10-30T07:28:16+00:00"
-  },
-  {
    "feed": "dw",
    "outlet": "Deutsche Welle",
    "section": "World",
@@ -1414,16 +1326,6 @@
    "published": "2026-10-30T06:59:00+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "French minister warns of 'very high' violence risk as country braces for Halloween protests",
-   "summary": "France will deploy some 70,000 police officers in Paris and other cities ahead of a new round of nationwide protests on Saturday, with Interior Minister Laurent Nuñez warning of a \"very high risk of public disorder\". The minister pledged an \"extremely firm\" response after mass protests on October 17 degenerated into rioting and looting.",
-   "link": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests",
-   "published": "2026-10-30T06:57:15+00:00"
-  },
-  {
    "feed": "aljazeera",
    "outlet": "Al Jazeera",
    "section": "World",
@@ -1452,16 +1354,6 @@
    "summary": "In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political moment Good morning. It was described by many Israelis as the most consequential election in their country’s history. And, as the final votes were tallied, it has delivered a result that presents Israel with a…",
    "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
    "published": "2026-10-30T06:44:29+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "French presidential hopeful Édouard Philippe quizzed in embezzlement case",
-   "summary": "French investigators on Thursday questioned former prime minister Édouard Philippe, a candidate in next year's presidential election, in a case of alleged embezzlement of public funds. His lawyer welcomed the move, noting that magistrates had chosen not to place the ex-PM under formal investigation.",
-   "link": "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case",
-   "published": "2026-10-30T06:36:18+00:00"
   },
   {
    "feed": "aljazeera",
@@ -1944,16 +1836,6 @@
    "published": "2026-10-30T04:01:12+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Binance hit by $6.3 billion security breach in potential record crypto heist",
-   "summary": "Binance said on Thursday that a security breach had affected an estimated $6.3 billion in assets, potentially making it the biggest cryptocurrency heist on record. The world's largest crypto exchange said it had recovered or frozen about $3 billion, while analysts have pinned the blame for the hack on North Korea.",
-   "link": "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist",
-   "published": "2026-10-30T03:48:28+00:00"
-  },
-  {
    "feed": "bbc",
    "outlet": "BBC News",
    "section": "World",
@@ -2032,16 +1914,6 @@
    "summary": "The weedkiller Roundup has been accused of being carcinogenic to humans despite no warning on its label. Bayer is seeking to settle tens of thousands of further cases.",
    "link": "https://www.dw.com/en/bayer-wins-roundup-cancer-trial-after-supreme-court-ruling/a-79803301?maca=en-rss-en-all-1573-rdf",
    "published": "2026-10-30T02:40:00+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Netanyahu bloc leads but lacks majority, Israel's official results show",
-   "summary": "Israeli Prime Minister Benjamin Netanyahu's coalition won the most seats in the general election but fell eight short of a parliamentary majority, final results showed Friday. Arab party groupings emerged as potential kingmakers, while allegations of foreign interference threatened to complicate efforts to form a government.",
-   "link": "https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results",
-   "published": "2026-10-30T02:29:17+00:00"
   },
   {
    "feed": "bbc",
@@ -2162,16 +2034,6 @@
    "summary": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ George Newhouse: We must protect Jewish Australians without casting suspicion on legitimate concern for Palestinians Get our breaking news email , free app or daily news podcast The federal government’s antisemitism envoy has proposed an “external…",
    "link": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
    "published": "2026-10-30T00:37:36+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
-   "summary": "North Korea has tested attack drones, cruise missiles and rocket launchers at a weapons demonstration, state media reported Friday, as Kim Jong Un called for faster development of military drone and artificial intelligence technology. The tests follow a series of weapons trials and rising tensions with South Korea.",
-   "link": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
-   "published": "2026-10-30T00:22:55+00:00"
   },
   {
    "feed": "bbc",
@@ -2414,16 +2276,6 @@
    "published": "2026-10-29T21:51:29+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Tunisians drawn into Russia's war in Ukraine",
-   "summary": "In tonight's edition, concern is growing in Tunisia as the families of several men who travelled to Russia for work or study are still searching for an answer about the fate of their loved ones forcibly conscripted to the war in Ukraine. Also, a year after Tanzania's controversial election, the fear hasn't faded. And Dakar is ready to make history, as the first Olympic event ever held on African…",
-   "link": "https://www.france24.com/en/tunisians-drawn-into-russia-s-war-in-ukraine",
-   "published": "2026-10-29T21:48:35+00:00"
-  },
-  {
    "feed": "ars",
    "outlet": "Ars Technica",
    "section": "Tech",
@@ -2432,16 +2284,6 @@
    "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
    "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
    "published": "2026-10-29T21:47:57+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Across Africa: Real estate scams growing in Ivory Coast",
-   "summary": "This week in Across Africa: in Ivory Coast, severe housing shortage has fueled demand for land, creating opportunities for fraudsters selling fake properties and non-existent plots. Also, Kenya’s women are changing the game. From the track to the boxing ring, female athletes are delivering some of the country’s biggest sporting successes. And Addis Ababa pushes ahead with ambitious plans to…",
-   "link": "https://www.france24.com/en/across-africa-real-estate-scams-growing-in-ivory-coast",
-   "published": "2026-10-29T21:43:05+00:00"
   },
   {
    "feed": "hn",
@@ -2512,16 +2354,6 @@
    "summary": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be \"irreversible, organised, pacific\".",
    "link": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-29T21:05:03+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "ECB President Lagarde steps down in order to speak out",
-   "summary": "European Central Bank President Christine Lagarde will step down from her post several months early, in order to have more \"freedom to engage on matters that are not monetary policy.\" The comments will fuel speculation about her future plans, ahead of a presidential election in her native France. The resignation also sparks a succession race, as Europe faces a turbulent fiscal future. Also in the…",
-   "link": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
-   "published": "2026-10-29T21:01:37+00:00"
   },
   {
    "feed": "techcrunch",
@@ -2644,16 +2476,6 @@
    "published": "2026-10-29T20:21:54+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Patrick Stewart, star of 'Star Trek' and 'X men', dies at 86",
-   "summary": "The British actor Patrick Stewart has died at 86, a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in the beloved sci-fi TV show \"Star Trek\" in the 80s and later in the \"X-Men\" franchise.",
-   "link": "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
-   "published": "2026-10-29T20:21:52+00:00"
-  },
-  {
    "feed": "ars",
    "outlet": "Ars Technica",
    "section": "Tech",
@@ -2734,16 +2556,6 @@
    "published": "2026-10-29T20:07:00+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
-   "summary": "François Picard is pleased to welcome Dr Joseph Downing, Senior Lecturer in International Relations and Politics at Aston University. In modern France, the politics of insecurity increasingly extends beyond questions of crime and public order to encompass deeper struggles over national identity, disappearance of the political centre and erosion of democratic values. The emergence of far-right…",
-   "link": "https://www.france24.com/en/tv-shows/spotlight/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
-   "published": "2026-10-29T20:06:36+00:00"
-  },
-  {
    "feed": "bbc",
    "outlet": "BBC News",
    "section": "World",
@@ -2772,16 +2584,6 @@
    "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
    "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
    "published": "2026-10-29T20:03:26+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
-   "summary": "François Picard is pleased to welcome Dr Joseph Downing, Senior Lecturer in International Relations and Politics at Aston University. In modern France, the politics of insecurity increasingly extends beyond questions of crime and public order to encompass deeper struggles over national identity, disappearance of the political centre and erosion of democratic values. The emergence of far-right…",
-   "link": "https://www.france24.com/en/video/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
-   "published": "2026-10-29T20:02:03+00:00"
   },
   {
    "feed": "techcrunch",
@@ -2832,16 +2634,6 @@
    "summary": "US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s response to a personal letter from the US vice-president, JD Vance, offering to restart diplomacy. The letter, written after predominantly Qatari mediation, was sent…",
    "link": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
    "published": "2026-10-29T19:32:24+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Michigan's El-Sayed targeted by Republicans in midterms race: Will the religion card work?",
-   "summary": "What in the name of political free speech is off limits? Can you say whatever you want on the campaign trail, no matter how false or racist it is?",
-   "link": "https://www.france24.com/en/tv-shows/the-debate/20261029-michigan-s-el-sayed-targeted-by-republicans-in-midterms-race-will-the-religion-card-work",
-   "published": "2026-10-29T19:31:10+00:00"
   },
   {
    "feed": "hn",
@@ -2934,16 +2726,6 @@
    "published": "2026-10-29T18:50:00+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "French shooting suspect deliberately targeted Muslims, Africans",
-   "summary": "A man suspected of a gun attack in the Paris suburbs last week, killing one person and wounding seven including a child, has admitted to \"targeting individuals who appeared to be Muslim, African, or North African,\" prosecutors said on Thursday. The attack came amid an increasingly tense political climate, with just six months to go before next spring's presidential election.",
-   "link": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
-   "published": "2026-10-29T18:45:57+00:00"
-  },
-  {
    "feed": "verge",
    "outlet": "The Verge",
    "section": "Tech",
@@ -2994,16 +2776,6 @@
    "published": "2026-10-29T18:18:36+00:00"
   },
   {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
-   "summary": "As France continues to pick up the pieces after riots and looting broke out on the fringes of nationwide peaceful demonstrations on October 17, the government is pushing forward a bill that would make protesters have to pay up to €10,000 in reparations for damage caused during public unrest – even if they were not directly responsible for the vandalism.",
-   "link": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
-   "published": "2026-10-29T18:15:38+00:00"
-  },
-  {
    "feed": "guardian",
    "outlet": "The Guardian",
    "section": "World",
@@ -3012,16 +2784,6 @@
    "summary": "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families. The chief executive, John Lee, and seven…",
    "link": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
    "published": "2026-10-29T18:14:21+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
-   "summary": "Erin Ogunkeye welcomes Lt. General (ret.) Ben Hodges, former commander of US Army Europe and NATO Allied Land Command. The dismissal of senior military officers without public explanation raises fundamental questions about institutional trust and the relationship between civilian authority and military leadership. For General Hodges, the reported firing of Lt. General Brett Sylvia reflects a…",
-   "link": "https://www.france24.com/en/lt-gen-ben-hodges-accuses-hegseth-of-getting-rid-of-people-who-may-have-the-courage-to-push-back",
-   "published": "2026-10-29T18:09:28+00:00"
   },
   {
    "feed": "euronews",
@@ -3122,16 +2884,6 @@
    "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
    "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
    "published": "2026-10-29T17:21:33+00:00"
-  },
-  {
-   "feed": "france24",
-   "outlet": "France 24",
-   "section": "World",
-   "lang": "en",
-   "title": "'An absurdity' to blame human error: Spain's deadly train crash 'should never' have happened",
-   "summary": "Following Spain's deadly high-speed train crash, Delano D'Souza is joined by Francisco Badea, Director of FEM Expert Engineering, Railway Structural & PRM Certification Expert. Batea challenges explanations that reduce railway disasters to isolated human mistakes. “It is basically an absurdity to say that it depended on one person and one human mistake,” he argues, emphasizing that modern railway…",
-   "link": "https://www.france24.com/en/an-absurdity-to-blame-human-error-spain-s-deadly-train-crash-should-never-have-happened",
-   "published": "2026-10-29T17:15:50+00:00"
   },
   {
    "feed": "nyt",
@@ -3594,16 +3346,6 @@
    "published": "2026-10-29T13:19:38+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
-   "summary": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder's underlying mechanisms and potentially lead to earlier detection and new treatments.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-   "published": "2026-10-29T13:14:52+00:00"
-  },
-  {
    "feed": "information",
    "outlet": "Information",
    "section": "Denmark",
@@ -3612,16 +3354,6 @@
    "summary": "»Vi vil fremadrettet opfordre forfattere til at oplyse os om, hvis AI har bidraget til ideer, plot eller formuleringer,« siger forlagschef for Skønlitteratur Simon Pasternak",
    "link": "https://www.information.dk/kultur/2026/10/gyldendals-skoenlitteraere-redaktion-bruge-ai-redaktionelle-proces",
    "published": "2026-10-29T13:11:33+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Six popular sugar substitutes linked to faster brain aging",
-   "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns about the long-term brain health effects of common sugar substitutes, although causation was not…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
-   "published": "2026-10-29T13:04:04+00:00"
   },
   {
    "feed": "ars",
@@ -3642,26 +3374,6 @@
    "summary": "The Volkswagen Group has filed its worst quarterly performance since the height of the \"Dieselgate\" scandal in 2015. Share prices climbed in response, however, perhaps because the bad news was so well signposted.",
    "link": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796?maca=en-rss-en-all-1573-rdf",
    "published": "2026-10-29T12:54:00+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
-   "summary": "A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in northern Israel alongside ancient stone tools, the tooth belonged to a straight-tusked elephant, one of the largest land mammals of the Ice Age.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
-   "published": "2026-10-29T12:38:53+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
-   "summary": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves produced by exploding stars.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
-   "published": "2026-10-29T12:26:25+00:00"
   },
   {
    "feed": "hn",
@@ -3692,16 +3404,6 @@
    "summary": "Karl Bushby has walked 31,000 miles, crossing some of the world’s harshest landscapes. He plans to reach his mother’s house in England next week.",
    "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
    "published": "2026-10-29T12:12:48+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Einstein's equations may explain the universe without dark energy",
-   "summary": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe could accelerate naturally under Einstein's original theory of gravity. The findings also raise…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-   "published": "2026-10-29T12:07:58+00:00"
   },
   {
    "feed": "dw",
@@ -3752,16 +3454,6 @@
    "summary": "",
    "link": "https://www.dr.dk/nyheder/seneste/ny-aftale-almen-praksis-er-paa-plads-tager-hensyn-til-tidskraevende-patienter",
    "published": "2026-10-29T11:31:29+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
-   "summary": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with longer exposure to bright light linked to even greater reductions. Remarkably, getting less than 42 minutes of bright daylight daily was a stronger predictor of…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
-   "published": "2026-10-29T11:30:32+00:00"
   },
   {
    "feed": "bbc",
@@ -3934,16 +3626,6 @@
    "published": "2026-10-29T08:14:11+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "128,000-year-old ice in Tibet could rewrite climate history",
-   "summary": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into the last ice age and could reshape our understanding of how glaciers survive dramatic changes in global climate.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
-   "published": "2026-10-29T08:10:47+00:00"
-  },
-  {
    "feed": "guardian",
    "outlet": "The Guardian",
    "section": "World",
@@ -4014,36 +3696,6 @@
    "published": "2026-10-29T06:00:06+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Your blood pressure could be dangerous even when your numbers look normal",
-   "summary": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
-   "published": "2026-10-29T03:54:37+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Scientists just broke a textbook rule of physics",
-   "summary": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
-   "published": "2026-10-29T03:39:27+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Meteors don't just burn up. What really happens is far more violent",
-   "summary": "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The discovery could help explain why meteorites scatter across the ground and how dangerous asteroids explode in Earth's atmosphere.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
-   "published": "2026-10-29T03:06:41+00:00"
-  },
-  {
    "feed": "bbc",
    "outlet": "BBC News",
    "section": "World",
@@ -4052,16 +3704,6 @@
    "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
    "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-29T01:30:43+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
-   "summary": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient volcanic eruptions may have helped transform Earth's atmosphere billions of years ago, with implications for understanding life on other planets.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
-   "published": "2026-10-29T01:13:05+00:00"
   },
   {
    "feed": "information",
@@ -4334,26 +3976,6 @@
    "published": "2026-10-28T13:05:57+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Scientists discover a secret glow in toxic fire salamanders",
-   "summary": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in their skin and their toxic secretions, which can continue glowing for more than 24 hours after being released.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
-   "published": "2026-10-28T12:11:52+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Scientists discover a hidden 100-million-year-old volcanic system",
-   "summary": "Scientists have uncovered a long-lost volcanic system in Iran that dates back roughly 100 million years, revealing a hidden chapter in Earth's tectonic history. The discovery sheds new light on the disappearance of an ancient ocean and the powerful geological forces that reshaped the Middle East.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
-   "published": "2026-10-28T12:00:17+00:00"
-  },
-  {
    "feed": "npr",
    "outlet": "NPR",
    "section": "World",
@@ -4374,16 +3996,6 @@
    "published": "2026-10-28T11:11:11+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-   "summary": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the Northern Hemisphere, they cooled Atlantic Ocean waters that eventually traveled south toward Antarctica. This cooling may have disrupted Southern Ocean circulation, allowing the ocean…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
-   "published": "2026-10-28T11:08:25+00:00"
-  },
-  {
    "feed": "dw",
    "outlet": "Deutsche Welle",
    "section": "World",
@@ -4402,16 +4014,6 @@
    "summary": "'Turbo chickens', chickens raised with as little as three hours a day of darkness and fattened to the extent that they can no longer walk, should be banned, according to Denmark's Minister for Nature and Animal Welfare, Christian Rabjerg Madsen.",
    "link": "https://www.thelocal.dk/20261028/broad-majority-in-danish-parliament-in-favour-of-turbo-chicken-ban",
    "published": "2026-10-28T10:40:48+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-   "summary": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for future lunar exploration.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-   "published": "2026-10-28T10:29:36+00:00"
   },
   {
    "feed": "dw",
@@ -4474,36 +4076,6 @@
    "published": "2026-10-28T07:32:09+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "The autistic brain processes faces differently than scientists thought",
-   "summary": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become more specialized as neurotypical children grow older, but show much less change in autistic children. The discovery could help explain why some autistic people…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
-   "published": "2026-10-28T03:02:38+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
-   "summary": "",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
-   "published": "2026-10-28T01:40:35+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Scientists discover the immune system’s hidden sense of touch",
-   "summary": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity. Researchers found that T cells can actually sense how stiff their surrounding tissues are, using these physical signals to help determine whether they develop into long-lasting memory cells that protect against future infections.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
-   "published": "2026-10-28T00:54:54+00:00"
-  },
-  {
    "feed": "thelocal",
    "outlet": "The Local",
    "section": "Denmark",
@@ -4534,26 +4106,6 @@
    "published": "2026-10-27T13:01:02+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Common drugs may help dangerous viruses spread through the body",
-   "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and other infections. By suppressing genes that normally fight viruses, these…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-   "published": "2026-10-27T10:46:21+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
-   "summary": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, possibly because of mineral clouds that act like a giant sunscreen. The planet may also be continually…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-   "published": "2026-10-27T10:20:52+00:00"
-  },
-  {
    "feed": "dw",
    "outlet": "Deutsche Welle",
    "section": "World",
@@ -4564,16 +4116,6 @@
    "published": "2026-10-27T09:49:00+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
-   "summary": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreates the universe’s first 2 billion years, showing how dark matter, gas, and radiation interacted to give rise to the earliest stars, galaxies, and black holes.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
-   "published": "2026-10-27T09:48:35+00:00"
-  },
-  {
    "feed": "guardian",
    "outlet": "The Guardian",
    "section": "World",
@@ -4582,56 +4124,6 @@
    "summary": "Rubio’s decision not to meet Narendra Modi last week was seen by some as a snub – but by focusing on business leaders and oil, the secretary of state made American priorities clear. Plus: the artist bringing a female perspective to men’s clothing • Don’t get This is India delivered to your inbox? Sign up here When the US secretary of state, Marco Rubio, visited India for the second time this…",
    "link": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
    "published": "2026-10-27T09:21:33+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Do spiders dream? Scientists just found a surprising clue",
-   "summary": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumping spider Portia fimbriata, a remarkably clever hunter known for its sophisticated strategies. By recording the spiders over several days and nights, they found clear evidence of…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
-   "published": "2026-10-27T04:53:11+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
-   "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that these cells remain present even in people over 80, but their behavior differs dramatically between those who develop dementia and those who remain cognitively…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
-   "published": "2026-10-27T04:02:26+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
-   "summary": "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and identify new strategies for targeting them, including a natural compound found in tomatoes. In aging mice, experimental treatments reduced inflammation and improved physical and brain…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
-   "published": "2026-10-27T02:32:38+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "1.9-million-year-old discovery rewrites the story of human evolution",
-   "summary": "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the ‘Ubeidiya site is roughly as old as the famous Dmanisi site in Georgia, placing both among the earliest known human settlements outside Africa.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
-   "published": "2026-10-27T01:35:08+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
-   "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way for more precise diagnoses and targeted treatments.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
-   "published": "2026-10-26T23:57:03+00:00"
   },
   {
    "feed": "dw",
@@ -4674,56 +4166,6 @@
    "published": "2026-10-26T13:09:00+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Exercise doesn't just strengthen your heart. It rewires it",
-   "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
-   "published": "2026-10-26T11:35:53+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
-   "summary": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 709 BCE and obtain more accurate measurements of how fast Earth was spinning at the time.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
-   "published": "2026-10-26T11:06:08+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
-   "summary": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after the dinosaurs went extinct, raising intriguing questions about how that ancient catastrophe may have shaped its evolution.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
-   "published": "2026-10-26T10:50:11+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Tiny magnetic vortices could help computers work more like your brain",
-   "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
-   "published": "2026-10-26T10:06:16+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Archaeologists may have just found the world's oldest shipwreck",
-   "summary": "A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its surviving pottery cargo reveals clues about an ancient trading network that may have connected distant Mediterranean civilizations. Researchers believe the ship may have crashed against rocks during…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
-   "published": "2026-10-26T09:51:15+00:00"
-  },
-  {
    "feed": "dw",
    "outlet": "Deutsche Welle",
    "section": "World",
@@ -4732,16 +4174,6 @@
    "summary": "Some studies have linked disgust sensitivity to socially conservative attitudes. But ahead of the US midterm elections, does disgust shape our politics, or do our beliefs shape what we find disgusting?",
    "link": "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf",
    "published": "2026-10-26T08:13:00+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Three giant black holes discovered in a galaxy from the dawn of time",
-   "summary": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lurks farther away. One weighs an astonishing 80 million suns, and another is growing faster than…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
-   "published": "2026-10-25T12:07:01+00:00"
   },
   {
    "feed": "dw",
@@ -4754,36 +4186,6 @@
    "published": "2026-10-25T12:05:00+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "New evidence suggests spinosaurus spent most of its life underwater",
-   "summary": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their findings suggest that Spinosaurus spent most of its life underwater, while some ancient marine…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
-   "published": "2026-10-25T11:52:54+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-   "summary": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potential new way to fight the deadly disease.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
-   "published": "2026-10-25T11:00:25+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-   "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The discovery suggests that genetics could help explain why some people benefit while others do not.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-   "published": "2026-10-25T10:21:48+00:00"
-  },
-  {
    "feed": "dw",
    "outlet": "Deutsche Welle",
    "section": "World",
@@ -4794,26 +4196,6 @@
    "published": "2026-10-25T09:17:00+00:00"
   },
   {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "This mysterious mushroom makes people see hundreds of tiny humans",
-   "summary": "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible for these extraordinary hallucinations in China and the Philippines.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
-   "published": "2026-10-25T06:36:10+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Astronomers may have discovered the first moon beyond our Solar System",
-   "summary": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement challenges traditional definitions of planets and moons, leaving scientists unsure what to call it.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
-   "published": "2026-10-25T03:13:05+00:00"
-  },
-  {
    "feed": "guardian",
    "outlet": "The Guardian",
    "section": "World",
@@ -4822,36 +4204,6 @@
    "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has said after the first call with his 81-year-old mother in more than five years. “She still sounds certainly all there…",
    "link": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
    "published": "2026-10-25T02:00:49+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
-   "summary": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a placebo overall, patients with more severe hypertension showed promising reductions in blood…",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
-   "published": "2026-10-24T13:15:00+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "A hidden bias in human language challenges 70 years of science",
-   "summary": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even more surprisingly, human language shows a powerful hidden preference for safety, suggesting that our words may reflect ancient survival instincts.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
-   "published": "2026-10-24T13:01:22+00:00"
-  },
-  {
-   "feed": "sciencedaily",
-   "outlet": "ScienceDaily",
-   "section": "Science",
-   "lang": "en",
-   "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-   "summary": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-   "published": "2026-10-24T12:50:06+00:00"
   }
  ]
 }
