@@ -102,6 +102,37 @@ def parse_feed(xml_bytes):
     return items
 
 
+ITEM_RE = re.compile(r"<(item|entry)\b[^>]*>(.*?)</\1>", re.S | re.I)
+
+
+def _field(block, *names):
+    for n in names:
+        m = re.search(r"<%s\b[^>]*>(.*?)</%s>" % (n, n), block, re.S | re.I)
+        if m:
+            v = m.group(1).strip()
+            c = re.match(r"<!\[CDATA\[(.*?)\]\]>$", v, re.S)
+            return c.group(1) if c else v
+    return ""
+
+
+def parse_lenient(raw):
+    """Regex fallback for feeds whose XML is not well-formed."""
+    text = raw.decode("utf-8", "replace")
+    items = []
+    for _, block in ITEM_RE.findall(text):
+        link = _field(block, "link").strip()
+        if not link:
+            m = re.search(r"<link\b[^>]*href=[\"']([^\"']+)", block, re.I)
+            link = m.group(1) if m else _field(block, "guid").strip()
+        items.append({
+            "title": clean(_field(block, "title")),
+            "summary": clean(_field(block, "description", "summary", "content:encoded")),
+            "link": link,
+            "date": parse_date(_field(block, "pubDate", "published", "updated", "dc:date")),
+        })
+    return items
+
+
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
     with urllib.request.urlopen(req, timeout=25) as r:
@@ -126,10 +157,18 @@ def main():
     status = {}
     for f in feeds:
         try:
-            parsed = parse_feed(fetch(f["url"]))
+            raw = fetch(f["url"])
         except Exception as exc:  # one broken feed must not stop the run
             status[f["id"]] = {"ok": False, "error": f"{type(exc).__name__}: {exc}"[:200]}
             continue
+        try:
+            parsed = parse_feed(raw)
+        except ET.ParseError:
+            parsed = parse_lenient(raw)
+            if not parsed:
+                head = clean(raw[:200].decode("utf-8", "replace"))[:100]
+                status[f["id"]] = {"ok": False, "error": f"unparseable; starts: {head}"}
+                continue
         n = 0
         for it in parsed[:MAX_PER_FEED]:
             if not it["link"] or not it["title"]:
@@ -139,6 +178,12 @@ def main():
                 continue
             title = it["title"]
             summary = it["summary"]
+            if summary.startswith("Article URL:"):  # hnrss boilerplate
+                pts = re.search(r"Points:\s*(\d+)", summary)
+                cmt = re.search(r"# Comments:\s*(\d+)", summary)
+                summary = ""
+                if pts:
+                    summary = f"{pts.group(1)} points" + (f", {cmt.group(1)} comments" if cmt else "") + " on Hacker News."
             if summary.lower().startswith(title.lower()[:40]):
                 summary = ""  # teaser that only repeats the headline
             merged[it["link"]] = {
