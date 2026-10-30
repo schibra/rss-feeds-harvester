@@ -39,7 +39,9 @@ jobs:
           python-version: "3.12"
       - name: Fetch feeds
         if: steps.gate.outputs.run == 'true'
-        run: python harvest.py
+        run: |
+          python harvest.py
+          python front.py wire
       - name: Commit if changed
         if: steps.gate.outputs.run == 'true'
         run: |
