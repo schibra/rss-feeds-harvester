@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T11:48:46+00:00",
+ "generated": "2026-10-30T11:53:57+00:00",
  "status": {
   "politiken": {
    "ok": true,
@@ -116,6 +116,50 @@
  },
  "items": [
   {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "How the Binance hack happened and who was behind it?",
+   "summary": "Investigators say several factors may have been involved, including a compromised DevOps engineer’s laptop, with signs pointing to North Korean actors being responsible.",
+   "link": "https://www.euronews.com/2026/10/30/how-the-binance-hack-happened-and-who-was-behind-it",
+   "image": "",
+   "published": "2026-10-30T11:50:49+00:00"
+  },
+  {
+   "feed": "guardian_sport",
+   "outlet": "The Guardian",
+   "section": "Sports",
+   "lang": "en",
+   "title": "South Africa v Australia: third men’s cricket Test, day four – live",
+   "summary": "Updates from the series decider at Newlands. Any thoughts? Get in touch with an email 52nd over: South Africa 151-4 (Breetzke 23, Rickelton 15) There they go! Rickelton gets a ball from Lyon that is not exactly short, but the batter gets back and leans away to make the length and the width he wants, cuts behind point for four. One good partnership and this could very much be South Africa’s day.…",
+   "link": "https://www.theguardian.com/sport/live/2026/oct/30/south-africa-v-australia-third-test-day-four-cricket-newlands-cape-town-live-updates",
+   "image": "https://i.guim.co.uk/img/media/d93c714830cd792d4c5b9a4068dc4be7d8852fe0/433_0_2730_2184/master/2730.jpg?width=700&quality=85&auto=format&fit=max&s=788bae67bae99d007b755825b698e81c",
+   "published": "2026-10-30T11:49:06+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "‘Removing Netanyahu is the most important thing’, Mustafa Barghouti tells Euronews",
+   "summary": "Changing the government in Israel is the top priority for Palestinians, according to one of the West Bank’s most prominent political figures. Arab parties hold the balance of power after Israel’s election and would be key to forming a new government.",
+   "link": "https://www.euronews.com/2026/10/30/removing-netanyahu-is-the-most-important-thing-mustafa-barghouti-tells-euronews",
+   "image": "",
+   "published": "2026-10-30T11:49:06+00:00"
+  },
+  {
+   "feed": "guardian_sport",
+   "outlet": "The Guardian",
+   "section": "Sports",
+   "lang": "en",
+   "title": "Afcon reverts to being held every two years, Premier League news, Carabao Cup and WCL reaction – football live",
+   "summary": "⚽ News and previews heading into the weekend’s action. ⚽ Premier League: 10 things to look out for | Mail Andy. Dejan Kulusevski returned to competitive action for Tottenham after a 17-month injury layoff to play the last few minutes in the club’s 3-1 home victory against Coventry last week and followed that up with another substitute appearance in Saturday’s win at Chelsea. Kulusevski had…",
+   "link": "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
+   "image": "https://i.guim.co.uk/img/media/854c2b589ef2b7b52aee0fafb6240329356eeabf/431_0_4583_3665/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=9676c656255329749e42d4fb5dd5795c",
+   "published": "2026-10-30T11:46:44+00:00"
+  },
+  {
    "feed": "dr",
    "outlet": "DR",
    "section": "Denmark",
@@ -194,6 +238,17 @@
   },
   {
    "feed": "wallnot",
+   "outlet": "EB",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Efterforsker Epstein- ophold på slot",
+   "summary": "",
+   "link": "https://ekstrabladet.dk/underholdning/kongelige/udenlandskekongelige/skotsk-politi-efterforsker-epsteins-ophold-paa-slottet-balmoral/11337943",
+   "image": "",
+   "published": "2026-10-30T11:37:13+00:00"
+  },
+  {
+   "feed": "wallnot",
    "outlet": "Kristeligt Dagblad",
    "section": "Denmark",
    "lang": "da",
@@ -259,17 +314,6 @@
    "published": "2026-10-30T11:33:34+00:00"
   },
   {
-   "feed": "guardian_sport",
-   "outlet": "The Guardian",
-   "section": "Sports",
-   "lang": "en",
-   "title": "South Africa v Australia: third men’s cricket Test, day four – live",
-   "summary": "Updates from the series decider at Newlands Any thoughts? Get in touch with an email 52nd over: South Africa 151-4 (Breetzke 23, Rickelton 15) There they go! Rickelton gets a ball from Lyon that is not exactly short, but the batter gets back and leans away to make the length and the width he wants, cuts behind point for four. One good partnership and this could very much be South Africa’s day.…",
-   "link": "https://www.theguardian.com/sport/live/2026/oct/30/south-africa-v-australia-third-test-day-four-cricket-newlands-cape-town-live-updates",
-   "image": "https://i.guim.co.uk/img/media/d93c714830cd792d4c5b9a4068dc4be7d8852fe0/433_0_2730_2184/master/2730.jpg?width=700&quality=85&auto=format&fit=max&s=788bae67bae99d007b755825b698e81c",
-   "published": "2026-10-30T11:33:15+00:00"
-  },
-  {
    "feed": "wallnot",
    "outlet": "TV 2",
    "section": "Denmark",
@@ -330,21 +374,10 @@
    "section": "World",
    "lang": "en",
    "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
-   "summary": "69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missing Peunte begins by paying tribute to all affected by the incident. He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to clarify what exactly happened.” He says he still has confidence in the system.…",
+   "summary": "69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missing. Peunte begins by paying tribute to all affected by the incident. He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to clarify what exactly happened.” He says he still has confidence in the system.…",
    "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
    "image": "https://i.guim.co.uk/img/media/5db46eb38c6083f927b683f97dd5e7033a8a2ba7/1543_524_2950_2360/master/2950.jpg?width=700&quality=85&auto=format&fit=max&s=2f5f0080efc06549d60a3ef344641f85",
    "published": "2026-10-30T11:26:59+00:00"
-  },
-  {
-   "feed": "guardian_sport",
-   "outlet": "The Guardian",
-   "section": "Sports",
-   "lang": "en",
-   "title": "Afcon reverts to being held every two years, Premier League news, Carabao Cup and WCL reaction – football live",
-   "summary": "⚽ News and previews heading into the weekend’s action ⚽ Premier League: 10 things to look out for | Mail Andy Dejan Kulusevski returned to competitive action for Tottenham after a 17-month injury layoff to play the last few minutes in the club’s 3-1 home victory against Coventry last week and followed that up with another substitute appearance in Saturday’s win at Chelsea. Kulusevski had multiple…",
-   "link": "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
-   "image": "https://i.guim.co.uk/img/media/854c2b589ef2b7b52aee0fafb6240329356eeabf/431_0_4583_3665/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=9676c656255329749e42d4fb5dd5795c",
-   "published": "2026-10-30T11:26:16+00:00"
   },
   {
    "feed": "dw",
@@ -473,7 +506,7 @@
    "section": "World",
    "lang": "en",
    "title": "Foreign firms that win defence contracts will have to invest in UK under new policy – UK politics live",
-   "summary": "Wes Streeting says overseas suppliers of defence contracts will need to spend the equivalent amount in the UK John Swinney , the Scottish first minister, and Rhun ap Iorwerth , the Welsh first minister, arrived together for the national economic council meeting in Glasgow. The SNP and Plaid Cymru are sister parties, and recently Swinney, ap Iorwerth and the Sinn Féin leaders Mary Lou McDonald and…",
+   "summary": "Wes Streeting says overseas suppliers of defence contracts will need to spend the equivalent amount in the UK. John Swinney , the Scottish first minister, and Rhun ap Iorwerth , the Welsh first minister, arrived together for the national economic council meeting in Glasgow. The SNP and Plaid Cymru are sister parties, and recently Swinney, ap Iorwerth and the Sinn Féin leaders Mary Lou McDonald…",
    "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
    "image": "https://i.guim.co.uk/img/media/76e7b06aaa1dba51952f3de74144f02accf20a81/1289_0_3839_3072/master/3839.jpg?width=700&quality=85&auto=format&fit=max&s=4bf81ea1326dd481c69bd5845466f4cb",
    "published": "2026-10-30T11:21:38+00:00"
@@ -556,12 +589,23 @@
    "published": "2026-10-30T11:17:27+00:00"
   },
   {
+   "feed": "hn",
+   "outlet": "Hacker News",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+   "summary": "5 points, 2 comments on Hacker News.",
+   "link": "https://www.youtube.com/watch?v=MENoB3Rex28",
+   "image": "",
+   "published": "2026-10-30T11:16:15+00:00"
+  },
+  {
    "feed": "guardian_business",
    "outlet": "The Guardian",
    "section": "Markets",
    "lang": "en",
    "title": "UK financial watchdogs monitoring fallout from $6.3bn Binance heist, as ‘elite North Korean hackers’ blamed – business live",
-   "summary": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist Most major cryptocurrencies have fallen in value since news of the Binance theft broke, Coinmarketcap data shows . That includes: Bitcoin : -2.35% over the last 24 hours, to $77,940…",
+   "summary": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist. Most major cryptocurrencies have fallen in value since news of the Binance theft broke, Coinmarketcap data shows . That includes: Bitcoin : -2.35% over the last 24 hours, to $77,940.…",
    "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
    "image": "https://i.guim.co.uk/img/media/c88d8154f76fef59b24c916cab7348652d9f113c/481_0_4070_3256/master/4070.jpg?width=700&quality=85&auto=format&fit=max&s=9222d9e55df20fc9a26a16b4bdc9da5c",
    "published": "2026-10-30T11:15:15+00:00"
@@ -792,7 +836,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Backdoors in official Claude Code extensions",
-   "summary": "51 points, 6 comments on Hacker News.",
+   "summary": "96 points, 15 comments on Hacker News.",
    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "image": "",
    "published": "2026-10-30T11:05:53+00:00"
@@ -803,7 +847,7 @@
    "section": "World",
    "lang": "en",
    "title": "Beijing Queer film festival cancelled after harassment from authorities",
-   "summary": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities. Beijing Queer film festival, which was due to begin on Friday in China’s capital, is one of the country’s oldest independent film…",
+   "summary": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts. Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities. Beijing Queer film festival, which was due to begin on Friday in China’s capital, is one of the country’s oldest independent film…",
    "link": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
    "image": "https://i.guim.co.uk/img/media/14a4cd9301124343d52ca3d230e01866c02481a9/555_0_5549_4439/master/5549.jpg?width=700&quality=85&auto=format&fit=max&s=f0012c78ce3b1f94a6a37a039831a72f",
    "published": "2026-10-30T11:04:12+00:00"
@@ -902,7 +946,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "BP profits hit 18-year high as Iran war drives up oil refining margins",
-   "summary": "Third-quarter underlying ​replacement ⁠cost profit rises to $8.46bn, angering climate campaigners BP’s profits have hit their highest level in almost two decades, as the war in the Middle East drove up oil and gas prices and led to “significantly higher” trading. The energy company hailed a “banner quarter” on Friday, with its underlying ​replacement ⁠cost profit – a key measure of its income –…",
+   "summary": "Third-quarter underlying ​replacement ⁠cost profit rises to $8.46bn, angering climate campaigners. BP’s profits have hit their highest level in almost two decades, as the war in the Middle East drove up oil and gas prices and led to “significantly higher” trading. The energy company hailed a “banner quarter” on Friday, with its underlying ​replacement ⁠cost profit – a key measure of its income –…",
    "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
    "image": "https://i.guim.co.uk/img/media/d524eb35bfb6cb2a0181248f4fae344aebcfd872/4_0_2723_2180/master/2723.jpg?width=700&quality=85&auto=format&fit=max&s=7910e484103060c3720e829efed8c8c4",
    "published": "2026-10-30T10:57:55+00:00"
@@ -935,7 +979,7 @@
    "section": "World",
    "lang": "en",
    "title": "‘Swift justice’: Student List supporters focus on cleaning up Serbia’s rotten institutions",
-   "summary": "After improbable election victory, the unconventional grassroots movement says it will prioritise dismissal of corrupt officials In Belgrade’s Pioneers Park, just across from the national assembly, a small crowd craned their necks to listen. One woman held aloft a placard reading “Love prevailed for the people and Serbia”. With a bouquet of media microphones in front of them, members of the…",
+   "summary": "After improbable election victory, the unconventional grassroots movement says it will prioritise dismissal of corrupt officials. In Belgrade’s Pioneers Park, just across from the national assembly, a small crowd craned their necks to listen. One woman held aloft a placard reading “Love prevailed for the people and Serbia”. With a bouquet of media microphones in front of them, members of the…",
    "link": "https://www.theguardian.com/world/2026/oct/30/student-list-focus-on-cleaning-up-serbia-corruption",
    "image": "https://i.guim.co.uk/img/media/cab45b0e73e02e69285a7ca9aec3ea965e99fc63/392_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=55141565f1400e7b79365b7456640e0a",
    "published": "2026-10-30T10:54:17+00:00"
@@ -1012,7 +1056,7 @@
    "section": "World",
    "lang": "en",
    "title": "Police Scotland says it has received information on Jeffrey Epstein visit to Balmoral with Andrew",
-   "summary": "Force says ‘inquiries ongoing’ into visit to royal estate in Scotland, when Ghislaine Maxwell was also present Detectives are investigating time spent by Andrew Mountbatten-Windsor, Jeffrey Epstein and Ghislaine Maxwell at the king’s private estate in Scotland. Police Scotland said it had received “information” and an investigation was at a “very early stage” into the time the disgraced royal…",
+   "summary": "Force says ‘inquiries ongoing’ into visit to royal estate in Scotland, when Ghislaine Maxwell was also present. Detectives are investigating time spent by Andrew Mountbatten-Windsor, Jeffrey Epstein and Ghislaine Maxwell at the king’s private estate in Scotland. Police Scotland said it had received “information” and an investigation was at a “very early stage” into the time the disgraced royal…",
    "link": "https://www.theguardian.com/uk-news/2026/oct/30/police-jeffrey-epstein-balmoral-former-prince-andrew",
    "image": "https://i.guim.co.uk/img/media/6d50ad851b1ef1144802e78fb87afa9c78204033/0_0_3822_3057/master/3822.jpg?width=700&quality=85&auto=format&fit=max&s=80fe5de76e813acfb5e667ee6656140d",
    "published": "2026-10-30T10:50:20+00:00"
@@ -1256,7 +1300,7 @@
    "title": "63 børn fylder 18 år: De risikerer at komme bag i køen til statsborgerskab",
    "summary": "Egentlig stod de til at få statsborgerskab med deres forældre. Men forsinkelser af omstridt lovforslag betyder, at 63 af dem når at fylde 18 år, og derfor skal de måske bag i køen på over 16.000 ansøgere.",
    "link": "https://politiken.dk/danmark/politik/art11040250/63-b%C3%B8rn-fylder-18-%C3%A5r-De-risikerer-at-komme-bag-i-k%C3%B8en-til-statsborgerskab",
-   "image": "https://politiken.dk/incoming/img11041279.d7z4gu/ORIGINALS/original_960/Hasteforesp%C3%B8rgsel",
+   "image": "https://politiken.dk/incoming/img11041279.mow06l/ORIGINALS/original_960/Hasteforesp%C3%B8rgsel",
    "published": "2026-10-30T10:26:36+00:00"
   },
   {
@@ -1309,7 +1353,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Anthropic hacked to deliver remote access trojan",
-   "summary": "53 points, 9 comments on Hacker News.",
+   "summary": "86 points, 17 comments on Hacker News.",
    "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
    "image": "",
    "published": "2026-10-30T10:22:51+00:00"
@@ -1528,7 +1572,7 @@
    "section": "World",
    "lang": "en",
    "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-   "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms. During a particularly intense thunderstorm in Antalya, a coastal city in the…",
+   "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected. Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms. During a particularly intense thunderstorm in Antalya, a coastal city in the…",
    "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
    "image": "https://i.guim.co.uk/img/media/e1f1bd4154ea2df2adc895c6066b1f8bd5aa527c/177_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=65f16c880073004e854ecaf1373ee37d",
    "published": "2026-10-30T10:07:16+00:00"
@@ -1582,7 +1626,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Britain’s blighted high streets will improve by next election, says Rayner",
-   "summary": "Housing secretary says Labour wants to reverse fortunes of towns plagued by boarded-up shops and rogue businesses Angela Rayner has said voters will begin to see a difference in their high street before the next general election as Labour prioritises investment in struggling local communities. The housing secretary said the government had made it a top priority before the country goes to the…",
+   "summary": "Housing secretary says Labour wants to reverse fortunes of towns plagued by boarded-up shops and rogue businesses. Angela Rayner has said voters will begin to see a difference in their high street before the next general election as Labour prioritises investment in struggling local communities. The housing secretary said the government had made it a top priority before the country goes to the…",
    "link": "https://www.theguardian.com/uk-news/2026/oct/30/britain-blighted-high-streets-angela-rayner-labour",
    "image": "https://i.guim.co.uk/img/media/af2b26a5427e9606a8598af21175ace4bf240f00/271_509_3550_2840/master/3550.jpg?width=700&quality=85&auto=format&fit=max&s=d4ed58b510fef34909d155e2abb975f7",
    "published": "2026-10-30T10:00:51+00:00"
@@ -1593,7 +1637,7 @@
    "section": "World",
    "lang": "en",
    "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
-   "summary": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defence Britain is unlikely to hit its targets on green heating after the cuts announced by John Healey this week, experts have warned, as critics of Ed Miliband claim the former energy secretary’s green agenda is being dismantled. The chancellor unveiled more than £3bn worth of cuts to the energy…",
+   "summary": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defence. Britain is unlikely to hit its targets on green heating after the cuts announced by John Healey this week, experts have warned, as critics of Ed Miliband claim the former energy secretary’s green agenda is being dismantled. The chancellor unveiled more than £3bn worth of cuts to the energy…",
    "link": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
    "image": "https://i.guim.co.uk/img/media/6df7a974f96cec3017d59db5bb6067cd9078e17c/1636_1241_3517_2814/master/3517.jpg?width=700&quality=85&auto=format&fit=max&s=335b6a6e1a7f10dfd193a8b572a52507",
    "published": "2026-10-30T10:00:50+00:00"
@@ -1648,7 +1692,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Fifa to miss equal Women’s World Cup prize money ambition set by Infantino",
-   "summary": "Infantino said in 2023 equality was Fifa’s target Prize money could double but big gap will remain Fifa is to fall short of gender equality with the prize money on offer at next year’s Women’s World Cup, despite making a record $15bn (£11.2bn) in revenue from this summer’s men’s tournament. Gianni Infantino, the Fifa president, said in 2023 that the organisation’s “ambition” was to have…",
+   "summary": "Infantino said in 2023 equality was Fifa’s target. Prize money could double but big gap will remain Fifa is to fall short of gender equality with the prize money on offer at next year’s Women’s World Cup, despite making a record $15bn (£11.2bn) in revenue from this summer’s men’s tournament. Gianni Infantino, the Fifa president, said in 2023 that the organisation’s ambitionwas to have equality…",
    "link": "https://www.theguardian.com/football/2026/oct/30/fifa-miss-equal-womens-world-cup-prize-money-ambition-gianni-infantino",
    "image": "https://i.guim.co.uk/img/media/87151aa53e63f5f6489d72a4dd36d07235b22477/422_0_4088_3270/master/4088.jpg?width=700&quality=85&auto=format&fit=max&s=c696e598b71e37a3044e7f6e4228c55e",
    "published": "2026-10-30T09:59:10+00:00"
@@ -1824,7 +1868,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "How Do You Take a Picture of a Black Hole?",
-   "summary": "20 points, 13 comments on Hacker News.",
+   "summary": "21 points, 14 comments on Hacker News.",
    "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
    "image": "",
    "published": "2026-10-30T09:49:02+00:00"
@@ -1986,7 +2030,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "elect.horse",
-   "summary": "54 points, 12 comments on Hacker News.",
+   "summary": "71 points, 23 comments on Hacker News.",
    "link": "https://elect.horse/",
    "image": "",
    "published": "2026-10-30T09:14:34+00:00"
@@ -2129,7 +2173,7 @@
    "section": "World",
    "lang": "en",
    "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
-   "summary": "Oxygen, food and water supplies running low and massacres taking place, says Nabil Shamsan The Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege. Nabil Shamsan said massacres were taking place in Yemen’s third city, that oxygen and water supplies were…",
+   "summary": "Oxygen, food and water supplies running low and massacres taking place, says Nabil Shamsan. The Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege. Nabil Shamsan said massacres were taking place in Yemen’s third city, that oxygen and water supplies were…",
    "link": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
    "image": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg?width=700&quality=85&auto=format&fit=max&s=6bde2544f09ab5b933b92a59defaf8ef",
    "published": "2026-10-30T09:00:50+00:00"
@@ -2140,7 +2184,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "‘You can see the water going down’: residents on edge as one of England’s worst-hit reservoirs dries up",
-   "summary": "After UK’s hottest summer on record, Ardingly near Haywards Heath is just 19% full – and next-closest reservoir is unusable due to broken treatment works “You can see the water level at Ardingly going down and down. I don’t remember ever seeing it this low,” says Caroline Allan, a lifetime resident of Haywards Heath, the nearest town to one of England’s most depleted reservoirs. The Ardingly…",
+   "summary": "After UK’s hottest summer on record, Ardingly near Haywards Heath is just 19% full – and next-closest reservoir is unusable due to broken treatment works. “You can see the water level at Ardingly going down and down. I don’t remember ever seeing it this low,” says Caroline Allan, a lifetime resident of Haywards Heath, the nearest town to one of England’s most depleted reservoirs. The Ardingly…",
    "link": "https://www.theguardian.com/environment/2026/oct/30/haywards-heath-ardingly-reservoir-water-level-drought-england",
    "image": "https://i.guim.co.uk/img/media/8ec0d1f9a65dca6b709b0498037ad8251b572958/440_0_4398_3519/master/4398.jpg?width=700&quality=85&auto=format&fit=max&s=1e67814ebdf2ab9769ce1ad87d23b571",
    "published": "2026-10-30T09:00:49+00:00"
@@ -2151,7 +2195,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "‘It’s just USA, blah, blah, blah’: Rising rugby star Bella Vogel out to catch wounded England napping",
-   "summary": "The Pennsylvania center found rugby early and is nominated for World Rugby Breakthrough Player of the Year. In New Jersey, the Red Roses will present her stiffest Test yet Going into their WXV Global Series game against England’s world champion Red Roses in Harrison, New Jersey, on Friday, the US Eagles women have five successive wins and a squad mixing great experience with great youth. Among…",
+   "summary": "The Pennsylvania center found rugby early and is nominated for World Rugby Breakthrough Player of the Year. In New Jersey, the Red Roses will present her stiffest Test yet. Going into their WXV Global Series game against England’s world champion Red Roses in Harrison, New Jersey, on Friday, the US Eagles women have five successive wins and a squad mixing great experience with great youth. Among…",
    "link": "https://www.theguardian.com/sport/2026/oct/30/bella-vogel-usa-rugby",
    "image": "https://i.guim.co.uk/img/media/b30015cff08ff85e307676e1f7c02162cd8ea21d/510_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=cdd5585300a2f243a3d9f9523666838e",
    "published": "2026-10-30T09:00:49+00:00"
@@ -2162,7 +2206,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Roster rifts, police raids and Son’s uncertain future leave South Korea at a crossroads",
-   "summary": "After a disaster World Cup, the team have continued to spiral, with tensions high between young and older players and the captain’s standing in question Son Heung-min and Cristiano Ronaldo are iconic No 7s, Premier League legends and international record-breakers. Now there is a surprising danger of them having something else in common: being a divisive presence in their national teams. On 21…",
+   "summary": "After a disaster World Cup, the team have continued to spiral, with tensions high between young and older players and the captain’s standing in question. Son Heung-min and Cristiano Ronaldo are iconic No 7s, Premier League legends and international record-breakers. Now there is a surprising danger of them having something else in common: being a divisive presence in their national teams. On 21…",
    "link": "https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min",
    "image": "https://i.guim.co.uk/img/media/383571b89611bcc610296dcd545b29246504be20/219_0_5939_4752/master/5939.jpg?width=700&quality=85&auto=format&fit=max&s=47a6f31abf90c0b61e1b50b499649605",
    "published": "2026-10-30T09:00:49+00:00"
@@ -2261,7 +2305,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Andy Burnham admits he would have liked more radical first budget",
-   "summary": "Prime minister says room for manoeuvre was limited by geopolitical crises and Labour’s 2024 manifesto Andy Burnham has admitted his first budget as prime minister was not as radical as he would have liked because of the economic uncertainty facing the country. He said he would have liked to have gone further with this week’s announcement – including with higher energy support payments – but felt…",
+   "summary": "Prime minister says room for manoeuvre was limited by geopolitical crises and Labour’s 2024 manifesto. Andy Burnham has admitted his first budget as prime minister was not as radical as he would have liked because of the economic uncertainty facing the country. He said he would have liked to have gone further with this week’s announcement – including with higher energy support payments – but felt…",
    "link": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
    "image": "https://i.guim.co.uk/img/media/d1abed3b3517445566ea40f0e01c4988b1de5f6f/1187_638_5424_4339/master/5424.jpg?width=700&quality=85&auto=format&fit=max&s=46538ce5b6936f841b51532bf361a3b5",
    "published": "2026-10-30T08:53:00+00:00"
@@ -2481,7 +2525,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Chess: English prodigies have proud record of giantkilling across the generations",
-   "summary": "From Jonathan Penrose to Bodhana Sivanandan, young talents have specialised in defeating established stars Nearly half a century ago, at Brighton 1977, the 10-time British champion, Jonathan Penrose, faced a 12-year-old boy, Nigel Short, in round three of the national title contest. Short already had a fast-growing reputation after defeating the legendary Viktor Korchnoi in a simultaneous display…",
+   "summary": "From Jonathan Penrose to Bodhana Sivanandan, young talents have specialised in defeating established stars. Nearly half a century ago, at Brighton 1977, the 10-time British champion, Jonathan Penrose, faced a 12-year-old boy, Nigel Short, in round three of the national title contest. Short already had a fast-growing reputation after defeating the legendary Viktor Korchnoi in a simultaneous…",
    "link": "https://www.theguardian.com/sport/2026/oct/30/chess-english-prodigies-have-proud-record-of-giantkilling-across-the-generations",
    "image": "https://i.guim.co.uk/img/media/2029b6eaf6bba5fa5090f30d719de4c72e47018d/0_601_3404_2723/master/3404.jpg?width=700&quality=85&auto=format&fit=max&s=0c5e4e35998636d28006c947a23058fb",
    "published": "2026-10-30T08:00:50+00:00"
@@ -2492,7 +2536,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Beach volleyball in Morecambe Bay? An Olympics of the north sounds like a winner | Emma John",
-   "summary": "Our sport-loving PM is willing to risk a bitter north v south furore, all for the sake of table tennis in Teesside As someone who barely understands their own finances, let alone the country’s, I will admit that budget day doesn’t always register with me. Perhaps if there were outre outfits or horse-drawn carriages involved, like there are at the state opening of parliament, I’d get into it, but…",
+   "summary": "Our sport-loving PM is willing to risk a bitter north v south furore, all for the sake of table tennis in Teesside. As someone who barely understands their own finances, let alone the country’s, I will admit that budget day doesn’t always register with me. Perhaps if there were outre outfits or horse-drawn carriages involved, like there are at the state opening of parliament, I’d get into it, but…",
    "link": "https://www.theguardian.com/sport/2026/oct/30/beach-volleyball-morecambe-bay-olympics-of-the-north-andy-burnham",
    "image": "https://i.guim.co.uk/img/media/48719aa34a60b22245f369050959c380b583c97b/0_0_3353_2682/master/3353.jpg?width=700&quality=85&auto=format&fit=max&s=d87488c52b6dbf86eba3f0ec466b8c43",
    "published": "2026-10-30T08:00:49+00:00"
@@ -2899,7 +2943,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "UK side-hustle tax-free allowance to rise to £3,000 next year",
-   "summary": "Up to 1.4 million people could benefit from change to trading allowance announced in budget, with some saving hundreds in tax The amount Britons can earn from a side hustle without paying tax will rise to £3,000 next year in a fillip for those who make extra cash from hobbies or reselling. Up to 1.4 million people could benefit from the change announced in the budget , with the chancellor…",
+   "summary": "Up to 1.4 million people could benefit from change to trading allowance announced in budget, with some saving hundreds in tax. The amount Britons can earn from a side hustle without paying tax will rise to £3,000 next year in a fillip for those who make extra cash from hobbies or reselling. Up to 1.4 million people could benefit from the change announced in the budget , with the chancellor…",
    "link": "https://www.theguardian.com/politics/2026/oct/30/uk-side-hustle-tax-free-allowance-rise-3000",
    "image": "https://i.guim.co.uk/img/media/35d5a07486878603dbb3866d008d2d3c4c6ebe12/553_0_4843_3874/master/4843.jpg?width=700&quality=85&auto=format&fit=max&s=a576405c4d05ef17956c135250997a9a",
    "published": "2026-10-30T07:00:47+00:00"
@@ -2998,7 +3042,7 @@
    "section": "World",
    "lang": "en",
    "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
-   "summary": "In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political moment Good morning. It was described by many Israelis as the most consequential election in their country’s history. And, as the final votes were tallied, it has delivered a result that presents Israel with a…",
+   "summary": "In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political moment. Good morning. It was described by many Israelis as the most consequential election in their country’s history. And, as the final votes were tallied, it has delivered a result that presents Israel with a…",
    "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
    "image": "https://i.guim.co.uk/img/media/40da4bb6af73d2bc793695b58b615b2dd6c6f3fc/433_0_3583_2867/master/3583.jpg?width=700&quality=85&auto=format&fit=max&s=a9d2da32488f9d81ab47a2b30dbb82cf",
    "published": "2026-10-30T06:44:29+00:00"
@@ -3185,7 +3229,7 @@
    "section": "World",
    "lang": "en",
    "title": "Battle lines redrawn in Spain’s snap election after latest train disaster",
-   "summary": "Next month’s poll no longer the contest it was, as Pedro Sánchez finds himself forced to defend government’s safety record One of the most dependable cliches of contemporary Spanish politics is that it never pays to bet against Pedro Sánchez . Time and time again – as leader of the Spanish Socialist Workers’ party (PSOE) and as prime minister – Sánchez has shown an almost preternatural ability to…",
+   "summary": "Next month’s poll no longer the contest it was, as Pedro Sánchez finds himself forced to defend government’s safety record. One of the most dependable cliches of contemporary Spanish politics is that it never pays to bet against Pedro Sánchez . Time and time again – as leader of the Spanish Socialist Workers’ party (PSOE) and as prime minister – Sánchez has shown an almost preternatural ability…",
    "link": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
    "image": "https://i.guim.co.uk/img/media/45b775938ef866af30283aa372e1d089fd0ffaea/625_0_3977_3181/master/3977.jpg?width=700&quality=85&auto=format&fit=max&s=d8d625469ed592fcd2055523481ddc1d",
    "published": "2026-10-30T06:00:47+00:00"
@@ -3196,7 +3240,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Opening the EU debate again is clearly a political minefield. But we have to do it | Simon Jenkins",
-   "summary": "Andy Burnham must tread cautiously, but Brexit was a very grave act of self-harm – and he is right to address it Andy Burnham’s opening debate on whether Britain should rejoin the EU is divisive, painful and politically risky. That is why it should be welcomed. To jeopardise his popularity so soon after coming to office might seem reckless, but the issue is urgent and not going away. Brexit is…",
+   "summary": "Andy Burnham must tread cautiously, but Brexit was a very grave act of self-harm – and he is right to address it. Andy Burnham’s opening debate on whether Britain should rejoin the EU is divisive, painful and politically risky. That is why it should be welcomed. To jeopardise his popularity so soon after coming to office might seem reckless, but the issue is urgent and not going away. Brexit is…",
    "link": "https://www.theguardian.com/commentisfree/2026/oct/30/brexit-eu-debate-again-political-minefield-andy-burnham",
    "image": "https://i.guim.co.uk/img/media/76734a5078f8ca9e4585533783cc6c84ca571e77/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=cee2a9fde90764dc59e42967e7c9e110",
    "published": "2026-10-30T06:00:47+00:00"
@@ -3207,7 +3251,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Exeter’s Tom Hooper: ‘Sometimes you’ve just got to suck up a little bit of pain’",
-   "summary": "The Chiefs’ latest Wallaby on dealing with English weather, the positive side of rehab and Australia’s World Cup chances The list of Australian rugby players who have found a spiritual home in Exeter is a long and illustrious one. Dean Mumm, Dave Dennis, Nic White, Scott Sio, Greg Holmes, Julian Salvi, Ben White, Mitch Lees, Lachie Turner, Len Ikitau … almost without exception they have pitched…",
+   "summary": "The Chiefs’ latest Wallaby on dealing with English weather, the positive side of rehab and Australia’s World Cup chances. The list of Australian rugby players who have found a spiritual home in Exeter is a long and illustrious one. Dean Mumm, Dave Dennis, Nic White, Scott Sio, Greg Holmes, Julian Salvi, Ben White, Mitch Lees, Lachie Turner, Len Ikitau … almost without exception they have pitched…",
    "link": "https://www.theguardian.com/sport/2026/oct/30/exeters-tom-hooper-sometimes-youve-just-got-to-suck-up-a-little-bit-of-pain",
    "image": "https://i.guim.co.uk/img/media/f74182f3672f48d269462134c6121b892d07bcce/603_0_6030_4826/master/6030.jpg?width=700&quality=85&auto=format&fit=max&s=c875ee0abf1701f44ba2e8351a41d8d7",
    "published": "2026-10-30T06:00:46+00:00"
@@ -3218,7 +3262,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "TUC leader expects wave of union recognition in private sector over coming year",
-   "summary": "Paul Nowak says ‘hundreds, if not thousands’ of employers could sign access agreements as ‘transformative’ rules come into force The TUC general secretary, Paul Nowak, is predicting a wave of union recognition deals in the private sector over the next year as “transformative” rules on accessing workplaces come into force. From Friday, as part of Labour’s Employment Rights Act, unions will have…",
+   "summary": "Paul Nowak says ‘hundreds, if not thousands’ of employers could sign access agreements as ‘transformative’ rules come into force. The TUC general secretary, Paul Nowak, is predicting a wave of union recognition deals in the private sector over the next year as “transformative” rules on accessing workplaces come into force. From Friday, as part of Labour’s Employment Rights Act, unions will have…",
    "link": "https://www.theguardian.com/politics/2026/oct/30/tuc-leader-union-recognition-private-sector",
    "image": "https://i.guim.co.uk/img/media/4e4e6e8d74c791b20a6eca9ddc9ca5260eda49c7/0_0_4548_3640/master/4548.jpg?width=700&quality=85&auto=format&fit=max&s=5d9ce97c829daa279930697cacb8f2b2",
    "published": "2026-10-30T06:00:45+00:00"
@@ -3295,7 +3339,7 @@
    "section": "World",
    "lang": "en",
    "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
-   "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email , free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s…",
+   "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates. Get our breaking news email , free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s…",
    "link": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
    "image": "https://i.guim.co.uk/img/media/5254cf587c7c076dfd7c74396b859c0751b7d6b1/17_0_3058_2447/master/3058.jpg?width=700&quality=85&auto=format&fit=max&s=c992ba0dcf8a28a1271af34eaa03d663",
    "published": "2026-10-30T05:31:26+00:00"
@@ -3405,7 +3449,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres",
-   "summary": "As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking out Sandu* checked his watch. He was winding down the last 15 minutes of his shift at a vast Google datacentre site in Saint-Ghislain, Belgium, in March, when the call…",
+   "summary": "As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking out. Sandu* checked his watch. He was winding down the last 15 minutes of his shift at a vast Google datacentre site in Saint-Ghislain, Belgium, in March, when the call…",
    "link": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
    "image": "https://i.guim.co.uk/img/media/6fcb0b6ab4c9aa6f723cd1957f6de710e173a9d3/0_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=243c64cbcb72f3e50593d562a82ee5e9",
    "published": "2026-10-30T05:00:46+00:00"
@@ -3416,7 +3460,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-   "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September…",
+   "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective. Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September…",
    "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
    "image": "https://i.guim.co.uk/img/media/7ca64ddb2c1eceb5b061c7c68b38488bbc43e947/195_0_3986_3189/master/3986.jpg?width=700&quality=85&auto=format&fit=max&s=a581b019c041bf8d8819180600f64b01",
    "published": "2026-10-30T05:00:45+00:00"
@@ -3427,7 +3471,7 @@
    "section": "World",
    "lang": "en",
    "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-   "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid…",
+   "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF. Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid…",
    "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
    "image": "https://i.guim.co.uk/img/media/1a207f81e70f26c6fb300fd2353ecaa161bc7714/0_0_2895_2317/master/2895.jpg?width=700&quality=85&auto=format&fit=max&s=9d6ef900ad82e089baafe9cf27d7cad0",
    "published": "2026-10-30T05:00:45+00:00"
@@ -3524,7 +3568,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Packers beat Panthers as Green Bay’s Christian Watson returns after mid-game hospital visit",
-   "summary": "Carolina Panthers 19-27 Green Bay Packers Packers WR has 113 receiving yards despite injury Jordan Love threw three touchdown passes, Josh Jacobs scored twice and the Green Bay Packers withstood three turnovers to beat the Carolina Panthers 27-19 on Thursday night. Love went 30 of 41 for 288 yards with touchdown passes to Tucker Kraft, Matthew Golden and Jacobs plus an interception. Although he…",
+   "summary": "Carolina Panthers 19-27 Green Bay Packers. Packers WR has 113 receiving yards despite injury Jordan Love threw three touchdown passes, Josh Jacobs scored twice and the Green Bay Packers withstood three turnovers to beat the Carolina Panthers 27-19 on Thursday night. Love went 30 of 41 for 288 yards with touchdown passes to Tucker Kraft, Matthew Golden and Jacobs plus an interception. Although he…",
    "link": "https://www.theguardian.com/sport/2026/oct/29/packers-panthers-thursday-night-football-nfl-christian-watson-hospital",
    "image": "https://i.guim.co.uk/img/media/97abfd32e8630c2d0c5c96cb38fe96b103a7af01/438_0_3497_2798/master/3497.jpg?width=700&quality=85&auto=format&fit=max&s=cba15a395a6b5ed9ec4741af1cebcff0",
    "published": "2026-10-30T03:53:42+00:00"
@@ -3601,7 +3645,7 @@
    "section": "World",
    "lang": "en",
    "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
-   "summary": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a major political gathering , which saw an unprecedented number of empty seats indicating the scale of the purges under Xi Jinping. A record 33…",
+   "summary": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping. China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a major political gathering , which saw an unprecedented number of empty seats indicating the scale of the purges under Xi Jinping. A record 33…",
    "link": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
    "image": "https://i.guim.co.uk/img/media/c089e593b51b58d6c2c6c9db1d4664acb5ca046c/445_373_1136_910/master/1136.jpg?width=700&quality=85&auto=format&fit=max&s=9d65062dc51d0f5805c555312294adb4",
    "published": "2026-10-30T02:56:46+00:00"
@@ -3612,7 +3656,7 @@
    "section": "World",
    "lang": "en",
    "title": "Sam Wood to remain in custody after another failed bail bid over domestic violence charges",
-   "summary": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast Former Bachelor star Sam Wood will remain in custody while he awaits trial on domestic violence charges , after he was refused bail for a second time. Wood, 46, from Melbourne, has been held in custody since his arrest on 4…",
+   "summary": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast. Former Bachelor star Sam Wood will remain in custody while he awaits trial on domestic violence charges , after he was refused bail for a second time. Wood, 46, from Melbourne, has been held in custody since his arrest on 4…",
    "link": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
    "image": "https://i.guim.co.uk/img/media/1d82fb024ed7d912bb4fc5f2d3293dc1ca863ebc/0_0_1333_1065/master/1333.jpg?width=700&quality=85&auto=format&fit=max&s=1ff5a89e8bd14dd740924e775cbbcffe",
    "published": "2026-10-30T02:47:58+00:00"
@@ -3645,7 +3689,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Pico CSS is no longer maintained",
-   "summary": "154 points, 72 comments on Hacker News.",
+   "summary": "156 points, 72 comments on Hacker News.",
    "link": "https://github.com/picocss/pico/discussions/754",
    "image": "",
    "published": "2026-10-30T01:58:44+00:00"
@@ -3656,7 +3700,7 @@
    "section": "World",
    "lang": "en",
    "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
-   "summary": "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures Extreme drought driven by an historic El Niño is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shortages of food and water, to electricity scarcity and schooling disruption. An influential coalition that includes churches, trade unions…",
+   "summary": "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures. Extreme drought driven by an historic El Niño is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shortages of food and water, to electricity scarcity and schooling disruption. An influential coalition that includes churches, trade unions…",
    "link": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
    "image": "https://i.guim.co.uk/img/media/cc479bce593c1d686d94f80fcfd1feeee302eb1e/0_320_4337_3470/master/4337.jpg?width=700&quality=85&auto=format&fit=max&s=c6244d855592d85d6ef537ba8bf94853",
    "published": "2026-10-30T01:45:56+00:00"
@@ -3700,7 +3744,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "California high-speed rail chief quits amid billowing expenses scandal",
-   "summary": "Ian Choudri resigns after report found agency overseeing troubled LA-San Francisco project misused over $600,000 in public funds The chief executive of California’s embattled high-speed rail authority abruptly resigned on Wednesday, over a month after a state watchdog determined the agency had misused public funds. In September, California’s office of the inspector general released an…",
+   "summary": "Ian Choudri resigns after report found agency overseeing troubled LA-San Francisco project misused over $600,000 in public funds. The chief executive of California’s embattled high-speed rail authority abruptly resigned on Wednesday, over a month after a state watchdog determined the agency had misused public funds. In September, California’s office of the inspector general released an…",
    "link": "https://www.theguardian.com/us-news/2026/oct/29/california-high-speed-rail-ian-choudri-resigns",
    "image": "https://i.guim.co.uk/img/media/252c7bbb703e56cbe48c4284bdf9bf9a135b2eee/685_0_6848_5479/master/6848.jpg?width=700&quality=85&auto=format&fit=max&s=dfc17a1ad525a0ea726e112d7a91c9a9",
    "published": "2026-10-30T01:37:13+00:00"
@@ -3788,7 +3832,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Herdr has released native app",
-   "summary": "233 points, 155 comments on Hacker News.",
+   "summary": "238 points, 158 comments on Hacker News.",
    "link": "https://github.com/herdrdev/herdr-app",
    "image": "",
    "published": "2026-10-30T00:42:41+00:00"
@@ -3799,7 +3843,7 @@
    "section": "World",
    "lang": "en",
    "title": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
-   "summary": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ George Newhouse: We must protect Jewish Australians without casting suspicion on legitimate concern for Palestinians Get our breaking news email , free app or daily news podcast The federal government’s antisemitism envoy has proposed an “external…",
+   "summary": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ George Newhouse: We must protect Jewish Australians without casting suspicion on legitimate concern for Palestinians. Get our breaking news email , free app or daily news podcast The federal government’s antisemitism envoy has proposed an “external…",
    "link": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
    "image": "https://i.guim.co.uk/img/media/a64738cc830426f354cd412e09123af48608ef4e/364_0_6258_5007/master/6258.jpg?width=700&quality=85&auto=format&fit=max&s=e9602a75b95d759754b8c12ab995540b",
    "published": "2026-10-30T00:37:36+00:00"
@@ -3810,7 +3854,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Cormac McCarthy's Library",
-   "summary": "60 points, 23 comments on Hacker News.",
+   "summary": "62 points, 23 comments on Hacker News.",
    "link": "https://cormacmccarthy.lib.utk.edu/",
    "image": "",
    "published": "2026-10-30T00:31:00+00:00"
@@ -3953,7 +3997,7 @@
    "section": "World",
    "lang": "en",
    "title": "Netanyahu accused of smearing Arab voters to hold on to power",
-   "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tuesday’s election, in which the prime minister’s coalition lost its parliamentary majority. Netanyahu and his allies…",
+   "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority. Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tuesday’s election, in which the prime minister’s coalition lost its parliamentary majority. Netanyahu and his…",
    "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
    "image": "https://i.guim.co.uk/img/media/d8b84c716c73cb737726509266edeb8ba3edce59/384_0_2603_2083/master/2603.jpg?width=700&quality=85&auto=format&fit=max&s=014b50bf077fc61c99f796a66347b4de",
    "published": "2026-10-29T23:14:53+00:00"
@@ -3986,7 +4030,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’",
-   "summary": "England player left out of squad to face Newcastle Moyes confirms he ‘supports’ the club decision Jack Grealish was dropped from Everton’s Carabao Cup win over Newcastle following a breach of club discipline. Everton took the unusual step of announcing that Grealish’s omission from the fourth-round tie was for disciplinary reasons on social media, after listing David Moyes’s team for the…",
+   "summary": "England player left out of squad to face Newcastle. Moyes confirms he ‘supports’ the club decision Jack Grealish was dropped from Everton’s Carabao Cup win over Newcastle following a breach of club discipline. Everton took the unusual step of announcing that Grealish’s omission from the fourth-round tie was for disciplinary reasons on social media, after listing David Moyes’s team for the…",
    "link": "https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup",
    "image": "https://i.guim.co.uk/img/media/ea5a35cb1ef5c4fce921f4b4d82c95e188bab3f0/509_0_3172_2539/master/3172.jpg?width=700&quality=85&auto=format&fit=max&s=2df8df3ce62487a2cd1bfdbc01cb002e",
    "published": "2026-10-29T22:57:19+00:00"
@@ -3997,7 +4041,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "George Russell determined not to let disappointing F1 season define career",
-   "summary": "28-year-old still believes he will win world title one day Kimi Antonelli misses media duties with ‘viral illness’ George Russell has insisted he will not let his difficult Formula One season define his career and believes he still has plenty of years left to come back and win the world championship. Russell has been outdriven by his 20-year-old Mercedes teammate Kimi Antonelli in a bruising…",
+   "summary": "28-year-old still believes he will win world title one day. Kimi Antonelli misses media duties with ‘viral illness’ George Russell has insisted he will not let his difficult Formula One season define his career and believes he still has plenty of years left to come back and win the world championship. Russell has been outdriven by his 20-year-old Mercedes teammate Kimi Antonelli in a bruising…",
    "link": "https://www.theguardian.com/sport/2026/oct/29/george-russell-f1-formula-one-mexico-grand-prix",
    "image": "https://i.guim.co.uk/img/media/9795b6b4805f40bdcf102f28887e2d97db4d2ba7/441_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=d74d8733f98fe2e59f3dd9dc08c6a9c0",
    "published": "2026-10-29T22:53:06+00:00"
@@ -4063,7 +4107,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-   "summary": "125 points, 29 comments on Hacker News.",
+   "summary": "126 points, 29 comments on Hacker News.",
    "link": "https://journal.animationstudies.org/article/id/66/",
    "image": "",
    "published": "2026-10-29T22:26:38+00:00"
@@ -4195,7 +4239,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
-   "summary": "Generali Stadium will have 71,500-seat capacity Inter fans protest the plans outside gala event Inter and Milan have unveiled plans for their new Generali Stadium, which will replace the shared San Siro venue from the 2031-32 season. The stadium, sponsored by Generali – Italy’s largest insurance company – will have a capacity of 71,500 seats and is expected to cost the two clubs €1.2bn (£1bn).…",
+   "summary": "Generali Stadium will have 71,500-seat capacity. Inter fans protest the plans outside gala event Inter and Milan have unveiled plans for their new Generali Stadium, which will replace the shared San Siro venue from the 2031-32 season. The stadium, sponsored by Generali – Italy’s largest insurance company – will have a capacity of 71,500 seats and is expected to cost the two clubs €1.2bn (£1bn).…",
    "link": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
    "image": "https://i.guim.co.uk/img/media/761992491fd571f8e86d77998fce9bc1c7276cc0/371_0_1250_1000/master/1250.jpg?width=700&quality=85&auto=format&fit=max&s=ee8a9832b7797a16f179deac3ac0247e",
    "published": "2026-10-29T21:46:26+00:00"
@@ -4206,7 +4250,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "summary": "307 points, 113 comments on Hacker News.",
+   "summary": "310 points, 113 comments on Hacker News.",
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "image": "",
    "published": "2026-10-29T21:40:28+00:00"
@@ -4228,7 +4272,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-   "summary": "1449 points, 943 comments on Hacker News.",
+   "summary": "1462 points, 952 comments on Hacker News.",
    "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
    "image": "",
    "published": "2026-10-29T21:38:59+00:00"
@@ -4272,7 +4316,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Amazon gives Wall Street mixed financial picture in earnings report",
-   "summary": "E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarter Amazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report. The e-commerce company gave a cautious sales forecast for the current fourth quarter, which encompasses the critical holiday shopping period, after delivering fiscal third-quarter results…",
+   "summary": "E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarter. Amazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report. The e-commerce company gave a cautious sales forecast for the current fourth quarter, which encompasses the critical holiday shopping period, after delivering fiscal third-quarter…",
    "link": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
    "image": "https://i.guim.co.uk/img/media/e8c0fbf690fb7de0c9bc31006a069c434114b13f/464_0_4640_3712/master/4640.jpg?width=700&quality=85&auto=format&fit=max&s=973a9980ae5aca5195b2d10fd92936ec",
    "published": "2026-10-29T21:23:02+00:00"
@@ -4448,7 +4492,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-   "summary": "229 points, 15 comments on Hacker News.",
+   "summary": "232 points, 15 comments on Hacker News.",
    "link": "https://github.com/SheepSeb/tinyworldformer",
    "image": "",
    "published": "2026-10-29T20:32:28+00:00"
@@ -4701,7 +4745,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Patrick Stewart has died",
-   "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 3054 # Comments: 649",
+   "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702. Points: 3065. # Comments: 653",
    "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
    "image": "",
    "published": "2026-10-29T19:41:39+00:00"
@@ -4734,7 +4778,7 @@
    "section": "World",
    "lang": "en",
    "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
-   "summary": "US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s response to a personal letter from the US vice-president, JD Vance, offering to restart diplomacy. The letter, written after predominantly Qatari mediation, was sent…",
+   "summary": "US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy. Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s response to a personal letter from the US vice-president, JD Vance, offering to restart diplomacy. The letter, written after predominantly Qatari mediation, was sent…",
    "link": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
    "image": "https://i.guim.co.uk/img/media/f8cc60575da517f1b807ca56c7a46e06e0e98032/224_0_2998_2398/master/2998.jpg?width=700&quality=85&auto=format&fit=max&s=cc41b80444f7542cb68912d0273a4783",
    "published": "2026-10-29T19:32:24+00:00"
@@ -4844,7 +4888,7 @@
    "section": "World",
    "lang": "en",
    "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
-   "summary": "Tankers, tracked by Greenpeace, are first phase of Trump-Putin deal – but there is uncertainty over whether they will unload Seven oil tankers carrying an estimated 288,000 tonnes of Russian diesel are now sailing towards the US, though it is uncertain if the vessels will be able to unload amid a political row about the legality of the shipments. The transport, tracked by the pressure group…",
+   "summary": "Tankers, tracked by Greenpeace, are first phase of Trump-Putin deal – but there is uncertainty over whether they will unload. Seven oil tankers carrying an estimated 288,000 tonnes of Russian diesel are now sailing towards the US, though it is uncertain if the vessels will be able to unload amid a political row about the legality of the shipments. The transport, tracked by the pressure group…",
    "link": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
    "image": "https://i.guim.co.uk/img/media/41a7157fdd6dc04cb818357a54195062d320a2ed/292_0_4500_3600/master/4500.jpg?width=700&quality=85&auto=format&fit=max&s=c86abd211f7a94e5b4ae6f07450d19f5",
    "published": "2026-10-29T19:04:17+00:00"
@@ -4855,7 +4899,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Dream serve up lunchtime rout of Valkyries to force historic WNBA finals Game 7",
-   "summary": "Dream win 80-69 to level best-of-seven series at 3-3 First Game 7 in WNBA history set for Saturday night Ella Brockway’s minute-by-minute report of Game 6 The Atlanta Dream had no intention of letting a matinee become their curtain call. Facing elimination at a lunchtime tipoff, the Dream overwhelmed the Golden State Valkyries 80-69 on Thursday afternoon to force a decisive seventh game in the…",
+   "summary": "Dream win 80-69 to level best-of-seven series at 3-3. First Game 7 in WNBA history set for Saturday night. Ella Brockway’s minute-by-minute report of Game 6 The Atlanta Dream had no intention of letting a matinee become their curtain call. Facing elimination at a lunchtime tipoff, the Dream overwhelmed the Golden State Valkyries 80-69 on Thursday afternoon to force a decisive seventh game in the…",
    "link": "https://www.theguardian.com/sport/2026/oct/29/atlanta-dream-golden-state-valkyries-game-6-wnba-finals",
    "image": "https://i.guim.co.uk/img/media/9098b96b70dc58323d6773b557c78ec963286381/96_0_3702_2962/master/3702.jpg?width=700&quality=85&auto=format&fit=max&s=eb525459e9ae7fd9ea4b565b50ee3f12",
    "published": "2026-10-29T18:58:24+00:00"
@@ -4932,7 +4976,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Uefa close to selecting candidate to run against Infantino in Fifa election",
-   "summary": "Challenger’s identity could be approved by next week Arsène Wenger not thought to have entered reckoning Uefa and its allies are close to identifying a candidate to run against Gianni Infantino in the Fifa election and could select the challenger as early as next week. The clock is ticking on efforts to oppose Infantino in March, with candidates required to confirm they are standing by 18…",
+   "summary": "Challenger’s identity could be approved by next week. Arsène Wenger not thought to have entered reckoning Uefa and its allies are close to identifying a candidate to run against Gianni Infantino in the Fifa election and could select the challenger as early as next week. The clock is ticking on efforts to oppose Infantino in March, with candidates required to confirm they are standing by 18…",
    "link": "https://www.theguardian.com/football/2026/oct/29/uefa-close-to-identifying-candidate-gianni-infantino-in-fifa-election",
    "image": "https://i.guim.co.uk/img/media/0b7728112428d6f431df4efff43a5e1adecab416/253_0_3308_2646/master/3308.jpg?width=700&quality=85&auto=format&fit=max&s=2c41b140d9bf06b0c378fbf198e5588a",
    "published": "2026-10-29T18:41:04+00:00"
@@ -4965,7 +5009,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "The Guardian view on a changing Brexit debate: Kemi Badenoch is trapped in denial | Editorial",
-   "summary": "The prime minister’s ambitions might be ambiguous, but unlike the Conservative leader, he is following voters and the facts British politics is still polarised around Brexit, although 10 years on from the referendum, the terms of debate are very different. Or they should be. Russia’s invasion of Ukraine in 2022 has moved discussions of European solidarity from the realm of abstraction to a matter…",
+   "summary": "The prime minister’s ambitions might be ambiguous, but unlike the Conservative leader, he is following voters and the facts. British politics is still polarised around Brexit, although 10 years on from the referendum, the terms of debate are very different. Or they should be. Russia’s invasion of Ukraine in 2022 has moved discussions of European solidarity from the realm of abstraction to a…",
    "link": "https://www.theguardian.com/commentisfree/2026/oct/29/the-guardian-view-on-a-changing-brexit-debate-kemi-badenoch-is-trapped-in-denial",
    "image": "https://i.guim.co.uk/img/media/d80ab83eddd23dba8663d7563f188c52bacc2ac0/359_31_1948_1558/master/1948.jpg?width=700&quality=85&auto=format&fit=max&s=92194b9e0c178c4ffc5603894e137e01",
    "published": "2026-10-29T18:30:28+00:00"
@@ -5009,7 +5053,7 @@
    "section": "World",
    "lang": "en",
    "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-   "summary": "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families. The chief executive, John Lee, and seven…",
+   "summary": "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served. Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families. The chief executive, John Lee, and…",
    "link": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
    "image": "https://i.guim.co.uk/img/media/2c5d0274ccc74eedd4d8ea37a4defaa01bc5225c/1462_16_3005_2404/master/3005.jpg?width=700&quality=85&auto=format&fit=max&s=136d9ac0ad8fd58b95a6e5da3d5de7d0",
    "published": "2026-10-29T18:14:21+00:00"
@@ -5031,7 +5075,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Hold your nose: a £1.25bn subsidy for rich Rolls-Royce’s new engine had to happen",
-   "summary": "The chancellor’s budget giveaway is, unfortunately, a reflection of how life works in the global aerospace business It wasn’t a “nothing” budget for engine-maker Rolls-Royce. The company was handed £1.25bn from public coffers to part-fund the development of a next-generation engine for single-aisle commercial planes. The chancellor buried this giveaway in two short sentences in the stodgy middle…",
+   "summary": "The chancellor’s budget giveaway is, unfortunately, a reflection of how life works in the global aerospace business. It wasn’t a “nothing” budget for engine-maker Rolls-Royce. The company was handed £1.25bn from public coffers to part-fund the development of a next-generation engine for single-aisle commercial planes. The chancellor buried this giveaway in two short sentences in the stodgy middle…",
    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/29/hold-your-nose-125bn-subsidy-rolls-royces-engine-justified-budget",
    "image": "https://i.guim.co.uk/img/media/858f02abde6157d2f856cca86d61a494ca2b7899/513_0_2487_1990/master/2487.jpg?width=700&quality=85&auto=format&fit=max&s=305f7a376d90cf43e2af16a4e148b911",
    "published": "2026-10-29T18:07:27+00:00"
@@ -5097,7 +5141,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Emergency stockpiles are a luxury that not everyone can afford | Letters",
-   "summary": "Keira Callaghan says being prepared should be a public health measure, not a privilege, and Chris Rotheram is experiencing prescription anxiety. Plus five more letters in response to the Be Ready campaign The Be Ready campaign may offer sensible advice in principle ( Every Briton should stockpile water and food supplies, government advises, 22 October ), but as a midwife working in Tower Hamlets…",
+   "summary": "Keira Callaghan says being prepared should be a public health measure, not a privilege, and Chris Rotheram is experiencing prescription anxiety. Plus five more letters in response to the Be Ready campaign. The Be Ready campaign may offer sensible advice in principle ( Every Briton should stockpile water and food supplies, government advises, 22 October ), but as a midwife working in Tower…",
    "link": "https://www.theguardian.com/society/2026/oct/29/emergency-stockpiles-are-a-luxury-that-not-everyone-can-afford",
    "image": "https://i.guim.co.uk/img/media/3ab735f03402f279304ccfed182aafe998e23841/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=ff5cc2d072e2922deb28a4cd8c088c89",
    "published": "2026-10-29T17:55:15+00:00"
@@ -5130,7 +5174,7 @@
    "section": "World",
    "lang": "en",
    "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
-   "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says the Canadian rock star Bryan Adams , is Lake America. In his new…",
+   "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president. Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says the Canadian rock star Bryan Adams , is Lake America. In his new…",
    "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
    "image": "https://i.guim.co.uk/img/media/d7827a476e14a9fe6c2f060b9b99453364c02b5e/205_0_4252_3403/master/4252.jpg?width=700&quality=85&auto=format&fit=max&s=a0f07392462d4045e211c97ab25d580e",
    "published": "2026-10-29T17:49:47+00:00"
@@ -5162,7 +5206,7 @@
    "section": "World",
    "lang": "en",
    "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-   "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this…",
+   "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France. Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this…",
    "link": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
    "image": "https://i.guim.co.uk/img/media/4b8061be068d0c34f7875e002f51ed5bc5855c91/299_0_2102_1682/master/2102.jpg?width=700&quality=85&auto=format&fit=max&s=92510b21806da5a3883604423ac4fd41",
    "published": "2026-10-29T17:46:38+00:00"
@@ -5206,7 +5250,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Visit Norway makes shithouses ‘great again’ after Trump insult",
-   "summary": "Tourist board responds with toilet humour after US president’s ‘shithouse country’ jibe over failure to win Nobel peace prize Some might find it decidedly incommodious to be dumped on by Donald Trump as a “shithouse country”. Not the Norwegian tourist board, which chose instead to lift the lid on some of the nation’s loveliest lavatories. “Are these the world’s best shit houses?” asked Visit…",
+   "summary": "Tourist board responds with toilet humour after US president’s ‘shithouse country’ jibe over failure to win Nobel peace prize. Some might find it decidedly incommodious to be dumped on by Donald Trump as a “shithouse country”. Not the Norwegian tourist board, which chose instead to lift the lid on some of the nation’s loveliest lavatories. “Are these the world’s best shit houses?” asked Visit…",
    "link": "https://www.theguardian.com/world/2026/oct/29/trump-norway-shithouse-toilets",
    "image": "https://i.guim.co.uk/img/media/c1e07dea6cc3e91e73543eb9734d161c2a81af1c/466_177_2767_2214/master/2767.jpg?width=700&quality=85&auto=format&fit=max&s=dc5a2899f12712cc87bb086e0b329f49",
    "published": "2026-10-29T17:22:01+00:00"
@@ -5228,7 +5272,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Chelsea’s fine finishing has them flying high – but how long can it last?",
-   "summary": "Despite being at opposite ends of the table, according to Opta’s expected points model, Chelsea have performed worse than Saturday’s opponents Manchester United Michael Carrick will arrive at Stamford Bridge on Saturday with the air of a dead man walking. Yet despite Manchester United being fifth-bottom of the Premier League and Chelsea fifth-top, the Blues have performed worse this season…",
+   "summary": "Despite being at opposite ends of the table, according to Opta’s expected points model, Chelsea have performed worse than Saturday’s opponents Manchester United. Michael Carrick will arrive at Stamford Bridge on Saturday with the air of a dead man walking. Yet despite Manchester United being fifth-bottom of the Premier League and Chelsea fifth-top, the Blues have performed worse this season…",
    "link": "https://www.theguardian.com/football/2026/oct/29/chelseas-fine-finishing-has-them-flying-high-but-how-long-can-it-last",
    "image": "https://i.guim.co.uk/img/media/37935f6ee841d3ee4c5dacaa5b3828d22cb474fc/389_0_4496_3598/master/4496.jpg?width=700&quality=85&auto=format&fit=max&s=2dbe9c8258a7ad6217804a0eda8b59c2",
    "published": "2026-10-29T17:21:08+00:00"
@@ -5304,7 +5348,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "A phone-free Yellow Wall: are Dortmund urging fans to be present or policing them?",
-   "summary": "It makes sense that sports teams want to keep influencers out of their games. The battle some clubs are waging with their fans, however, is a different dilemma By all appearances, things on the Yellow Wall seemed as they always had been. The stadium announcer hollered out the first names of Borussia Dortmund’s starting lineup and the supporters responded with their last names, tens of thousands…",
+   "summary": "It makes sense that sports teams want to keep influencers out of their games. The battle some clubs are waging with their fans, however, is a different dilemma. By all appearances, things on the Yellow Wall seemed as they always had been. The stadium announcer hollered out the first names of Borussia Dortmund’s starting lineup and the supporters responded with their last names, tens of thousands…",
    "link": "https://www.theguardian.com/football/2026/oct/29/borussia-dortmund-fans-phones",
    "image": "https://i.guim.co.uk/img/media/ae9830e0fe4dacd6d22a512c007e84f4cb6ca4a3/580_0_5800_4640/master/5800.jpg?width=700&quality=85&auto=format&fit=max&s=bdd8cd278537c23d3dd7f790cd16d971",
    "published": "2026-10-29T17:00:29+00:00"
@@ -5337,7 +5381,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Duckett and Dawson steer England to victory over Sri Lanka in tri-series farewell",
-   "summary": "Duckett hits superb 167 as England make 386 in Lahore Dawson takes four wickets to deny Sri Lankan chase Not this time. Sri Lanka threatened a repeat of Rawalpindi , and a target of 387 in Lahore was within reach. Pavan Rathnayake was the thorn again with another century but, unlike his captain Harry Brook’s last week, Ben Duckett’s epic was not in vain. The left-hander struck 167 before Liam…",
+   "summary": "Duckett hits superb 167 as England make 386 in Lahore. Dawson takes four wickets to deny Sri Lankan chase Not this time. Sri Lanka threatened a repeat of Rawalpindi , and a target of 387 in Lahore was within reach. Pavan Rathnayake was the thorn again with another century but, unlike his captain Harry Brook’s last week, Ben Duckett’s epic was not in vain. The left-hander struck 167 before Liam…",
    "link": "https://www.theguardian.com/sport/2026/oct/29/england-sri-lanka-tri-series-match-report-duckett-dawson",
    "image": "https://i.guim.co.uk/img/media/617b74149b5580cb741ce1a5916a159d42652577/752_193_5080_4064/master/5080.jpg?width=700&quality=85&auto=format&fit=max&s=e7baf737606e6483ac4d0ecf9e23c19f",
    "published": "2026-10-29T16:46:52+00:00"
@@ -5359,7 +5403,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Eight of England’s nine water companies still failing on environment, report finds",
-   "summary": "Angela Eagle tells industry ‘people are sick of excuses’ as pollution levels remain high despite billions in investment Angela Eagle, the environment secretary, has summoned water industry bosses to Whitehall after the environment watchdog said their companies continue to pump effluent into Britain’s waterways at “unacceptable” rates. “People are sick of excuses,” Dame Angela said, after the…",
+   "summary": "Angela Eagle tells industry ‘people are sick of excuses’ as pollution levels remain high despite billions in investment. Angela Eagle, the environment secretary, has summoned water industry bosses to Whitehall after the environment watchdog said their companies continue to pump effluent into Britain’s waterways at “unacceptable” rates. “People are sick of excuses,” Dame Angela said, after the…",
    "link": "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
    "image": "https://i.guim.co.uk/img/media/3469bc3aca870abf752bda691c7b14a87a4fd375/123_1044_3497_2795/master/3497.jpg?width=700&quality=85&auto=format&fit=max&s=38e5724da6a87dee261b768beaf4f008",
    "published": "2026-10-29T16:39:48+00:00"
@@ -5480,7 +5524,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "The ‘breathing space budget’ – breathing space for the government, that is | John Crace",
-   "summary": "John Healey aced the morning-after media round because his Martin Lewis measures left nothing to challenge him on Maybe it had been one of the greatest acts of political genius after all. The day after the budget is usually the moment when things start to fall apart. When clued-up journalists and economists have had a chance to go through all the fine points the chancellor would rather everyone…",
+   "summary": "John Healey aced the morning-after media round because his Martin Lewis measures left nothing to challenge him on. Maybe it had been one of the greatest acts of political genius after all. The day after the budget is usually the moment when things start to fall apart. When clued-up journalists and economists have had a chance to go through all the fine points the chancellor would rather everyone…",
    "link": "https://www.theguardian.com/politics/2026/oct/29/the-breathing-space-budget-breathing-space-for-the-government-that-is",
    "image": "https://i.guim.co.uk/img/media/331a990997a442673f2fae223478481ad502237f/3070_0_4031_3229/master/4031.jpg?width=700&quality=85&auto=format&fit=max&s=9fde9ec4d0fcf00392c5da35277997f9",
    "published": "2026-10-29T16:11:11+00:00"
@@ -5557,7 +5601,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "H.264 Is Magic (2016)",
-   "summary": "451 points, 151 comments on Hacker News.",
+   "summary": "452 points, 151 comments on Hacker News.",
    "link": "https://sidbala.com/h-264-is-magic/",
    "image": "",
    "published": "2026-10-29T15:53:03+00:00"
@@ -5645,7 +5689,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Nvidia CEO reportedly targeted by an alleged Chinese spy",
-   "summary": "Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has been targeted by an alleged Chinese spy who had done business with him, according to a new report by the New York Times. Alice Huang or Huang Le, of no relation to the Nvidia CEO, is an executive at a…",
+   "summary": "Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China. US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has been targeted by an alleged Chinese spy who had done business with him, according to a new report by the New York Times. Alice Huang or Huang Le, of no relation to the Nvidia CEO, is an executive at a…",
    "link": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
    "image": "https://i.guim.co.uk/img/media/cb6b801a0c5ebf6942051bb480e34a89937dea28/567_351_6376_5101/master/6376.jpg?width=700&quality=85&auto=format&fit=max&s=38b18ade255af35416bc94df5456bc54",
    "published": "2026-10-29T15:23:48+00:00"
@@ -5700,7 +5744,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "What is it like to work when your co-workers are AI agents?",
-   "summary": "Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workers On an average workday, Dhruv Amin chats with dozens of colleagues to get things done at his AI startup Anything. He might ask Gwen, his executive assistant, to schedule a meeting, then troubleshoot a technical problem with Cody, his coding…",
+   "summary": "Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workers. On an average workday, Dhruv Amin chats with dozens of colleagues to get things done at his AI startup Anything. He might ask Gwen, his executive assistant, to schedule a meeting, then troubleshoot a technical problem with Cody, his coding…",
    "link": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
    "image": "https://i.guim.co.uk/img/media/96ab1d348d65947d1e741dfb0c36ee6140aa89e2/438_0_4207_3367/master/4207.jpg?width=700&quality=85&auto=format&fit=max&s=b7b0fd11a159587248708f217fba5655",
    "published": "2026-10-29T15:00:46+00:00"
@@ -5722,7 +5766,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "LLM Voice",
-   "summary": "499 points, 262 comments on Hacker News.",
+   "summary": "503 points, 263 comments on Hacker News.",
    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
    "image": "",
    "published": "2026-10-29T14:57:55+00:00"
@@ -5920,7 +5964,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "We're releasing the weights of Mistral Large 4",
-   "summary": "1528 points, 403 comments on Hacker News.",
+   "summary": "1538 points, 403 comments on Hacker News.",
    "link": "https://mistral.ai/news/mistral-large-4-oss/",
    "image": "",
    "published": "2026-10-29T14:13:21+00:00"
@@ -5964,7 +6008,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "The low-budget Brewers won the World Series – and exposed baseball’s biggest lie | Howard Bryant",
-   "summary": "Milwaukee’s first World Series championship is a rebuke to baseball’s oligarch class, whose insistence that small-market teams cannot compete has been laid bare as fiction For the entirety of the 2026 baseball season, the overlords of the game have stood on the single position that what has now happened could not happen, and the result was a year that has been treated like an appetizer for the…",
+   "summary": "Milwaukee’s first World Series championship is a rebuke to baseball’s oligarch class, whose insistence that small-market teams cannot compete has been laid bare as fiction. For the entirety of the 2026 baseball season, the overlords of the game have stood on the single position that what has now happened could not happen, and the result was a year that has been treated like an appetizer for the…",
    "link": "https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap",
    "image": "https://i.guim.co.uk/img/media/b7f72f5bf132f053f96a11e257b91b45f5e5193e/466_0_4660_3728/master/4660.jpg?width=700&quality=85&auto=format&fit=max&s=d67d0be7088ce43154f3400fb3b00b4f",
    "published": "2026-10-29T14:01:44+00:00"
@@ -5975,7 +6019,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "How £100 vanishes in minutes: inside the ‘slot farms’ targeted in the budget",
-   "summary": "John Healey has hit adult gaming centres with 25% tax. Undercover footage shows how they lure customers The last of five £20 notes disappears into the slot machine as The Verve’s Bittersweet Symphony plays over the shop’s sound system. That’s it, £100 gone in the space of about five minutes, swallowed up by one of the many “slot farms” that dominate the shopping streets of Peterborough. Continue…",
+   "summary": "John Healey has hit adult gaming centres with 25% tax. Undercover footage shows how they lure customers. The last of five £20 notes disappears into the slot machine as The Verve’s Bittersweet Symphony plays over the shop’s sound system. That’s it, £100 gone in the space of about five minutes, swallowed up by one of the many “slot farms” that dominate the shopping streets of Peterborough. Continue…",
    "link": "https://www.theguardian.com/society/2026/oct/29/inside-the-slot-farms-targeted-in-budget-gambling",
    "image": "https://i.guim.co.uk/img/media/36eda7894b81d6feb4d555afe1165394b4edfa70/112_48_924_739/master/924.jpg?width=700&quality=85&auto=format&fit=max&s=d00f57dea3fe5f35684d79b505052e8d",
    "published": "2026-10-29T14:00:45+00:00"
@@ -6151,7 +6195,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "England urged to hold nerve as Rugby League World Cup hopes hang by a thread",
-   "summary": "England need 68-point swing in final group games McDermott: ‘It’s a difficult situation to negotiate’ The England head coach, Brian McDermott, has urged his side to keep their nerve as they attempt to hold up their end of the bargain on Friday and secure what would be a remarkable qualification for the semi-finals of the Rugby League World Cup. Defeat by Tonga in their opening group game a…",
+   "summary": "England need 68-point swing in final group games. McDermott: ‘It’s a difficult situation to negotiate’ The England head coach, Brian McDermott, has urged his side to keep their nerve as they attempt to hold up their end of the bargain on Friday and secure what would be a remarkable qualification for the semi-finals of the Rugby League World Cup. Defeat by Tonga in their opening group game a…",
    "link": "https://www.theguardian.com/sport/2026/oct/29/england-rugby-league-world-cup-papua-new-guinea",
    "image": "https://i.guim.co.uk/img/media/156b8d408cf00f3ba3b3b2ada105388dd4c05620/758_0_6105_4885/master/6105.jpg?width=700&quality=85&auto=format&fit=max&s=dd3359ae5ed382516f679d60873acc92",
    "published": "2026-10-29T13:07:17+00:00"
@@ -6184,7 +6228,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Mussolini’s first Serie A goal marks high-flying Lazio’s thrashing of Sassuolo | Nicky Bandini",
-   "summary": "Home crowds have plummeted amid a dispute with the owner, but 10,000 travelled 300km to see Tuesday’s 6-2 win Serie A had its second scoreless draw of the season on Wednesday evening. Parma and Udinese were the culprits, though perhaps they can be allowed some grace. The game was not short on incident, Maduka Okoye saving a penalty for the Friulians, who had been on a six-game losing streak…",
+   "summary": "Home crowds have plummeted amid a dispute with the owner, but 10,000 travelled 300km to see Tuesday’s 6-2 win. Serie A had its second scoreless draw of the season on Wednesday evening. Parma and Udinese were the culprits, though perhaps they can be allowed some grace. The game was not short on incident, Maduka Okoye saving a penalty for the Friulians, who had been on a six-game losing streak…",
    "link": "https://www.theguardian.com/football/blog/2026/oct/29/serie-a-lazio-sassuolo-romano-floriani-mussolini-gennaro-gattuso",
    "image": "https://i.guim.co.uk/img/media/e8a8a2f04dd299369b096646c354ec27b04df718/350_0_3500_2800/master/3500.jpg?width=700&quality=85&auto=format&fit=max&s=02b49b8303482001bfd541edf3a1d816",
    "published": "2026-10-29T12:52:33+00:00"
@@ -6349,7 +6393,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "England’s Ivan Toney to stand trial during Euro 2028 after denying assault charge",
-   "summary": "Striker’s trial due to begin on 12 June 2028 He has denied assaulting man at Soho nightclub Ivan Toney has in effect been ruled out of Euro 2028 after his trial for assault occasioning actual bodily harm was scheduled for 12 June 2028. Toney appeared at Southwark crown court and stood in the dock to confirm a not guilty plea. The striker is accused of head-butting and punching Saber Da Silva at a…",
+   "summary": "Striker’s trial due to begin on 12 June 2028. He has denied assaulting man at Soho nightclub Ivan Toney has in effect been ruled out of Euro 2028 after his trial for assault occasioning actual bodily harm was scheduled for 12 June 2028. Toney appeared at Southwark crown court and stood in the dock to confirm a not guilty plea. The striker is accused of head-butting and punching Saber Da Silva at…",
    "link": "https://www.theguardian.com/football/2026/oct/29/ivan-toney-trial-during-euro-2028-denies-assault-charge",
    "image": "https://i.guim.co.uk/img/media/08f951981243f48945092a8567a005f7417746f8/527_0_4449_3559/master/4449.jpg?width=700&quality=85&auto=format&fit=max&s=a0e54fbcecc2a226f417dc804927b5d7",
    "published": "2026-10-29T11:55:21+00:00"
@@ -6591,7 +6635,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "A new wave of electric ferries is here in the US. Some even fly",
-   "summary": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of passengers aboard a nearby sightseeing ferry. “It’s quite a curiosity at the moment,” Eric Laakmann, the chief executive and co-founder of Vessev, said. Climate…",
+   "summary": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality. Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of passengers aboard a nearby sightseeing ferry. “It’s quite a curiosity at the moment,” Eric Laakmann, the chief executive and co-founder of Vessev, said. Climate…",
    "link": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
    "image": "https://i.guim.co.uk/img/media/ae28ea8755028f99a2f7893c18cb6170afa4e5f5/483_0_2415_1932/master/2415.jpg?width=700&quality=85&auto=format&fit=max&s=4e32cc6c7dac0b9834f69b17a4a92174",
    "published": "2026-10-29T10:00:31+00:00"
@@ -6811,7 +6855,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Liz Truss has brought our divided nation together – in mockery of her | Emma Brockes",
-   "summary": "Though times are hard and days are dark, the former PM’s latest book reminds us of the fun to be had when a figure is so ridiculous but cannot see it In these times of social and political division, it’s worth doing a quick audit of what keeps us together. Where, as we fight over what constitutes “wealth” and whether or not to go back in on Brexit , are the key sites of consensus? The Celebrity…",
+   "summary": "Though times are hard and days are dark, the former PM’s latest book reminds us of the fun to be had when a figure is so ridiculous but cannot see it. In these times of social and political division, it’s worth doing a quick audit of what keeps us together. Where, as we fight over what constitutes “wealth” and whether or not to go back in on Brexit , are the key sites of consensus? The Celebrity…",
    "link": "https://www.theguardian.com/commentisfree/2026/oct/29/liz-truss-new-book-prime-minister-divided-nation",
    "image": "https://i.guim.co.uk/img/media/e4294326c090cd0fa9218ca68185bc02b7b2135a/500_168_4790_3832/master/4790.jpg?width=700&quality=85&auto=format&fit=max&s=1c0d5afe8cb84f7c7891f9f189ee1383",
    "published": "2026-10-29T06:00:26+00:00"
@@ -6822,7 +6866,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "‘I’m no special guy. We can all do this’: Loek Hartog on rescuing Ollie Millroy from a burning car",
-   "summary": "Last month in Shanghai, the Dutch driver saved Ollie Millroy’s life after a crash. The incident created a unique friendship and a shared determination to improve safety Winter is coming and, at eight in the morning, Amsterdam is dark as Loek Hartog and I walk towards the park. The GT motor racing driver is only 24 but, after all he did last month, when he showed extraordinary courage in saving…",
+   "summary": "Last month in Shanghai, the Dutch driver saved Ollie Millroy’s life after a crash. The incident created a unique friendship and a shared determination to improve safety. Winter is coming and, at eight in the morning, Amsterdam is dark as Loek Hartog and I walk towards the park. The GT motor racing driver is only 24 but, after all he did last month, when he showed extraordinary courage in saving…",
    "link": "https://www.theguardian.com/sport/2026/oct/29/motor-racing-loek-hartog-ollie-millroy-remarkable-rescue",
    "image": "https://i.guim.co.uk/img/media/fa8cf19e677487ab35983e690e22a189ddc2b33e/787_510_4963_3970/master/4963.jpg?width=700&quality=85&auto=format&fit=max&s=fd6e7533cb5949c9379d4069e37bb239",
    "published": "2026-10-29T06:00:25+00:00"
@@ -6877,7 +6921,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "How will John Healey’s energy support package affect you?",
-   "summary": "Chancellor’s ‘new course’ includes a £100 one-off payment, low-carbon upgrade loans and an end to standing charges John Healey has unveiled a package of support for households being buffeted by “global economic storms”. “I’m setting a new course to get energy costs down in line with Europe,” the chancellor said in his maiden budget. In the long term, he hopes that changes in how Britain covers…",
+   "summary": "Chancellor’s ‘new course’ includes a £100 one-off payment, low-carbon upgrade loans and an end to standing charges. John Healey has unveiled a package of support for households being buffeted by “global economic storms”. “I’m setting a new course to get energy costs down in line with Europe,” the chancellor said in his maiden budget. In the long term, he hopes that changes in how Britain covers…",
    "link": "https://www.theguardian.com/money/2026/oct/29/john-healey-energy-support-package-budget-explainer",
    "image": "https://i.guim.co.uk/img/media/3eccb3a03d755b8b3060c32832bf9ff1d8a875a3/620_0_4250_3400/master/4250.jpg?width=700&quality=85&auto=format&fit=max&s=21d6051bfe5dfe348c855688c04e3c6e",
    "published": "2026-10-29T05:00:26+00:00"
@@ -6987,7 +7031,7 @@
    "section": "World",
    "lang": "en",
    "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
-   "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United States. After landing on a private jet with his family in Miami, Florida , on Wednesday morning, the far-right senator published the claim in a…",
+   "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador. Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United States. After landing on a private jet with his family in Miami, Florida , on Wednesday morning, the far-right senator published the claim in a…",
    "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
    "image": "https://i.guim.co.uk/img/media/42124afb15a49939e6544c20b2c8ea9523ee7816/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3b553f654351ab1682495deb9f0a0403",
    "published": "2026-10-28T22:06:46+00:00"
@@ -7240,7 +7284,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Budget 2026: what it means for your wallet, your mortgage and your pay",
-   "summary": "How the chancellor’s measures on tax, benefits and pensions will affect your personal finances Healey offers £100 payment to households to help navigate ‘global economic storms’ Budget 2026: key points at a glance Budget 2026 calculator: find out if you are better or worse off Josh graduated two years ago from an English university and is back home in London. He earns £28,500, out of which he…",
+   "summary": "How the chancellor’s measures on tax, benefits and pensions will affect your personal finances Healey offers £100 payment to households to help navigate ‘global economic storms’ Budget 2026: key points at a glance. Budget 2026 calculator: find out if you are better or worse off Josh graduated two years ago from an English university and is back home in London. He earns £28,500, out of which he…",
    "link": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-what-it-means-for-you",
    "image": "https://i.guim.co.uk/img/media/1fe98413fecc33da5508e67f679fca36074fbf95/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=eb678866e3efbb417d66c09fdcdee91f",
    "published": "2026-10-28T18:14:08+00:00"
@@ -7306,7 +7350,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "What you need to know about Your First Home scheme for first-time buyers",
-   "summary": "Chancellor fleshes out details of scheme unveiled last month to help 70,000 households on to the property ladder Budget 2026: key points at a glance Income tax: How much more will you pay? Nils Pratley: Labour’s modest reheat of help to buy is worth a try A new £4.7bn government scheme will help 70,000 households on to the property ladder and save first-time buyers “hundreds of pounds a month”…",
+   "summary": "Chancellor fleshes out details of scheme unveiled last month to help 70,000 households on to the property ladder Budget 2026: key points at a glance. Income tax: How much more will you pay? Nils Pratley: Labour’s modest reheat of help to buy is worth a try. A new £4.7bn government scheme will help 70,000 households on to the property ladder and save first-time buyers “hundreds of pounds a month”…",
    "link": "https://www.theguardian.com/money/2026/sep/28/first-home-scheme-first-time-buyers-what-you-need-to-know",
    "image": "https://i.guim.co.uk/img/media/203250998da44a29fefa5dd245ef22afaf40377c/140_0_3221_2577/master/3221.jpg?width=700&quality=85&auto=format&fit=max&s=8834d7b9e6fc33a386e483847f1e900d",
    "published": "2026-10-28T17:56:21+00:00"
@@ -7493,7 +7537,7 @@
    "section": "Markets",
    "lang": "en",
    "title": "Income tax: Healey’s budget leaves thresholds frozen again. How much more will you pay?",
-   "summary": "Tax policy means freezes reduce take-home pay as earnings rise in line with inflation Income tax thresholds are set to remain frozen after John Healey’s first budget as chancellor. One of the biggest tax rises in recent years has happened without a change in the rates at which people are taxed on their incomes. Instead it has come from successive government decisions to keep the thresholds…",
+   "summary": "Tax policy means freezes reduce take-home pay as earnings rise in line with inflation. Income tax thresholds are set to remain frozen after John Healey’s first budget as chancellor. One of the biggest tax rises in recent years has happened without a change in the rates at which people are taxed on their incomes. Instead it has come from successive government decisions to keep the thresholds…",
    "link": "https://www.theguardian.com/money/ng-interactive/2026/oct/28/budget-income-tax-thresholds-frozen-take-home-pay",
    "image": "https://i.guim.co.uk/img/media/fd8fc2226e42f5dace5cdf46887c5d7640e8b6f8/696_0_6139_4912/master/6139.jpg?width=700&quality=85&auto=format&fit=max&s=156670b55c06dcbc770cbc767a240d7e",
    "published": "2026-10-28T15:01:13+00:00"
@@ -7515,7 +7559,7 @@
    "section": "World",
    "lang": "en",
    "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-   "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the…",
+   "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website. Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the…",
    "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
    "image": "https://i.guim.co.uk/img/media/75e7c001f076ab3b02f724b5cffa0f0d6b244e26/320_316_1688_1351/master/1688.jpg?width=700&quality=85&auto=format&fit=max&s=7bbae0e087bf75c2fb77f30ba633ce62",
    "published": "2026-10-28T14:16:24+00:00"
@@ -7559,7 +7603,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "‘You have to believe’: Qwan’tez Stiggers, the New York Jets player who went from delivery driver to the NFL",
-   "summary": "When Stiggers’ father died, he dropped out of college to help his mother and 12 siblings. He thought his football dream had ended but made it in the end Qwan’tez Stiggers had only been in college for a few days when his world fell apart. Seven months after the car crash that put him in a coma, Stiggers’ father died. Stiggers quit college and returned home to support his mother, Kwanna, and 12…",
+   "summary": "When Stiggers’ father died, he dropped out of college to help his mother and 12 siblings. He thought his football dream had ended but made it in the end. Qwan’tez Stiggers had only been in college for a few days when his world fell apart. Seven months after the car crash that put him in a coma, Stiggers’ father died. Stiggers quit college and returned home to support his mother, Kwanna, and 12…",
    "link": "https://www.theguardian.com/sport/no-helmets-required/2026/oct/28/qwantez-stiggers-new-york-jets-nfl-delivery-driver-football",
    "image": "https://i.guim.co.uk/img/media/8275867047219b6851a6e6a8187bb3307c013583/349_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d0bce2192a1c0a39bebd73b9d2166454",
    "published": "2026-10-28T13:00:03+00:00"
@@ -7658,7 +7702,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains | Rebecca Bailey",
-   "summary": "Real Madrid forward was dropped by brands for comments Chinese media generally steered clear of outlining It’s been a bad start to the week for the Kylian Mbappé. The France forward missed out on joining the elite roster of Ballon d’Or winners and instead became the latest high-profile addition to a far less illustrious list – that of foreign brands and individuals charged with “hurting the…",
+   "summary": "Real Madrid forward was dropped by brands for comments Chinese media generally steered clear of outlining. It’s been a bad start to the week for the Kylian Mbappé. The France forward missed out on joining the elite roster of Ballon d’Or winners and instead became the latest high-profile addition to a far less illustrious list – that of foreign brands and individuals charged with “hurting the…",
    "link": "https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains",
    "image": "https://i.guim.co.uk/img/media/48b68c584d86d80c113be4f082b0f000e8d34bc8/347_0_2649_2120/master/2649.jpg?width=700&quality=85&auto=format&fit=max&s=4b7389030a3decd009e357b9fb1ac571",
    "published": "2026-10-28T10:00:04+00:00"
@@ -7680,7 +7724,7 @@
    "section": "World",
    "lang": "en",
    "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-   "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director…",
+   "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment. The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya…",
    "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
    "image": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=8d2290453cbf85b2a597ebedc995f05a",
    "published": "2026-10-28T09:37:49+00:00"
@@ -7713,7 +7757,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Jay-Z is the perfect Super Bowl shill for a league of billionaires",
-   "summary": "The rapper lends the NFL a veneer of credibility but is unlikely to push back on the establishment figures who run the league On Monday the NFL named Jay-Z as the headliner for this season’s Super Bowl half-time show. His company, Roc Nation, produces the show under a 2019 deal reportedly worth $5m a year, and the agreement was extended for another five years in 2024. NFL commissioner Roger…",
+   "summary": "The rapper lends the NFL a veneer of credibility but is unlikely to push back on the establishment figures who run the league. On Monday the NFL named Jay-Z as the headliner for this season’s Super Bowl half-time show. His company, Roc Nation, produces the show under a 2019 deal reportedly worth $5m a year, and the agreement was extended for another five years in 2024. NFL commissioner Roger…",
    "link": "https://www.theguardian.com/sport/2026/oct/28/jay-z-halftime-show-super-bowl",
    "image": "https://i.guim.co.uk/img/media/26a5512f05ddcff1c8683136cd4969026f38d6db/328_0_3866_3095/master/3866.jpg?width=700&quality=85&auto=format&fit=max&s=fc1ed83aa5a61137b225860e066e61f4",
    "published": "2026-10-28T09:15:02+00:00"
@@ -7746,7 +7790,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Lise Klaveness: ‘Certainly there are people that can challenge Infantino’",
-   "summary": "Norwegian federation president distances self from Fifa presidency but believes governing body can be reformed As the rain whips around Oslo’s government quarter, Lise Klaveness is shielding herself from the wind, trying to work out tactics. “Of course we cannot probably do everything alone, but we have a voice, we have the right to speak, we have the right to suggest, so let’s see,” she says.…",
+   "summary": "Norwegian federation president distances self from Fifa presidency but believes governing body can be reformed. As the rain whips around Oslo’s government quarter, Lise Klaveness is shielding herself from the wind, trying to work out tactics. “Of course we cannot probably do everything alone, but we have a voice, we have the right to speak, we have the right to suggest, so let’s see,” she says.…",
    "link": "https://www.theguardian.com/football/2026/oct/28/lise-klaveness-certainly-there-are-people-that-can-challenge-infantino",
    "image": "https://i.guim.co.uk/img/media/1557de2848d276d39119101683740a2a48541592/267_0_3337_2669/master/3337.jpg?width=700&quality=85&auto=format&fit=max&s=60bb576a026bcbdf20d07400119d6191",
    "published": "2026-10-28T08:00:03+00:00"
@@ -7757,7 +7801,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Jimmy Anderson’s stubborn refusal to give up has fuelled his greatest achievements | Emma John",
-   "summary": "Lancashire have moved on without him, but the 44-year-old England stalwart wants to keep going as long as his body allows Jimmy Anderson could teach Philip Marlowe a thing or two about The Long Goodbye. England’s leading wicket-taker in Tests is of that sporting breed who have no interest in bowing out at the top. Like Andy Murray before him , he has shown little enthusiasm to bow out at all, as…",
+   "summary": "Lancashire have moved on without him, but the 44-year-old England stalwart wants to keep going as long as his body allows. Jimmy Anderson could teach Philip Marlowe a thing or two about The Long Goodbye. England’s leading wicket-taker in Tests is of that sporting breed who have no interest in bowing out at the top. Like Andy Murray before him , he has shown little enthusiasm to bow out at all, as…",
    "link": "https://www.theguardian.com/sport/2026/oct/28/cricket-jimmy-anderson-england-lancashire-stubborn-farewell-tour",
    "image": "https://i.guim.co.uk/img/media/e0fc0298fca80ea8d3e7c9e1dc9be59e874864b3/460_86_3654_2923/master/3654.jpg?width=700&quality=85&auto=format&fit=max&s=cfd7098aa66972228c74ceb13e5ad8d2",
    "published": "2026-10-28T08:00:02+00:00"
@@ -7933,7 +7977,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "David Squires on … Manchester United’s latest crisis and dirty laundry",
-   "summary": "Our cartoonist on the expected end for Michael Carrick at Old Trafford and what could come next Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
+   "summary": "Our cartoonist on the expected end for Michael Carrick at Old Trafford and what could come next Buy this cartoon | Some of David’s favourite works. And his latest book, Chaos in the Box: get it now Continue reading...",
    "link": "https://www.theguardian.com/football/picture/2026/oct/27/david-squires-on-manchester-united-latest-crisis-michael-carrick-cartoon",
    "image": "https://i.guim.co.uk/img/media/f571b37ba81160d58ade2bf553905154796875d4/371_2637_2187_1750/master/2187.jpg?width=700&quality=85&auto=format&fit=max&s=425fc14515af58586a86a45b7ca60213",
    "published": "2026-10-27T11:35:37+00:00"
@@ -7988,7 +8032,7 @@
    "section": "World",
    "lang": "en",
    "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
-   "summary": "Rubio’s decision not to meet Narendra Modi last week was seen by some as a snub – but by focusing on business leaders and oil, the secretary of state made American priorities clear. Plus: the artist bringing a female perspective to men’s clothing • Don’t get This is India delivered to your inbox? Sign up here When the US secretary of state, Marco Rubio, visited India for the second time this…",
+   "summary": "Rubio’s decision not to meet Narendra Modi last week was seen by some as a snub – but by focusing on business leaders and oil, the secretary of state made American priorities clear. Plus: the artist bringing a female perspective to men’s clothing. • Don’t get This is India delivered to your inbox? Sign up here. When the US secretary of state, Marco Rubio, visited India for the second time this…",
    "link": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
    "image": "https://i.guim.co.uk/img/media/1feda1d03fd340d455bf7e59753f9cbfd2d7b3e0/427_0_4914_3933/master/4914.jpg?width=700&quality=85&auto=format&fit=max&s=ec3aaee6bd4d95d9cb4984a549bcb064",
    "published": "2026-10-27T09:21:33+00:00"
@@ -8010,7 +8054,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
-   "summary": "The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming flavour. There was a lovely moment at London’s Palladium theatre on Monday, with the clock creeping towards 11pm at the end of a startlingly shrill and bloated evening of never‑ending awards and never-ending…",
+   "summary": "The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London. Well, there’s something new. Football: now available in new, genuinely heartwarming flavour. There was a lovely moment at London’s Palladium theatre on Monday, with the clock creeping towards 11pm at the end of a startlingly shrill and bloated evening of never‑ending awards and never-ending…",
    "link": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay",
    "image": "https://i.guim.co.uk/img/media/759e1c5e2bd2369fac929d04b10dc18416d063e1/0_501_2198_1758/master/2198.jpg?width=700&quality=85&auto=format&fit=max&s=c9c6248663e93bd9edaf39f2aa0d3525",
    "published": "2026-10-27T08:00:06+00:00"
@@ -8098,7 +8142,7 @@
    "section": "World",
    "lang": "en",
    "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-   "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of thousands of civilians killed over several days. A year after the fall of El…",
+   "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze. Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of thousands of civilians killed over several days. A year after the fall of El…",
    "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
    "image": "https://i.guim.co.uk/img/media/c671810cd05b5ef573941d3edd85008c82d9bedf/687_437_3773_3019/master/3773.jpg?width=700&quality=85&auto=format&fit=max&s=524e936e3a83127f39f5d50fd08297b6",
    "published": "2026-10-26T15:07:23+00:00"
@@ -8153,7 +8197,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "The WNBA finals are a basketball wonderland – unless you’re part of the Maga machine",
-   "summary": "The Dream and Valkyries are tied at 2-2 after four absorbing games. Many in America would rather we revisited the national anthem debate When Tyler Perry leading lady Crystal Renee took center stage at State Farm Arena to sing the national anthem before the Atlanta Dream’s WNBA finals clash with the Golden State Valkyries on Saturday afternoon, a smattering of photographers, game officials and…",
+   "summary": "The Dream and Valkyries are tied at 2-2 after four absorbing games. Many in America would rather we revisited the national anthem debate. When Tyler Perry leading lady Crystal Renee took center stage at State Farm Arena to sing the national anthem before the Atlanta Dream’s WNBA finals clash with the Golden State Valkyries on Saturday afternoon, a smattering of photographers, game officials and…",
    "link": "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine",
    "image": "https://i.guim.co.uk/img/media/ccc75ad6c673e679fd1c8d4da6e834d225cb34b5/0_0_3384_2708/master/3384.jpg?width=700&quality=85&auto=format&fit=max&s=88dbc735df18b17f2050ca67e418add8",
    "published": "2026-10-25T12:48:44+00:00"
@@ -8186,7 +8230,7 @@
    "section": "World",
    "lang": "en",
    "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
-   "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has said after the first call with his 81-year-old mother in more than five years. “She still sounds certainly all there…",
+   "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders. Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has said after the first call with his 81-year-old mother in more than five years. “She still sounds certainly all there…",
    "link": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
    "image": "https://i.guim.co.uk/img/media/5b99c6ee79292b609bb643617edbc7e5231d66c3/285_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=fb75e8f8b4faadccb82a5121944f0425",
    "published": "2026-10-25T02:00:49+00:00"
@@ -8197,7 +8241,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "The sexual assault scandal rocked gymnastics – but has pace of change in the sport been too slow?",
-   "summary": "Former USA team doctor Larry Nassar’s 2018 conviction sparked a global reckoning in gymnastics, yet gymnasts say they are still being let down It has been 10 years since the Indianapolis Star published allegations of sexual abuse by Larry Nassar, the former team doctor for USA Gymnastics, setting off a chain of events that would lead to a reckoning for the sport. Hundreds of women came forward…",
+   "summary": "Former USA team doctor Larry Nassar’s 2018 conviction sparked a global reckoning in gymnastics, yet gymnasts say they are still being let down. It has been 10 years since the Indianapolis Star published allegations of sexual abuse by Larry Nassar, the former team doctor for USA Gymnastics, setting off a chain of events that would lead to a reckoning for the sport. Hundreds of women came forward…",
    "link": "https://www.theguardian.com/sport/2026/oct/24/sexual-assault-scandal-rocked-gymnastics-larry-nassar-sport-change-slow",
    "image": "https://i.guim.co.uk/img/media/a4943adc53bbaa8b3c2d38e4cf3cfce0e71ad211/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=e1423aebbb6ea275038268a6fd9a5774",
    "published": "2026-10-24T05:00:25+00:00"
@@ -8219,7 +8263,7 @@
    "section": "Sports",
    "lang": "en",
    "title": "‘A different kid’: from karting to F1 champion-elect, Antonelli’s ability has always stood out",
-   "summary": "With first drivers’ title all but secure, a friendlier champion would be hard to find, but Italian’s eight wins this season speak to his focus Even as Kimi Antonelli may be world champion-elect, it is sometimes hard to equate the young man who has driven with such exceptional skill and no little verve to touching distance of an historic first Formula One title with the smiling, wide-eyed kid with…",
+   "summary": "With first drivers’ title all but secure, a friendlier champion would be hard to find, but Italian’s eight wins this season speak to his focus. Even as Kimi Antonelli may be world champion-elect, it is sometimes hard to equate the young man who has driven with such exceptional skill and no little verve to touching distance of an historic first Formula One title with the smiling, wide-eyed kid…",
    "link": "https://www.theguardian.com/sport/2026/oct/23/kimi-antonelli-f1-champion-elect",
    "image": "https://i.guim.co.uk/img/media/6f0db2bfb38e108c19c71b67116c874870e6e958/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4d15aab57fc110595869e43f342b9c2e",
    "published": "2026-10-23T19:00:12+00:00"
