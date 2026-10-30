@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T10:42:50+00:00",
+ "generated": "2026-10-30T10:44:03+00:00",
  "status": {
   "politiken": {
    "ok": true,
@@ -14,16 +14,16 @@
    "items": 20
   },
   "information": {
-   "ok": false,
-   "error": "ParseError: mismatched tag: line 13, column 249"
+   "ok": true,
+   "items": 20
   },
   "wallnot": {
    "ok": true,
    "items": 20
   },
   "cphpost": {
-   "ok": false,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 119"
+   "ok": true,
+   "items": 12
   },
   "thelocal": {
    "ok": true,
@@ -244,6 +244,16 @@
    "published": "2026-10-30T10:23:00+00:00"
   },
   {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "On the US border in Texas, Trump deportation drive galvanises midterm vote",
+   "summary": "Border issues helped propel Trump in the Rio Grande Valley in 2024. His deportation policies could bury Republicans.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote?traffic_source=rss",
+   "published": "2026-10-30T10:22:54+00:00"
+  },
+  {
    "feed": "euronews",
    "outlet": "Euronews",
    "section": "World",
@@ -252,6 +262,16 @@
    "summary": "Flowers have been placed at Patrick Stewart's Hollywood Walk of Fame star following reports of the British actor's death at 86. Visitors gather in Los Angeles to remember his celebrated screen roles.",
    "link": "https://www.euronews.com/video/2026/10/30/us-flowers-laid-at-patrick-stewarts-hollywood-star-after-his-death",
    "published": "2026-10-30T10:21:59+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Dakar Rally 2027 to be held in Portugal, Morocco as Saudi hosting revoked",
+   "summary": "Organisers say moving Dakar Rally, likely scheduled January 9-23, out of Saudi Arabia was 'exceptional and one-off'.",
+   "link": "https://www.aljazeera.com/sports/2026/10/30/dakar-rally-2027-to-be-held-in-portugal-morocco-as-saudi-hosting-revoked?traffic_source=rss",
+   "published": "2026-10-30T10:21:13+00:00"
   },
   {
    "feed": "dr",
@@ -639,7 +659,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "How Do You Take a Picture of a Black Hole?",
-   "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ Comments URL: https://news.ycombinator.com/item?id=50301717 Points: 7 # Comments: 2",
+   "summary": "7 points, 2 comments on Hacker News.",
    "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
    "published": "2026-10-30T09:49:02+00:00"
   },
@@ -791,7 +811,7 @@
    "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
    "summary": "The leading contenders, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, aren’t substantially different in their approach to Israel’s security or in their opposition to a Palestinian state.",
    "link": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
-   "published": "2026-10-30T09:03:37+00:00"
+   "published": "2026-10-30T09:03:38+00:00"
   },
   {
    "feed": "dr",
@@ -902,6 +922,16 @@
    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
    "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
    "published": "2026-10-30T09:00:00+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Opinion: Don’t just pass through Copenhagen",
+   "summary": "The author: Madison Hoang is a Vietnamese national based in Boston. From 2025–26, she studied Political Science at the University of Copenhagen. Hotels and tourist sites are now restricting influencer photoshoots, Lauren Cochrane reported in The Guardian. But treating places as backdrops goes beyond influencers. Many of us can travel for a weekend or live […]",
+   "link": "https://cphpost.dk/2026-10-30/opinion/opinion-dont-just-pass-through-copenhagen/",
+   "published": "2026-10-30T08:59:30+00:00"
   },
   {
    "feed": "euronews",
@@ -1159,7 +1189,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
-   "summary": "Article URL: https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates Comments URL: https://news.ycombinator.com/item?id=50300853 Points: 57 # Comments: 49",
+   "summary": "57 points, 49 comments on Hacker News.",
    "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
    "published": "2026-10-30T07:41:13+00:00"
   },
@@ -1359,7 +1389,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
-   "summary": "Article URL: https://www.workatastartup.com/jobs/98722 Comments URL: https://news.ycombinator.com/item?id=50300643 Points: 0 # Comments: 0",
+   "summary": "0 points, 0 comments on Hacker News.",
    "link": "https://www.workatastartup.com/jobs/98722",
    "published": "2026-10-30T07:00:35+00:00"
   },
@@ -1604,6 +1634,106 @@
    "published": "2026-10-30T05:42:09+00:00"
   },
   {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Putin defends talks with Finnish and Norwegian leaders amid European criticism",
+   "summary": "Russian President Vladimir Putin said Thursday that a phone call with the leaders of Finland and Norway was reasonable, despite criticism from Denmark, Sweden and Poland. Speaking at a press conference following a Russia-Africa summit, Putin said Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre had contacted him in their national capacities, […]",
+   "link": "https://cphpost.dk/2026-10-30/global/putin-defends-talks-with-finnish-and-norwegian-leaders-amid-european-criticism/",
+   "published": "2026-10-30T05:38:49+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Israel election leaves Netanyahu and opposition short of parliamentary majority",
+   "summary": "All votes have been counted in Israel’s parliamentary election, but neither Prime Minister Benjamin Netanyahu’s bloc nor the opposition has secured enough seats to form a majority. Netanyahu’s governing bloc won 53 seats, while the opposition bloc led by Gadi Eisenkot secured 48, according to figures reported by the Times of Israel. A majority in […]",
+   "link": "https://cphpost.dk/2026-10-30/global/israel-election-leaves-netanyahu-and-opposition-short-of-parliamentary-majority/",
+   "published": "2026-10-30T05:38:43+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Ukraine reportedly pauses attacks on Russian oil refineries after Trump pressure",
+   "summary": "Ukraine has temporarily halted strikes on Russian oil refineries following pressure from U.S. President Donald Trump, according to a report by The Wall Street Journal. The newspaper reported Thursday, citing unnamed sources familiar with the matter, that the suspension began early last week and is expected to continue until after the U.S. midterm elections on […]",
+   "link": "https://cphpost.dk/2026-10-30/global/ukraine-reportedly-pauses-attacks-on-russian-oil-refineries-after-trump-pressure/",
+   "published": "2026-10-30T05:38:39+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Denmark introduces new GP payment system to improve care for patients with greater needs",
+   "summary": "Patients in Denmark will be able to book different types of appointments with their general practitioners under a new four-year agreement aimed at improving access to medical care. The agreement, announced Thursday, was negotiated between Praktiserende Lægers Organisation (PLO), the Danish organization representing general practitioners, and Regionernes Lønnings- og Takstnævn (RLTN), the regional…",
+   "link": "https://cphpost.dk/2026-10-30/news/round-up/denmark-introduces-new-gp-payment-system-to-improve-care-for-patients-with-greater-needs/",
+   "published": "2026-10-30T05:38:34+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Patrick Stewart dies at 86 after battle with dementia",
+   "summary": "British actor Patrick Stewart, best known for playing Captain Jean-Luc Picard in “Star Trek” and Professor Charles Xavier in the “X-Men” films, has died at his home in Los Angeles. His death was announced in a statement posted on his X account. He was 86. “It is with deep sorrow that we announce that Sir […]",
+   "link": "https://cphpost.dk/2026-10-30/global/patrick-stewart-dies-at-86-after-battle-with-dementia/",
+   "published": "2026-10-30T05:38:29+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Robbie Williams and Slash join Tinderbox 2027 lineup",
+   "summary": "British pop star Robbie Williams will return to Denmark’s Tinderbox festival next summer, alongside guitarist Slash, who will make his debut at the Odense event. The festival announced the bookings in a press release, adding five acts to its 2027 lineup. Williams previously headlined Tinderbox’s inaugural edition in 2015 and has remained one of the […]",
+   "link": "https://cphpost.dk/2026-10-30/news/round-up/robbie-williams-and-slash-join-tinderbox-2027-lineup/",
+   "published": "2026-10-30T05:38:23+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "France to deploy 70,000 security personnel amid fears of protest violence",
+   "summary": "French authorities are preparing for another weekend of demonstrations, with Interior Minister Laurent Nunez warning of a high risk of unrest on Saturday. The government plans to deploy 70,000 police officers and other security personnel across the country, Reuters reported Thursday. Nunez said authorities had identified calls for demonstrations from trade unions, far-left groups and […]",
+   "link": "https://cphpost.dk/2026-10-30/global/france-to-deploy-70000-security-personnel-amid-fears-of-protest-violence/",
+   "published": "2026-10-30T05:38:18+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Denmark, Greenland and Faroe Islands to jointly lead Nordic Council in 2027",
+   "summary": "Lars-Christian Brask, a member of Denmark’s parliament for Liberal Alliance, has been elected president of the Nordic Council, which brings together parliamentarians from the Nordic countries. Brask was elected Thursday during the council’s session in Helsinki, Finland, according to a statement from Folketinget, Denmark’s parliament. Denmark will take over the rotating presidency from Finland in…",
+   "link": "https://cphpost.dk/2026-10-30/news/round-up/denmark-greenland-and-faroe-islands-to-jointly-lead-nordic-council-in-2027/",
+   "published": "2026-10-30T05:38:13+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Arctic sea ice survives summer with less melting than expected despite record-low winter",
+   "summary": "Arctic sea ice has retained more of its coverage than expected this summer, thanks to unusually cool weather conditions, according to the Danish Meteorological Institute (DMI). In a statement Thursday, DMI reported that Arctic sea ice reached a record-low winter extent earlier this year but experienced relatively limited melting during the summer months. A large […]",
+   "link": "https://cphpost.dk/2026-10-30/news/round-up/arctic-sea-ice-survives-summer-with-less-melting-than-expected-despite-record-low-winter/",
+   "published": "2026-10-30T05:38:08+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Binance freezes 3 billion USD in assets after major cryptocurrency security breach",
+   "summary": "The world’s largest cryptocurrency exchange is investigating a suspected cyberattack that may have affected billions of dollars in digital assets. Binance announced that it had frozen 3 billion USD in assets following the security breach, while estimating that cryptocurrency worth 6.3 billion USD had been affected. Company co-founder Yi He sought to reassure customers, writing […]",
+   "link": "https://cphpost.dk/2026-10-30/global/binance-freezes-3-billion-usd-in-assets-after-major-cryptocurrency-security-breach/",
+   "published": "2026-10-30T05:38:01+00:00"
+  },
+  {
    "feed": "nyt",
    "outlet": "The New York Times",
    "section": "World",
@@ -1732,6 +1862,26 @@
    "summary": "The rediscovery of a forgotten recording from 1935 sheds light on a language rooted in the state’s history of slavery and French colonialism.",
    "link": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
    "published": "2026-10-30T05:00:08+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "En god og en dårlig nyhed om valget i Israel",
+   "summary": "I ugens Radio Information taler vi om det netop overståede israelske valg. Vi vender udsigterne til, når/hvis Trump lider et stort nedslag i næste uge. Og så skal det handle om de grøntsager, som hver uge bliver anmeldt i Moderne Tider",
+   "link": "https://www.information.dk/kultur/2026/10/god-daarlig-nyhed-valget-israel",
+   "published": "2026-10-30T05:00:00+00:00"
+  },
+  {
+   "feed": "cphpost",
+   "outlet": "The Copenhagen Post",
+   "section": "Denmark",
+   "lang": "en",
+   "title": "Freelancing after a layoff: A jobseeker sets her own path in Denmark",
+   "summary": "Cristina decided to work as a remote freelancer in Denmark after a layoff. She believes it’s a solution other jobseekers could benefit from too.",
+   "link": "https://cphpost.dk/2026-10-30/business-education/career/freelancing-after-a-layoff-a-jobseeker-sets-her-own-path-in-denmark/",
+   "published": "2026-10-30T05:00:00+00:00"
   },
   {
    "feed": "aljazeera",
@@ -1909,7 +2059,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Pico CSS is no longer maintained",
-   "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 146 # Comments: 63",
+   "summary": "146 points, 63 comments on Hacker News.",
    "link": "https://github.com/picocss/pico/discussions/754",
    "published": "2026-10-30T01:58:44+00:00"
   },
@@ -1999,7 +2149,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Herdr has released native app",
-   "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 214 # Comments: 138",
+   "summary": "214 points, 138 comments on Hacker News.",
    "link": "https://github.com/herdrdev/herdr-app",
    "published": "2026-10-30T00:42:41+00:00"
   },
@@ -2179,7 +2329,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-   "summary": "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 121 # Comments: 29",
+   "summary": "121 points, 29 comments on Hacker News.",
    "link": "https://journal.animationstudies.org/article/id/66/",
    "published": "2026-10-29T22:26:38+00:00"
   },
@@ -2229,7 +2379,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Should a medical diagnosis reshape the past? (2025)",
-   "summary": "Article URL: https://chengela.substack.com/p/should-a-medical-diagnosis-reshape Comments URL: https://news.ycombinator.com/item?id=50296920 Points: 44 # Comments: 9",
+   "summary": "44 points, 9 comments on Hacker News.",
    "link": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
    "published": "2026-10-29T22:12:29+00:00"
   },
@@ -2299,7 +2449,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 293 # Comments: 104",
+   "summary": "293 points, 104 comments on Hacker News.",
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "published": "2026-10-29T21:40:28+00:00"
   },
@@ -2309,7 +2459,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-   "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1389 # Comments: 883",
+   "summary": "1389 points, 883 comments on Hacker News.",
    "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
    "published": "2026-10-29T21:38:59+00:00"
   },
@@ -2389,7 +2539,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "ElementaryUI – Swift, in the Browser",
-   "summary": "Article URL: https://elementary.codes Comments URL: https://news.ycombinator.com/item?id=50295821 Points: 106 # Comments: 31",
+   "summary": "106 points, 31 comments on Hacker News.",
    "link": "https://elementary.codes",
    "published": "2026-10-29T20:56:39+00:00"
   },
@@ -2449,7 +2599,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-   "summary": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 214 # Comments: 15",
+   "summary": "214 points, 15 comments on Hacker News.",
    "link": "https://github.com/SheepSeb/tinyworldformer",
    "published": "2026-10-29T20:32:28+00:00"
   },
@@ -2894,6 +3044,16 @@
    "published": "2026-10-29T18:02:26+00:00"
   },
   {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Jacobs nye forståelse af sin far: »Det er jo ynkeligt«",
+   "summary": "Informations stribe om forfatterspiren og eksiljyden Jacob",
+   "link": "https://www.information.dk/2026/10/jacobs-nye-forstaaelse-far-ynkeligt",
+   "published": "2026-10-29T18:00:00+00:00"
+  },
+  {
    "feed": "techcrunch",
    "outlet": "TechCrunch",
    "section": "Tech",
@@ -3119,7 +3279,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "16colo.rs – ANSI/ASCII art archive",
-   "summary": "Article URL: https://16colo.rs/ Comments URL: https://news.ycombinator.com/item?id=50291421 Points: 122 # Comments: 9",
+   "summary": "122 points, 9 comments on Hacker News.",
    "link": "https://16colo.rs/",
    "published": "2026-10-29T16:14:28+00:00"
   },
@@ -3159,7 +3319,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "H.264 Is Magic (2016)",
-   "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 438 # Comments: 150",
+   "summary": "438 points, 150 comments on Hacker News.",
    "link": "https://sidbala.com/h-264-is-magic/",
    "published": "2026-10-29T15:53:03+00:00"
   },
@@ -3229,7 +3389,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "LLM Voice",
-   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 485 # Comments: 255",
+   "summary": "485 points, 255 comments on Hacker News.",
    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
    "published": "2026-10-29T14:57:55+00:00"
   },
@@ -3319,7 +3479,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "We're releasing the weights of Mistral Large 4",
-   "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1494 # Comments: 398",
+   "summary": "1494 points, 398 comments on Hacker News.",
    "link": "https://mistral.ai/news/mistral-large-4-oss/",
    "published": "2026-10-29T14:13:21+00:00"
   },
@@ -3332,6 +3492,16 @@
    "summary": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
    "link": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-29T14:08:23+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Bolsonaro viser os, hvor langt det ydre højre vil gå for magten",
+   "summary": "Flávio Bolsonaros selvudnævnelse som »Brasiliens retmæssige leder« viser også, hvorfor politisk polarisering er demokratiets største fjende",
+   "link": "https://www.information.dk/udland/2026/10/bolsonaro-viser-langt-ydre-hoejre-gaa-magten",
+   "published": "2026-10-29T14:07:56+00:00"
   },
   {
    "feed": "nyt",
@@ -3354,6 +3524,16 @@
    "published": "2026-10-29T13:57:58+00:00"
   },
   {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Datacenter-stop i Holbæk: Det nytter",
+   "summary": "Intense borgerprotester får kommunalbestyrelsen til at vende på en tallerken: Planer for stort hyperscale-datacenter er skrinlagt",
+   "link": "https://www.information.dk/indland/leder/2026/10/datacenter-stop-holbaek-nytter",
+   "published": "2026-10-29T13:51:13+00:00"
+  },
+  {
    "feed": "nyt",
    "outlet": "The New York Times",
    "section": "World",
@@ -3372,6 +3552,16 @@
    "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
    "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-29T13:44:39+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "DF’s fede fidus: Lover vælgere billigere benzin med ny kampagne, men leverer ingenting",
+   "summary": "Dansk Folkeparti vil hjælpe deres vælgere med en vej til billigere benzin. Men der er stort set intet at hente, viser Informations test. Så hvad er pointen med partiets nye stunt egentlig?",
+   "link": "https://www.information.dk/indland/2026/10/dfs-fede-fidus-lover-vaelgere-billigere-benzin-ny-kampagne-leverer-ingenting",
+   "published": "2026-10-29T13:34:02+00:00"
   },
   {
    "feed": "dw",
@@ -3412,6 +3602,16 @@
    "summary": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder's underlying mechanisms and potentially lead to earlier detection and new treatments.",
    "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
    "published": "2026-10-29T13:14:52+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Gyldendals skønlitterære redaktion vil ikke bruge AI i den redaktionelle proces",
+   "summary": "»Vi vil fremadrettet opfordre forfattere til at oplyse os om, hvis AI har bidraget til ideer, plot eller formuleringer,« siger forlagschef for Skønlitteratur Simon Pasternak",
+   "link": "https://www.information.dk/kultur/2026/10/gyldendals-skoenlitteraere-redaktion-bruge-ai-redaktionelle-proces",
+   "published": "2026-10-29T13:11:33+00:00"
   },
   {
    "feed": "sciencedaily",
@@ -3469,9 +3669,19 @@
    "section": "Tech",
    "lang": "en",
    "title": "If IPv4 were land",
-   "summary": "Article URL: https://iptrust.co/blog/if-ipv4-were-land Comments URL: https://news.ycombinator.com/item?id=50287775 Points: 290 # Comments: 405",
+   "summary": "290 points, 405 comments on Hacker News.",
    "link": "https://iptrust.co/blog/if-ipv4-were-land",
    "published": "2026-10-29T12:19:00+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Alle mobber Rasmus",
+   "summary": "Informations egen sladderspalte, hvor ingen er for høj eller lav nok til at flyve under radaren. Et uundværligt og personorienteret nyhedsoverblik",
+   "link": "https://www.information.dk/2026/10/mobber-rasmus",
+   "published": "2026-10-29T12:18:54+00:00"
   },
   {
    "feed": "nyt",
@@ -3664,6 +3874,16 @@
    "published": "2026-10-29T09:48:26+00:00"
   },
   {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "»Jeg var ikke klar over, at min søns adhd-diagnose ville forfølge ham ind i voksenlivet«",
+   "summary": "Nicola Nyhave har både som psykolog og mor været med til at sende børn i udredning. I dag ser hun langt mere kritisk på psykiatrien og de mange diagnoser til børn i mistrivsel",
+   "link": "https://www.information.dk/indland/2026/10/klar-soens-adhd-diagnose-forfoelge-voksenlivet",
+   "published": "2026-10-29T09:09:07+00:00"
+  },
+  {
    "feed": "nyt",
    "outlet": "The New York Times",
    "section": "World",
@@ -3682,6 +3902,36 @@
    "summary": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
    "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
    "published": "2026-10-29T09:02:00+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Har regeringen glemt sit løfte om afgift på privatfly?",
+   "summary": "Almindelige mennesker betaler flyafgift, mens de rigestes privatfly slipper. Regeringsgrundlaget lagde ellers op til, at privatfly også skulle omfattes af afgiften",
+   "link": "https://www.information.dk/debat/2026/10/regeringen-glemt-loefte-afgift-paa-privatfly",
+   "published": "2026-10-29T08:52:17+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Hvem skal beskytte vores data i fremtiden, hvis regeringen nedlægger HTX?",
+   "summary": "Hele det danske landshold i cybersikkerhed har gået på HTX. Derfor virker det rimelig dumt, at politikerne vil lukke uddannelsen i en tid, der kalder på flere tekniske talenter",
+   "link": "https://www.information.dk/debat/2026/10/hvem-beskytte-vores-data-fremtiden-regeringen-nedlaegger-htx",
+   "published": "2026-10-29T08:26:39+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Venstres tradition for folkeligt frisind kolliderer med Troels Lunds nye topstyring",
+   "summary": "Med ekskluderingen af Preben Bang Henriksen har formanden flyttet konflikten fra en konkret landbrugsstrid til et nu langt større spørgsmål om, hvilke uenigheder Venstre overhovedet kan rumme",
+   "link": "https://www.information.dk/indland/2026/10/venstres-tradition-folkeligt-frisind-kolliderer-troels-lunds-nye-topstyring",
+   "published": "2026-10-29T08:14:11+00:00"
   },
   {
    "feed": "sciencedaily",
@@ -3814,6 +4064,16 @@
    "published": "2026-10-29T01:13:05+00:00"
   },
   {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "De sorgløse tider er forbi",
+   "summary": "Bare ikke for alle",
+   "link": "https://www.information.dk/moti/2026/10/sorgloese-tider-forbi",
+   "published": "2026-10-28T22:58:46+00:00"
+  },
+  {
    "feed": "ars",
    "outlet": "Ars Technica",
    "section": "Tech",
@@ -3884,6 +4144,16 @@
    "published": "2026-10-28T21:16:30+00:00"
   },
   {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Venstrefløjen bobler af glæde før midtvejsvalget. Men der er også grund til at være bange",
+   "summary": "Der er håb i gaderne og had på alle kanaler ved USA’s midtvejsvalg: Det kan blive en ny begyndelse for det progressive Amerika. Men det kan også blive en tur mere ind i mørkets hjerte i USA",
+   "link": "https://www.information.dk/debat/2026/10/venstrefloejen-bobler-glaede-foer-midtvejsvalget-ogsaa-grund-vaere-bange",
+   "published": "2026-10-28T19:41:16+00:00"
+  },
+  {
    "feed": "ars",
    "outlet": "Ars Technica",
    "section": "Tech",
@@ -3924,6 +4194,26 @@
    "published": "2026-10-28T18:05:22+00:00"
   },
   {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Folk vil hverken have geder i hadegave eller AI-bras på skærmen. De vil have tusind år gamle billedtæpper",
+   "summary": "Informations egen sladderspalte, hvor ingen er for høj eller lav nok til at flyve under radaren. Et uundværligt og personorienteret nyhedsoverblik.",
+   "link": "https://www.information.dk/2026/10/folk-hverken-geder-hadegave-ai-bras-paa-skaermen-tusind-aar-gamle-billedtaepper",
+   "published": "2026-10-28T18:00:00+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Den store chatbot siger, at det er Allan, der er »den udvalgte«",
+   "summary": "Informations stribe om forfatterspiren og eksiljyden Jacob",
+   "link": "https://www.information.dk/2026/10/store-chatbot-siger-allan-udvalgte",
+   "published": "2026-10-28T18:00:00+00:00"
+  },
+  {
    "feed": "ars",
    "outlet": "Ars Technica",
    "section": "Tech",
@@ -3962,6 +4252,56 @@
    "summary": "A lawyer with the Save Ukraine Foundation, Myroslava Kharchenko, told DW about what has been happening in Russian-occupied Oleshky since a temporary ceasefire brokered by Melania Trump took effect.",
    "link": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf",
    "published": "2026-10-28T17:04:00+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Man skal virkelig ville Danmark",
+   "summary": "Tusinder af borgere er efterladt i årelang uvished, viste et samråd om statsborgerskab",
+   "link": "https://www.information.dk/indland/leder/2026/10/virkelig-danmark",
+   "published": "2026-10-28T16:54:23+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Sådan ser du på dig selv i moderne tider",
+   "summary": "Du behøver ikke se dig selv i spejlet. Du skal finde dig selv i spejlet",
+   "link": "https://www.information.dk/moti/2026/10/saadan-ser-paa-moderne-tider",
+   "published": "2026-10-28T16:06:52+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Flávio Bolsonaro havde »aldrig overvejet at forlade Brasilien«. Så stak han af til USA",
+   "summary": "Præsidentkandidaten nægter at anerkende sit nederlag ved præsidentvalget. I Brasilien er han under efterforskning i forbindelse med flere større sager om økonomisk kriminalitet",
+   "link": "https://www.information.dk/udland/2026/10/flavio-bolsonaro-aldrig-overvejet-forlade-brasilien-saa-stak-usa",
+   "published": "2026-10-28T15:46:58+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Muligheden for at udskifte Netanyahus højreekstreme regering må ikke gå til spilde",
+   "summary": "Israel er ikke tjent med en regeringsleder, som er eftersøgt for forbrydelser mod menneskeheden, allieret med religiøse fundamentalister og arbejder målrettet på at trække landet i en autokratisk retning",
+   "link": "https://www.information.dk/udland/leder/2026/10/muligheden-udskifte-netanyahus-hoejreekstreme-regering-maa-gaa-spilde",
+   "published": "2026-10-28T15:28:06+00:00"
+  },
+  {
+   "feed": "information",
+   "outlet": "Information",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Georg Metz: Antisemitisme classic er gået af mode – og så alligevel ikke",
+   "summary": "",
+   "link": "https://www.information.dk/debat/2026/10/georg-metz-antisemitisme-classic-gaaet-mode-saa-alligevel",
+   "published": "2026-10-28T15:21:37+00:00"
   },
   {
    "feed": "guardian",
