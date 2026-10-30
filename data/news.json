@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T11:59:19+00:00",
+ "generated": "2026-10-30T12:04:07+00:00",
  "status": {
   "politiken": {
    "ok": true,
@@ -116,6 +116,94 @@
  },
  "items": [
   {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Næsten to millioner borgere har taget stilling til organdonation",
+   "summary": "Nye regler på området for organdonation har fået langt flere til at tage aktivt stilling til emnet.",
+   "link": "https://www.berlingske.dk/danmark/naesten-to-millioner-borgere-har-taget-stilling-til-organdonation?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165777892.webp?t[strip]=true&t[quality]=70&accessToken=0cfc5b42e8ff5a93ec859dfc4a3ca489c6b056939c3d93b130038a7fd796e868",
+   "published": "2026-10-30T12:01:44+00:00"
+  },
+  {
+   "feed": "dr",
+   "outlet": "DR",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Epsteins ophold på skotsk slot efterforskes",
+   "summary": "",
+   "link": "https://www.dr.dk/nyheder/seneste/epsteins-ophold-paa-skotsk-slot-efterforskes",
+   "image": "",
+   "published": "2026-10-30T12:01:02+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Nu er det alvor igen: LUIF møder MB",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/nu-er-det-alvor-igen-luif-moeder-mb",
+   "image": "",
+   "published": "2026-10-30T12:00:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Nu er det alvor igen: Taastrup FC møder Tune IF",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/nu-er-det-alvor-igen-taastrup-fc-moeder-tune-if",
+   "image": "",
+   "published": "2026-10-30T12:00:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Roskilde Boldklub møder BSF – bliv klædt på til kampen her",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/roskilde-boldklub-moeder-bsf-bliv-klaedt-paa-til-kampen-her",
+   "image": "",
+   "published": "2026-10-30T12:00:00+00:00"
+  },
+  {
+   "feed": "verge",
+   "outlet": "The Verge",
+   "section": "Tech",
+   "lang": "en",
+   "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+   "summary": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The […]",
+   "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+   "image": "",
+   "published": "2026-10-30T12:00:00+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Spøgelser, dæmoner og talende dyr: 25-årige Feline Kamber vinder stor litteraturpris",
+   "summary": "Den forfatterskoleuddannede Feline Kamber har vundet Bogforums Debutantpris 2026 for romanen »Foder til høns«. Prisen blev uddelt fredag ved åbningen af Bogforum i Bella Center og er på 50.000 kroner.",
+   "link": "https://www.berlingske.dk/litteratur/spoegelser-daemoner-og-talende-dyr-25-aarige-feline-kamber-vinder-stor-litteraturpris?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165775100.webp?t[strip]=true&t[quality]=70&accessToken=a68e092ac85eac6c46aa3d138314d33dcdb5a561453fb28b9d17c3b3e396ab3a",
+   "published": "2026-10-30T11:59:47+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "EU deforestation law faces enforcement test as palm oil giants risk violations",
+   "summary": "After several setbacks, the EU's anti-deforestation rules are due to take force on 30 December 2026.",
+   "link": "https://www.euronews.com/2026/10/30/eu-deforestation-law-faces-enforcement-test-as-palm-oil-giants-risk-violations",
+   "image": "",
+   "published": "2026-10-30T11:58:39+00:00"
+  },
+  {
    "feed": "bbc_sport",
    "outlet": "BBC Sport",
    "section": "Sports",
@@ -158,6 +246,17 @@
    "link": "https://www.euronews.com/2026/10/30/removing-netanyahu-is-the-most-important-thing-mustafa-barghouti-tells-euronews",
    "image": "",
    "published": "2026-10-30T11:49:06+00:00"
+  },
+  {
+   "feed": "dw",
+   "outlet": "Deutsche Welle",
+   "section": "World",
+   "lang": "en",
+   "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+   "summary": "Crypto platform Binance has suspended trading following a suspected hack now linked to North Korea. The disruption has left users unable to trade on the cryptocurrency platform while the suspected breach is investigated.",
+   "link": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
+   "image": "",
+   "published": "2026-10-30T11:47:00+00:00"
   },
   {
    "feed": "guardian_sport",
@@ -3801,17 +3900,6 @@
    "title": "Cryptocurrency exchange Binance suspends trading amid a suspected cyberattack now linked to North Korea",
    "summary": "Crypto platform Binance has suspended trading following a suspected hack now linked to North Korea. The disruption has left users unable to trade on the cryptocurrency platform while the suspected breach is investigated.",
    "link": "https://www.dw.com/en/cryptocurrency-exchange-binance-suspends-trading-amid-a-suspected-cyberattack-now-linked-to-north-korea/a-79803280?maca=en-rss-en-all-1573-rdf",
-   "image": "",
-   "published": "2026-10-30T00:55:00+00:00"
-  },
-  {
-   "feed": "dw",
-   "outlet": "Deutsche Welle",
-   "section": "World",
-   "lang": "en",
-   "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
-   "summary": "Crypto platform Binance has suspended trading following a suspected hack now linked to North Korea. The disruption has left users unable to trade on the cryptocurrency platform while the suspected breach is investigated.",
-   "link": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
    "image": "",
    "published": "2026-10-30T00:55:00+00:00"
   },
