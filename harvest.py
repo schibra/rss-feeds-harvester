@@ -180,6 +180,11 @@ def fetch(url):
 
 
 def main():
+    try:
+        import weather
+        weather.main()
+    except Exception as exc:  # the forecast must never stop the news harvest
+        print("weather failed:", type(exc).__name__, exc)
     feeds = json.loads((ROOT / "feeds.json").read_text("utf-8"))
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=KEEP_DAYS)

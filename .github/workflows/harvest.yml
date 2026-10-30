@@ -46,7 +46,7 @@ jobs:
           if [ -n "$(git status --porcelain data/)" ]; then
             git config user.name "news-harvest"
             git config user.email "news-harvest@users.noreply.github.com"
-            git add data/news.json
+            git add data/
             git commit -m "harvest $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
