@@ -21,14 +21,6 @@
    "ok": true,
    "items": 20
   },
-  "cphpost": {
-   "ok": true,
-   "items": 12
-  },
-  "thelocal": {
-   "ok": true,
-   "items": 13
-  },
   "aljazeera": {
    "ok": true,
    "items": 25
@@ -836,16 +828,6 @@
    "published": "2026-10-30T09:00:23+00:00"
   },
   {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "EU to slap new €2 fee on online shopping orders from outside Europe",
-   "summary": "The EU will charge an extra €2 \"processing fee\" on parcels imported into the European Union from Sunday November 1st in a bid to reduce the influx of cheap Chinese products bought on the internet. The fee is on top of the recent €3 EU tax added on \"small parcels\".",
-   "link": "https://www.thelocal.dk/20261030/eu-to-slap-new-e2-fee-on-online-shopping-orders-from-outside-europe",
-   "published": "2026-10-30T09:00:21+00:00"
-  },
-  {
    "feed": "npr",
    "outlet": "NPR",
    "section": "World",
@@ -864,16 +846,6 @@
    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
    "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
    "published": "2026-10-30T09:00:00+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Opinion: Don’t just pass through Copenhagen",
-   "summary": "The author: Madison Hoang is a Vietnamese national based in Boston. From 2025–26, she studied Political Science at the University of Copenhagen. Hotels and tourist sites are now restricting influencer photoshoots, Lauren Cochrane reported in The Guardian. But treating places as backdrops goes beyond influencers. Many of us can travel for a weekend or live […]",
-   "link": "https://cphpost.dk/2026-10-30/opinion/opinion-dont-just-pass-through-copenhagen/",
-   "published": "2026-10-30T08:59:30+00:00"
   },
   {
    "feed": "euronews",
@@ -1196,16 +1168,6 @@
    "published": "2026-10-30T07:20:00+00:00"
   },
   {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Today in Denmark: A roundup of the latest news on Friday",
-   "summary": "New fees on non-EU parcels from next year, Denmark to take over presidency of Nordic Council and more news from Denmark on Friday.",
-   "link": "https://www.thelocal.dk/20261030/today-in-denmark-a-roundup-of-the-latest-news-on-friday-68",
-   "published": "2026-10-30T07:18:09+00:00"
-  },
-  {
    "feed": "politiken",
    "outlet": "Politiken",
    "section": "Denmark",
@@ -1526,106 +1488,6 @@
    "published": "2026-10-30T05:42:09+00:00"
   },
   {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Putin defends talks with Finnish and Norwegian leaders amid European criticism",
-   "summary": "Russian President Vladimir Putin said Thursday that a phone call with the leaders of Finland and Norway was reasonable, despite criticism from Denmark, Sweden and Poland. Speaking at a press conference following a Russia-Africa summit, Putin said Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre had contacted him in their national capacities, […]",
-   "link": "https://cphpost.dk/2026-10-30/global/putin-defends-talks-with-finnish-and-norwegian-leaders-amid-european-criticism/",
-   "published": "2026-10-30T05:38:49+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Israel election leaves Netanyahu and opposition short of parliamentary majority",
-   "summary": "All votes have been counted in Israel’s parliamentary election, but neither Prime Minister Benjamin Netanyahu’s bloc nor the opposition has secured enough seats to form a majority. Netanyahu’s governing bloc won 53 seats, while the opposition bloc led by Gadi Eisenkot secured 48, according to figures reported by the Times of Israel. A majority in […]",
-   "link": "https://cphpost.dk/2026-10-30/global/israel-election-leaves-netanyahu-and-opposition-short-of-parliamentary-majority/",
-   "published": "2026-10-30T05:38:43+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Ukraine reportedly pauses attacks on Russian oil refineries after Trump pressure",
-   "summary": "Ukraine has temporarily halted strikes on Russian oil refineries following pressure from U.S. President Donald Trump, according to a report by The Wall Street Journal. The newspaper reported Thursday, citing unnamed sources familiar with the matter, that the suspension began early last week and is expected to continue until after the U.S. midterm elections on […]",
-   "link": "https://cphpost.dk/2026-10-30/global/ukraine-reportedly-pauses-attacks-on-russian-oil-refineries-after-trump-pressure/",
-   "published": "2026-10-30T05:38:39+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Denmark introduces new GP payment system to improve care for patients with greater needs",
-   "summary": "Patients in Denmark will be able to book different types of appointments with their general practitioners under a new four-year agreement aimed at improving access to medical care. The agreement, announced Thursday, was negotiated between Praktiserende Lægers Organisation (PLO), the Danish organization representing general practitioners, and Regionernes Lønnings- og Takstnævn (RLTN), the regional…",
-   "link": "https://cphpost.dk/2026-10-30/news/round-up/denmark-introduces-new-gp-payment-system-to-improve-care-for-patients-with-greater-needs/",
-   "published": "2026-10-30T05:38:34+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Patrick Stewart dies at 86 after battle with dementia",
-   "summary": "British actor Patrick Stewart, best known for playing Captain Jean-Luc Picard in “Star Trek” and Professor Charles Xavier in the “X-Men” films, has died at his home in Los Angeles. His death was announced in a statement posted on his X account. He was 86. “It is with deep sorrow that we announce that Sir […]",
-   "link": "https://cphpost.dk/2026-10-30/global/patrick-stewart-dies-at-86-after-battle-with-dementia/",
-   "published": "2026-10-30T05:38:29+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Robbie Williams and Slash join Tinderbox 2027 lineup",
-   "summary": "British pop star Robbie Williams will return to Denmark’s Tinderbox festival next summer, alongside guitarist Slash, who will make his debut at the Odense event. The festival announced the bookings in a press release, adding five acts to its 2027 lineup. Williams previously headlined Tinderbox’s inaugural edition in 2015 and has remained one of the […]",
-   "link": "https://cphpost.dk/2026-10-30/news/round-up/robbie-williams-and-slash-join-tinderbox-2027-lineup/",
-   "published": "2026-10-30T05:38:23+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "France to deploy 70,000 security personnel amid fears of protest violence",
-   "summary": "French authorities are preparing for another weekend of demonstrations, with Interior Minister Laurent Nunez warning of a high risk of unrest on Saturday. The government plans to deploy 70,000 police officers and other security personnel across the country, Reuters reported Thursday. Nunez said authorities had identified calls for demonstrations from trade unions, far-left groups and […]",
-   "link": "https://cphpost.dk/2026-10-30/global/france-to-deploy-70000-security-personnel-amid-fears-of-protest-violence/",
-   "published": "2026-10-30T05:38:18+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Denmark, Greenland and Faroe Islands to jointly lead Nordic Council in 2027",
-   "summary": "Lars-Christian Brask, a member of Denmark’s parliament for Liberal Alliance, has been elected president of the Nordic Council, which brings together parliamentarians from the Nordic countries. Brask was elected Thursday during the council’s session in Helsinki, Finland, according to a statement from Folketinget, Denmark’s parliament. Denmark will take over the rotating presidency from Finland in…",
-   "link": "https://cphpost.dk/2026-10-30/news/round-up/denmark-greenland-and-faroe-islands-to-jointly-lead-nordic-council-in-2027/",
-   "published": "2026-10-30T05:38:13+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Arctic sea ice survives summer with less melting than expected despite record-low winter",
-   "summary": "Arctic sea ice has retained more of its coverage than expected this summer, thanks to unusually cool weather conditions, according to the Danish Meteorological Institute (DMI). In a statement Thursday, DMI reported that Arctic sea ice reached a record-low winter extent earlier this year but experienced relatively limited melting during the summer months. A large […]",
-   "link": "https://cphpost.dk/2026-10-30/news/round-up/arctic-sea-ice-survives-summer-with-less-melting-than-expected-despite-record-low-winter/",
-   "published": "2026-10-30T05:38:08+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Binance freezes 3 billion USD in assets after major cryptocurrency security breach",
-   "summary": "The world’s largest cryptocurrency exchange is investigating a suspected cyberattack that may have affected billions of dollars in digital assets. Binance announced that it had frozen 3 billion USD in assets following the security breach, while estimating that cryptocurrency worth 6.3 billion USD had been affected. Company co-founder Yi He sought to reassure customers, writing […]",
-   "link": "https://cphpost.dk/2026-10-30/global/binance-freezes-3-billion-usd-in-assets-after-major-cryptocurrency-security-breach/",
-   "published": "2026-10-30T05:38:01+00:00"
-  },
-  {
    "feed": "nyt",
    "outlet": "The New York Times",
    "section": "World",
@@ -1763,16 +1625,6 @@
    "title": "En god og en dårlig nyhed om valget i Israel",
    "summary": "I ugens Radio Information taler vi om det netop overståede israelske valg. Vi vender udsigterne til, når/hvis Trump lider et stort nedslag i næste uge. Og så skal det handle om de grøntsager, som hver uge bliver anmeldt i Moderne Tider",
    "link": "https://www.information.dk/kultur/2026/10/god-daarlig-nyhed-valget-israel",
-   "published": "2026-10-30T05:00:00+00:00"
-  },
-  {
-   "feed": "cphpost",
-   "outlet": "The Copenhagen Post",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Freelancing after a layoff: A jobseeker sets her own path in Denmark",
-   "summary": "Cristina decided to work as a remote freelancer in Denmark after a layoff. She believes it’s a solution other jobseekers could benefit from too.",
-   "link": "https://cphpost.dk/2026-10-30/business-education/career/freelancing-after-a-layoff-a-jobseeker-sets-her-own-path-in-denmark/",
    "published": "2026-10-30T05:00:00+00:00"
   },
   {
@@ -2504,16 +2356,6 @@
    "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mirfield, Yorkshire, England, […]",
    "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
    "published": "2026-10-29T20:10:02+00:00"
-  },
-  {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Europeans and Canadians set to get more opportunities to move across Atlantic",
-   "summary": "The European Union and Canada are set to announce on Friday a new strategic alliance that will include more opportunities for Canadians and Europeans to live and study and work on the opposite side of the Atlantic.",
-   "link": "https://www.thelocal.dk/20261029/europeans-and-canadians-set-to-get-more-opportunities-to-move-across-atlantic",
-   "published": "2026-10-29T20:09:48+00:00"
   },
   {
    "feed": "euronews",
@@ -3266,16 +3108,6 @@
    "published": "2026-10-29T14:05:08+00:00"
   },
   {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Many Danish companies want to help in a crisis but don't know how",
-   "summary": "A new analysis from the Confederation of Danish Industry has shown that as many as eight in ten Danish companies want to assist the country if a crisis hits, but two thirds are unsure as to who they should contact to offer their help.",
-   "link": "https://www.thelocal.dk/20261029/many-danish-companies-want-to-help-in-a-crisis-but-dont-know-how",
-   "published": "2026-10-29T13:57:58+00:00"
-  },
-  {
    "feed": "information",
    "outlet": "Information",
    "section": "Denmark",
@@ -3486,16 +3318,6 @@
    "published": "2026-10-29T11:07:35+00:00"
   },
   {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Upper secondary school students' written Danish skills continue to fall",
-   "summary": "Denmark's most recent exam results for upper secondary school students have shown that results in written Danish continue to fall. Education Minister Magnus Heunicke believes AI is to blame.",
-   "link": "https://www.thelocal.dk/20261029/upper-secondary-school-students-written-danish-skills-continue-to-fall",
-   "published": "2026-10-29T11:04:34+00:00"
-  },
-  {
    "feed": "dr",
    "outlet": "DR",
    "section": "Denmark",
@@ -3554,16 +3376,6 @@
    "summary": "Despite years of political baggage, the Israeli prime minister outperformed expectations, and his rivals, by playing on Jewish voters’ fears of Arab political power and potential security threats.",
    "link": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
    "published": "2026-10-29T10:29:01+00:00"
-  },
-  {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "'A choice between studying and my marriage': Denmark's new spouse rules for students",
-   "summary": "Denmark's new rules on accompanying spouses to student visas have started to affect applicants who haven't even arrived yet. The Local speaks to some of those affected.",
-   "link": "https://www.thelocal.dk/20261029/a-choice-between-studying-and-my-marriage-denmarks-new-spouse-rules-for-students",
-   "published": "2026-10-29T09:48:26+00:00"
   },
   {
    "feed": "information",
@@ -3654,16 +3466,6 @@
    "summary": "",
    "link": "https://www.dr.dk/nyheder/seneste/hongkongs-leder-undskylder-sidste-aars-doedelige-brand",
    "published": "2026-10-29T07:32:12+00:00"
-  },
-  {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Today in Denmark: A roundup of the latest news on Thursday",
-   "summary": "Electricity bills in Denmark cheaper despite price of electricity rising, majority of Danish companies want to assist in a crisis but don't know how, and more news from Denmark on Thursday.",
-   "link": "https://www.thelocal.dk/20261029/today-in-denmark-a-roundup-of-the-latest-news-on-thursday-63",
-   "published": "2026-10-29T07:05:48+00:00"
   },
   {
    "feed": "bbc",
@@ -3966,16 +3768,6 @@
    "published": "2026-10-28T13:43:00+00:00"
   },
   {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Payments between Nordic countries still expensive despite close ties",
-   "summary": "Payments between Nordic countries are still expensive, despite close economic ties, according to a new analysis from Nordic central banks.",
-   "link": "https://www.thelocal.dk/20261028/payments-between-nordic-countries-still-expensive-despite-close-ties",
-   "published": "2026-10-28T13:05:57+00:00"
-  },
-  {
    "feed": "npr",
    "outlet": "NPR",
    "section": "World",
@@ -3986,16 +3778,6 @@
    "published": "2026-10-28T11:28:55+00:00"
   },
   {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Top MP kicked out of Denmark's Liberal party for rejecting party line",
-   "summary": "Preben Bang Henriksen, a Liberal Party MP and former justice spokesperson, has been ejected from the party after refusing to promise that he will follow the party line in future votes. This is the second high-profile Liberal MP to leave the party this month.",
-   "link": "https://www.thelocal.dk/20261028/top-mp-kicked-out-of-denmarks-liberal-party-for-rejecting-party-line",
-   "published": "2026-10-28T11:11:11+00:00"
-  },
-  {
    "feed": "dw",
    "outlet": "Deutsche Welle",
    "section": "World",
@@ -4004,16 +3786,6 @@
    "summary": "Seagrass protects coasts, shelters thousands of species and stores CO2. But some 30% of this valuable ecosystem has disappeared since the late 19th century. Can we bring it back?",
    "link": "https://www.dw.com/en/can-we-regrow-damaged-seagrass-meadows/a-79617925?maca=en-rss-en-all-1573-rdf",
    "published": "2026-10-28T10:51:00+00:00"
-  },
-  {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Broad majority in Danish parliament in favour of 'turbo chicken' ban",
-   "summary": "'Turbo chickens', chickens raised with as little as three hours a day of darkness and fattened to the extent that they can no longer walk, should be banned, according to Denmark's Minister for Nature and Animal Welfare, Christian Rabjerg Madsen.",
-   "link": "https://www.thelocal.dk/20261028/broad-majority-in-danish-parliament-in-favour-of-turbo-chicken-ban",
-   "published": "2026-10-28T10:40:48+00:00"
   },
   {
    "feed": "dw",
@@ -4066,26 +3838,6 @@
    "published": "2026-10-28T08:48:00+00:00"
   },
   {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Today in Denmark: A roundup of the latest news on Wednesday",
-   "summary": "Liberal MP excluded from party, thousand-year-old coin sells for 136,000 kroner and more news from Denmark on Wednesday.",
-   "link": "https://www.thelocal.dk/20261028/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-77",
-   "published": "2026-10-28T07:32:09+00:00"
-  },
-  {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "The Danish words you need to learn during cold and flu season",
-   "summary": "Getting ill in a new or unfamiliar country is always an upsetting experience, but if you can't escape the pesky bugs that crop up around this time of year, you can at least use it as a Danish-learning opportunity.",
-   "link": "https://www.thelocal.dk/20261027/the-danish-words-you-need-to-learn-during-cold-and-flu-season",
-   "published": "2026-10-27T14:27:59+00:00"
-  },
-  {
    "feed": "dw",
    "outlet": "Deutsche Welle",
    "section": "World",
@@ -4094,16 +3846,6 @@
    "summary": "Bayern Munich striker Harry Kane has won football's most prestigious individual prize, beating Kylian Mbappe and Lamine Yamal. Kane has developed even more in the Bundesliga despite an uneven league.",
    "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
    "published": "2026-10-27T14:11:00+00:00"
-  },
-  {
-   "feed": "thelocal",
-   "outlet": "The Local",
-   "section": "Denmark",
-   "lang": "en",
-   "title": "Denmark's preliminary tax assessments to open two weeks late next month",
-   "summary": "Around 5.5 million people in Denmark will be able to alter their 2027 preliminary tax assessments from November 24th, the Tax Authority has said in a statement.",
-   "link": "https://www.thelocal.dk/20261027/denmarks-preliminary-tax-assessments-to-open-two-weeks-late-next-month",
-   "published": "2026-10-27T13:01:02+00:00"
   },
   {
    "feed": "dw",

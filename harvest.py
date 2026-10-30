@@ -186,9 +186,13 @@ def main():
                     summary = f"{pts.group(1)} points" + (f", {cmt.group(1)} comments" if cmt else "") + " on Hacker News."
             if summary.lower().startswith(title.lower()[:40]):
                 summary = ""  # teaser that only repeats the headline
+            outlet = f["outlet"]
+            m = re.match(r"Artikel fra (.+)$", summary)
+            if m:  # wallnot: the teaser only names the originating outlet
+                outlet, summary = m.group(1).strip(), ""
             merged[it["link"]] = {
                 "feed": f["id"],
-                "outlet": f["outlet"],
+                "outlet": outlet,
                 "section": f["section"],
                 "lang": f["lang"],
                 "title": title,

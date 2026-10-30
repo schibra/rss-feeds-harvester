@@ -4,8 +4,6 @@
   {"id": "dr", "outlet": "DR", "section": "Denmark", "lang": "da", "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt"},
   {"id": "information", "outlet": "Information", "section": "Denmark", "lang": "da", "url": "https://www.information.dk/feed"},
   {"id": "wallnot", "outlet": "Wallnot (mixed)", "section": "Denmark", "lang": "da", "url": "https://wallnot.dk/rss"},
-  {"id": "cphpost", "outlet": "The Copenhagen Post", "section": "Denmark", "lang": "en", "url": "https://cphpost.dk/feed/"},
-  {"id": "thelocal", "outlet": "The Local", "section": "Denmark", "lang": "en", "url": "https://www.thelocal.dk/feed/"},
   {"id": "aljazeera", "outlet": "Al Jazeera", "section": "World", "lang": "en", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
   {"id": "euronews", "outlet": "Euronews", "section": "World", "lang": "en", "url": "https://www.euronews.com/rss"},
   {"id": "bbc", "outlet": "BBC News", "section": "World", "lang": "en", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
