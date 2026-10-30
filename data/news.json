@@ -77,10 +77,6 @@
    "ok": true,
    "items": 40
   },
-  "cnbc": {
-   "ok": true,
-   "items": 0
-  },
   "marketwatch": {
    "ok": true,
    "items": 10
@@ -113,17 +109,9 @@
    "ok": true,
    "items": 36
   },
-  "guardian_cycling": {
-   "ok": true,
-   "items": 0
-  },
   "cyclingnews": {
    "ok": true,
    "items": 40
-  },
-  "tv2_sport": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
   }
  },
  "items": [

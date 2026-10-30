@@ -33,11 +33,25 @@ TAG_RE = re.compile(r"<[^>]+>")
 WS_RE = re.compile(r"\s+")
 
 
+BREAK_RE = re.compile(r"</p>\s*<p[^>]*>|<br\s*/?>|</li>\s*<li[^>]*>", re.I)
+
+
 def clean(text):
     if not text:
         return ""
-    text = html.unescape(TAG_RE.sub(" ", html.unescape(text)))
-    return WS_RE.sub(" ", text).strip()
+    text = html.unescape(text)
+    text = BREAK_RE.sub("\x00", text)  # paragraph breaks become sentence breaks
+    text = html.unescape(TAG_RE.sub(" ", text))
+    text = WS_RE.sub(" ", text).strip()
+    out = []
+    for part in text.split("\x00"):
+        part = part.strip()
+        if not part:
+            continue
+        if out and out[-1][-1] not in ".!?:;…\"”’)":
+            out[-1] += "."
+        out.append(part)
+    return " ".join(out)
 
 
 def shorten(text, n=SUMMARY_CHARS):
