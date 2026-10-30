@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T10:52:55+00:00",
+ "generated": "2026-10-30T10:54:38+00:00",
  "status": {
   "politiken": {
    "ok": true,
@@ -79,6 +79,17 @@
    "published": "2026-10-30T10:52:18+00:00"
   },
   {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Activists urge Eisenkot to form new Israeli gov’t with Arab parties",
+   "summary": "Israeli activists rally outside opposition leader Eisenkot’s home, urging him to join forces with Arab parties after ele",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/activists-urge-eisenkot-to-form-new-israeli-govt-with-arab-parties?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T10:52:08+00:00"
+  },
+  {
    "feed": "berlingske",
    "outlet": "Berlingske",
    "section": "Denmark",
@@ -99,6 +110,50 @@
    "link": "https://www.euronews.com/2026/10/30/cameroonian-families-call-for-repatriation-of-relatives-sent-to-fight-for-russia-in-ukrain",
    "image": "",
    "published": "2026-10-30T10:51:01+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "How can Israel break its election deadlock?",
+   "summary": "No political party has achieved the 61-seat majority required in the Knesset to form a government in Israel.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T10:50:21+00:00"
+  },
+  {
+   "feed": "guardian",
+   "outlet": "The Guardian",
+   "section": "World",
+   "lang": "en",
+   "title": "Foreign firms that win defence contracts will have to invest in UK under new policy – UK politics live",
+   "summary": "Wes Streeting says overseas suppliers of defence contracts will need to spend the equivalent amount in the UK Yesterday the Institute for Fiscal Studies (see here ) and the Resolution Foundation (see here ) delivered fairly negative assessments of the budget. But mostly the gloom was triggered by the thinktanks said about the overall state of the economy and the public finances; they were…",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/3126a0c65ed788effae5fc3a6d95663b038ec995/850_390_4480_3584/master/4480.jpg?width=700&quality=85&auto=format&fit=max&s=2cd04a32172689560c736690325161e2",
+   "published": "2026-10-30T10:49:34+00:00"
+  },
+  {
+   "feed": "guardian",
+   "outlet": "The Guardian",
+   "section": "World",
+   "lang": "en",
+   "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
+   "summary": "69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missing Meanwhile, the operator who cleared the high-speed Renfe Ave train to resume its journey before colliding with the stationary Iryo service has declined to be interviewed by the Civil Guard , according to Spanish media reports. The revelation comes after several recordings from the incident…",
+   "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/5db46eb38c6083f927b683f97dd5e7033a8a2ba7/1543_524_2950_2360/master/2950.jpg?width=700&quality=85&auto=format&fit=max&s=2f5f0080efc06549d60a3ef344641f85",
+   "published": "2026-10-30T10:46:06+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Aid convoy enters besieged Ukrainian town Oleshky",
+   "summary": "Moscow and Kyiv have so far observed the six-day truce as evacuations from Oleshky get under way.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/aid-convoy-enters-besieged-ukrainian-town-oleshky?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T10:45:15+00:00"
   },
   {
    "feed": "berlingske",
@@ -141,6 +196,7 @@
    "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
    "summary": "As Washington and Tehran send mixed signals, analysts say trust remains a key obstacle to any deal.",
    "link": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
+   "image": "",
    "published": "2026-10-30T10:40:52+00:00"
   },
   {
@@ -217,7 +273,7 @@
    "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
    "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
    "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ad/live/b69284c0-d44a-11f1-a701-fddedf244c16.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60e/live/1b89e490-d450-11f1-8780-edcbf4859104.jpg",
    "published": "2026-10-30T10:32:06+00:00"
   },
   {
@@ -252,17 +308,6 @@
    "link": "https://www.euronews.com/2026/10/30/which-vaccinations-should-you-have-this-autumn-and-which-are-recommended-in-germany",
    "image": "",
    "published": "2026-10-30T10:30:13+00:00"
-  },
-  {
-   "feed": "guardian",
-   "outlet": "The Guardian",
-   "section": "World",
-   "lang": "en",
-   "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
-   "summary": "69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missing We are also expecting to hear from Spain’s transport minister Óscar Puente in the next 10-20 minutes. I will bring you the key lines here. Continue reading...",
-   "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/5db46eb38c6083f927b683f97dd5e7033a8a2ba7/1543_524_2950_2360/master/2950.jpg?width=140&quality=85&auto=format&fit=max&s=0dad98809991c734c22b3f5516106842",
-   "published": "2026-10-30T10:29:38+00:00"
   },
   {
    "feed": "wallnot",
@@ -524,7 +569,7 @@
    "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
    "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms. During a particularly intense thunderstorm in Antalya, a coastal city in the…",
    "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-   "image": "https://i.guim.co.uk/img/media/e1f1bd4154ea2df2adc895c6066b1f8bd5aa527c/177_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=b2164fa133357116df599159984a330b",
+   "image": "https://i.guim.co.uk/img/media/e1f1bd4154ea2df2adc895c6066b1f8bd5aa527c/177_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=65f16c880073004e854ecaf1373ee37d",
    "published": "2026-10-30T10:07:16+00:00"
   },
   {
@@ -535,7 +580,7 @@
    "title": "Police Scotland says it has received information on Jeffrey Epstein visit to Balmoral with Andrew",
    "summary": "Force says ‘inquiries ongoing’ into visit to royal estate in Scotland, when Ghislaine Maxwell was also present Detectives are investigating time spent by Andrew Mountbatten-Windsor, Jeffrey Epstein and Ghislaine Maxwell at the king’s private estate in Scotland. Police Scotland said it had received “information” and an investigation was at a “very early stage” into the time the disgraced royal…",
    "link": "https://www.theguardian.com/uk-news/2026/oct/30/police-jeffrey-epstein-balmoral-former-prince-andrew",
-   "image": "https://i.guim.co.uk/img/media/6d50ad851b1ef1144802e78fb87afa9c78204033/0_0_3822_3057/master/3822.jpg?width=140&quality=85&auto=format&fit=max&s=585812b734adcd241d2dd3f343393b3f",
+   "image": "https://i.guim.co.uk/img/media/6d50ad851b1ef1144802e78fb87afa9c78204033/0_0_3822_3057/master/3822.jpg?width=700&quality=85&auto=format&fit=max&s=80fe5de76e813acfb5e667ee6656140d",
    "published": "2026-10-30T10:06:51+00:00"
   },
   {
@@ -586,21 +631,10 @@
    "outlet": "The Guardian",
    "section": "World",
    "lang": "en",
-   "title": "Foreign firms that win defence contracts will have to invest in UK under new policy – UK politics live",
-   "summary": "Wes Streeting says overseas suppliers of defence contracts will need to spend the equivalent amount in the UK Wes Streeting, the defence secretary, was on the interview round this morning, announcing a new aspect of defence procurement policy. The Ministry of Defence is now saying that, if overseas suppliers win UK defence contracts, they will be required to spend the equivalent amount in the UK.…",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/3126a0c65ed788effae5fc3a6d95663b038ec995/850_390_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=d6944f2141f80906c0e7bcd220dabeb1",
-   "published": "2026-10-30T10:01:27+00:00"
-  },
-  {
-   "feed": "guardian",
-   "outlet": "The Guardian",
-   "section": "World",
-   "lang": "en",
    "title": "Britain’s blighted high streets will improve by next election, says Rayner",
    "summary": "Housing secretary says Labour wants to reverse fortunes of towns plagued by boarded-up shops and rogue businesses Angela Rayner has said voters will begin to see a difference in their high street before the next general election as Labour prioritises investment in struggling local communities. The housing secretary said the government had made it a top priority before the country goes to the…",
    "link": "https://www.theguardian.com/uk-news/2026/oct/30/britain-blighted-high-streets-angela-rayner-labour",
-   "image": "https://i.guim.co.uk/img/media/af2b26a5427e9606a8598af21175ace4bf240f00/271_509_3550_2840/master/3550.jpg?width=140&quality=85&auto=format&fit=max&s=6c45d10ad901c9d053125fe1129d880c",
+   "image": "https://i.guim.co.uk/img/media/af2b26a5427e9606a8598af21175ace4bf240f00/271_509_3550_2840/master/3550.jpg?width=700&quality=85&auto=format&fit=max&s=d4ed58b510fef34909d155e2abb975f7",
    "published": "2026-10-30T10:00:51+00:00"
   },
   {
@@ -611,7 +645,7 @@
    "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
    "summary": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defence Britain is unlikely to hit its targets on green heating after the cuts announced by John Healey this week, experts have warned, as critics of Ed Miliband claim the former energy secretary’s green agenda is being dismantled. The chancellor unveiled more than £3bn worth of cuts to the energy…",
    "link": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
-   "image": "https://i.guim.co.uk/img/media/6df7a974f96cec3017d59db5bb6067cd9078e17c/1636_1241_3517_2814/master/3517.jpg?width=140&quality=85&auto=format&fit=max&s=192430f84e8f0d2f58337395d56ad988",
+   "image": "https://i.guim.co.uk/img/media/6df7a974f96cec3017d59db5bb6067cd9078e17c/1636_1241_3517_2814/master/3517.jpg?width=700&quality=85&auto=format&fit=max&s=335b6a6e1a7f10dfd193a8b572a52507",
    "published": "2026-10-30T10:00:50+00:00"
   },
   {
@@ -883,7 +917,7 @@
    "title": "UK house prices grow at slowest pace in two years as mortgage rates rise",
    "summary": "Average price for property stands at £273,566 in October, flat on previous month, says Nationwide Business live – latest updates UK house prices grew by an annual rate of just 0.5% in October, the slowest pace in more than two years, as higher mortgage rates put off potential buyers. The average price for a property in the UK stood at £273,566 in October, flat on the previous month and down from…",
    "link": "https://www.theguardian.com/business/2026/oct/30/uk-house-prices-grow-at-slowest-pace-in-two-years-as-mortgage-rates-rise",
-   "image": "https://i.guim.co.uk/img/media/9e07c6077ba013c9c40edb46a8015ce268d0d3e3/1691_20_5273_4221/master/5273.jpg?width=140&quality=85&auto=format&fit=max&s=1657c5fecd9164c76568c9df02338346",
+   "image": "https://i.guim.co.uk/img/media/9e07c6077ba013c9c40edb46a8015ce268d0d3e3/1691_20_5273_4221/master/5273.jpg?width=700&quality=85&auto=format&fit=max&s=eac32f60cc464d769a7caa6ffdeffab1",
    "published": "2026-10-30T09:05:48+00:00"
   },
   {
@@ -894,7 +928,7 @@
    "title": "Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’",
    "summary": "Independent outlet, whose former editor won Nobel peace prize, says Russian authorities have forced it to shut Europe live – latest updates The Russian independent newspaper Novaya Gazeta has announced it is closing, citing pressure from authorities who recently searched the home of its senior editor and earlier this year detained one of its journalists. “Novaya Gazeta is ceasing to exist,” the…",
    "link": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
-   "image": "https://i.guim.co.uk/img/media/a6b3ac40349761781230e42b4b12f1be82db7244/634_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4d80573985a56e7205dda34f288ff842",
+   "image": "https://i.guim.co.uk/img/media/a6b3ac40349761781230e42b4b12f1be82db7244/634_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=07d0716d636c5bd62c8b62dce40fbea5",
    "published": "2026-10-30T09:05:21+00:00"
   },
   {
@@ -971,7 +1005,7 @@
    "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
    "summary": "Oxygen, food and water supplies running low and massacres taking place, says Nabil Shamsan The Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege. Nabil Shamsan said massacres were taking place in Yemen’s third city, that oxygen and water supplies were…",
    "link": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
-   "image": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=d432d7effedef22fb1d31dec1a2b4f11",
+   "image": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg?width=700&quality=85&auto=format&fit=max&s=6bde2544f09ab5b933b92a59defaf8ef",
    "published": "2026-10-30T09:00:50+00:00"
   },
   {
@@ -1532,7 +1566,7 @@
    "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
    "summary": "In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political moment Good morning. It was described by many Israelis as the most consequential election in their country’s history. And, as the final votes were tallied, it has delivered a result that presents Israel with a…",
    "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
-   "image": "https://i.guim.co.uk/img/media/40da4bb6af73d2bc793695b58b615b2dd6c6f3fc/433_0_3583_2867/master/3583.jpg?width=140&quality=85&auto=format&fit=max&s=7d811d224a0b83f67750061a7d606024",
+   "image": "https://i.guim.co.uk/img/media/40da4bb6af73d2bc793695b58b615b2dd6c6f3fc/433_0_3583_2867/master/3583.jpg?width=700&quality=85&auto=format&fit=max&s=a9d2da32488f9d81ab47a2b30dbb82cf",
    "published": "2026-10-30T06:44:29+00:00"
   },
   {
@@ -1675,7 +1709,7 @@
    "title": "Battle lines redrawn in Spain’s snap election after latest train disaster",
    "summary": "Next month’s poll no longer the contest it was, as Pedro Sánchez finds himself forced to defend government’s safety record One of the most dependable cliches of contemporary Spanish politics is that it never pays to bet against Pedro Sánchez . Time and time again – as leader of the Spanish Socialist Workers’ party (PSOE) and as prime minister – Sánchez has shown an almost preternatural ability to…",
    "link": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
-   "image": "https://i.guim.co.uk/img/media/45b775938ef866af30283aa372e1d089fd0ffaea/625_0_3977_3181/master/3977.jpg?width=140&quality=85&auto=format&fit=max&s=aec501441e408231e6fef87bcc5c9de8",
+   "image": "https://i.guim.co.uk/img/media/45b775938ef866af30283aa372e1d089fd0ffaea/625_0_3977_3181/master/3977.jpg?width=700&quality=85&auto=format&fit=max&s=d8d625469ed592fcd2055523481ddc1d",
    "published": "2026-10-30T06:00:47+00:00"
   },
   {
@@ -1741,7 +1775,7 @@
    "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
    "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email , free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s…",
    "link": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/5254cf587c7c076dfd7c74396b859c0751b7d6b1/17_0_3058_2447/master/3058.jpg?width=140&quality=85&auto=format&fit=max&s=cdf2750e02c7dbe10d6e50b23afe7926",
+   "image": "https://i.guim.co.uk/img/media/5254cf587c7c076dfd7c74396b859c0751b7d6b1/17_0_3058_2447/master/3058.jpg?width=700&quality=85&auto=format&fit=max&s=c992ba0dcf8a28a1271af34eaa03d663",
    "published": "2026-10-30T05:31:26+00:00"
   },
   {
@@ -1807,7 +1841,7 @@
    "title": "Former Sydney childcare worker Ashley Paul Griffith hit with 202 more abuse charges",
    "summary": "NSW police say charges include child rape and relate to 23 alleged victims aged between one and five at a Sydney childcare centre Get our breaking news email , free app or daily news podcast One of Australia’s most notorious paedophiles is facing hundreds more child abuse charges, including for the alleged rape of children as young as one. Days after being extradited from Queensland to New South…",
    "link": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/fe9c34958098b88035e7cc30e26bdd71b37fa74e/238_0_3282_2626/master/3282.jpg?width=140&quality=85&auto=format&fit=max&s=55372038270457b6628dea3aeb4d5929",
+   "image": "https://i.guim.co.uk/img/media/fe9c34958098b88035e7cc30e26bdd71b37fa74e/238_0_3282_2626/master/3282.jpg?width=700&quality=85&auto=format&fit=max&s=5fd250e925974dfb8a3efb5c76839544",
    "published": "2026-10-30T05:14:17+00:00"
   },
   {
@@ -1829,7 +1863,7 @@
    "title": "Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres",
    "summary": "As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking out Sandu* checked his watch. He was winding down the last 15 minutes of his shift at a vast Google datacentre site in Saint-Ghislain, Belgium, in March, when the call…",
    "link": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
-   "image": "https://i.guim.co.uk/img/media/ff3357e060d64adc48e88b1399e603abdbc4d574/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=00cb6c25cac7799d9b27481c0ec9ee1d",
+   "image": "https://i.guim.co.uk/img/media/ff3357e060d64adc48e88b1399e603abdbc4d574/0_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=b9752d0c8943fba339f7e284ea6faa30",
    "published": "2026-10-30T05:00:46+00:00"
   },
   {
@@ -1840,7 +1874,7 @@
    "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
    "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September…",
    "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-   "image": "https://i.guim.co.uk/img/media/7ca64ddb2c1eceb5b061c7c68b38488bbc43e947/195_0_3986_3189/master/3986.jpg?width=140&quality=85&auto=format&fit=max&s=dea88be5cbfed120823f633dd39f530d",
+   "image": "https://i.guim.co.uk/img/media/7ca64ddb2c1eceb5b061c7c68b38488bbc43e947/195_0_3986_3189/master/3986.jpg?width=700&quality=85&auto=format&fit=max&s=a581b019c041bf8d8819180600f64b01",
    "published": "2026-10-30T05:00:45+00:00"
   },
   {
@@ -1851,7 +1885,7 @@
    "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
    "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid…",
    "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-   "image": "https://i.guim.co.uk/img/media/1a207f81e70f26c6fb300fd2353ecaa161bc7714/0_0_2895_2317/master/2895.jpg?width=140&quality=85&auto=format&fit=max&s=4b30b227f8f2e941aab03d70ddbb2708",
+   "image": "https://i.guim.co.uk/img/media/1a207f81e70f26c6fb300fd2353ecaa161bc7714/0_0_2895_2317/master/2895.jpg?width=700&quality=85&auto=format&fit=max&s=9d6ef900ad82e089baafe9cf27d7cad0",
    "published": "2026-10-30T05:00:45+00:00"
   },
   {
@@ -1959,7 +1993,7 @@
    "title": "Feral deer will become Australia’s next feral pig problem without prompt action, report warns",
    "summary": "The invasive species has increased in spread and numbers and is costing farmers millions of dollars Get our breaking news email , free app or daily news podcast An unpublished government report on feral deer shows Australia is failing in its efforts to stop the spread of what one advocate warns could become “Australia’s next feral pig ”. The five years from 2020-2025 over which the national feral…",
    "link": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan",
-   "image": "https://i.guim.co.uk/img/media/255893af5316a8d2e2c1a069cb538aa73b683a16/339_0_3274_2620/master/3274.jpg?width=140&quality=85&auto=format&fit=max&s=4995c95d6f590d315dc971d184b3a4f0",
+   "image": "https://i.guim.co.uk/img/media/255893af5316a8d2e2c1a069cb538aa73b683a16/339_0_3274_2620/master/3274.jpg?width=700&quality=85&auto=format&fit=max&s=045388710be715aef360785d1092ab43",
    "published": "2026-10-30T03:30:42+00:00"
   },
   {
@@ -2003,7 +2037,7 @@
    "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
    "summary": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a major political gathering , which saw an unprecedented number of empty seats indicating the scale of the purges under Xi Jinping. A record 33…",
    "link": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
-   "image": "https://i.guim.co.uk/img/media/c089e593b51b58d6c2c6c9db1d4664acb5ca046c/445_373_1136_910/master/1136.jpg?width=140&quality=85&auto=format&fit=max&s=6e2d03692b62475af646432b9eec9eb0",
+   "image": "https://i.guim.co.uk/img/media/c089e593b51b58d6c2c6c9db1d4664acb5ca046c/445_373_1136_910/master/1136.jpg?width=700&quality=85&auto=format&fit=max&s=9d65062dc51d0f5805c555312294adb4",
    "published": "2026-10-30T02:56:46+00:00"
   },
   {
@@ -2014,7 +2048,7 @@
    "title": "Sam Wood to remain in custody after another failed bail bid over domestic violence charges",
    "summary": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast Former Bachelor star Sam Wood will remain in custody while he awaits trial on domestic violence charges , after he was refused bail for a second time. Wood, 46, from Melbourne, has been held in custody since his arrest on 4…",
    "link": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/1d82fb024ed7d912bb4fc5f2d3293dc1ca863ebc/0_0_1333_1065/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=8a763c9c758960a86a5c958e048f1254",
+   "image": "https://i.guim.co.uk/img/media/1d82fb024ed7d912bb4fc5f2d3293dc1ca863ebc/0_0_1333_1065/master/1333.jpg?width=700&quality=85&auto=format&fit=max&s=1ff5a89e8bd14dd740924e775cbbcffe",
    "published": "2026-10-30T02:47:58+00:00"
   },
   {
@@ -2058,7 +2092,7 @@
    "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
    "summary": "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures Extreme drought driven by an historic El Niño is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shortages of food and water, to electricity scarcity and schooling disruption. An influential coalition that includes churches, trade unions…",
    "link": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
-   "image": "https://i.guim.co.uk/img/media/cc479bce593c1d686d94f80fcfd1feeee302eb1e/0_320_4337_3470/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=9316e0e00c0d8b46c88d9ee7eb7e3b96",
+   "image": "https://i.guim.co.uk/img/media/cc479bce593c1d686d94f80fcfd1feeee302eb1e/0_320_4337_3470/master/4337.jpg?width=700&quality=85&auto=format&fit=max&s=c6244d855592d85d6ef537ba8bf94853",
    "published": "2026-10-30T01:45:56+00:00"
   },
   {
@@ -2157,7 +2191,7 @@
    "title": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
    "summary": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ George Newhouse: We must protect Jewish Australians without casting suspicion on legitimate concern for Palestinians Get our breaking news email , free app or daily news podcast The federal government’s antisemitism envoy has proposed an “external…",
    "link": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/a64738cc830426f354cd412e09123af48608ef4e/364_0_6258_5007/master/6258.jpg?width=140&quality=85&auto=format&fit=max&s=9abc4187649e85cccf3f9f70aedc11e5",
+   "image": "https://i.guim.co.uk/img/media/a64738cc830426f354cd412e09123af48608ef4e/364_0_6258_5007/master/6258.jpg?width=700&quality=85&auto=format&fit=max&s=e9602a75b95d759754b8c12ab995540b",
    "published": "2026-10-30T00:37:36+00:00"
   },
   {
@@ -2267,7 +2301,7 @@
    "title": "Netanyahu accused of smearing Arab voters to hold on to power",
    "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tuesday’s election, in which the prime minister’s coalition lost its parliamentary majority. Netanyahu and his allies…",
    "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-   "image": "https://i.guim.co.uk/img/media/d8b84c716c73cb737726509266edeb8ba3edce59/384_0_2603_2083/master/2603.jpg?width=140&quality=85&auto=format&fit=max&s=980e8e8691da1903ec7716a66a58f20d",
+   "image": "https://i.guim.co.uk/img/media/d8b84c716c73cb737726509266edeb8ba3edce59/384_0_2603_2083/master/2603.jpg?width=700&quality=85&auto=format&fit=max&s=014b50bf077fc61c99f796a66347b4de",
    "published": "2026-10-29T23:14:53+00:00"
   },
   {
@@ -2806,7 +2840,7 @@
    "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
    "summary": "US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s response to a personal letter from the US vice-president, JD Vance, offering to restart diplomacy. The letter, written after predominantly Qatari mediation, was sent…",
    "link": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
-   "image": "https://i.guim.co.uk/img/media/f8cc60575da517f1b807ca56c7a46e06e0e98032/224_0_2998_2398/master/2998.jpg?width=140&quality=85&auto=format&fit=max&s=1af93ea6d875a91df69413998616fce3",
+   "image": "https://i.guim.co.uk/img/media/f8cc60575da517f1b807ca56c7a46e06e0e98032/224_0_2998_2398/master/2998.jpg?width=700&quality=85&auto=format&fit=max&s=cc41b80444f7542cb68912d0273a4783",
    "published": "2026-10-29T19:32:24+00:00"
   },
   {
@@ -2872,7 +2906,7 @@
    "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
    "summary": "Tankers, tracked by Greenpeace, are first phase of Trump-Putin deal – but there is uncertainty over whether they will unload Seven oil tankers carrying an estimated 288,000 tonnes of Russian diesel are now sailing towards the US, though it is uncertain if the vessels will be able to unload amid a political row about the legality of the shipments. The transport, tracked by the pressure group…",
    "link": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
-   "image": "https://i.guim.co.uk/img/media/41a7157fdd6dc04cb818357a54195062d320a2ed/292_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=79964d74a9f4ca0380c6703d668bd8e9",
+   "image": "https://i.guim.co.uk/img/media/41a7157fdd6dc04cb818357a54195062d320a2ed/292_0_4500_3600/master/4500.jpg?width=700&quality=85&auto=format&fit=max&s=c86abd211f7a94e5b4ae6f07450d19f5",
    "published": "2026-10-29T19:04:17+00:00"
   },
   {
@@ -2971,7 +3005,7 @@
    "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
    "summary": "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families. The chief executive, John Lee, and seven…",
    "link": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-   "image": "https://i.guim.co.uk/img/media/2c5d0274ccc74eedd4d8ea37a4defaa01bc5225c/1462_16_3005_2404/master/3005.jpg?width=140&quality=85&auto=format&fit=max&s=c3901a605c6eddd6e2a23665338863c4",
+   "image": "https://i.guim.co.uk/img/media/2c5d0274ccc74eedd4d8ea37a4defaa01bc5225c/1462_16_3005_2404/master/3005.jpg?width=700&quality=85&auto=format&fit=max&s=136d9ac0ad8fd58b95a6e5da3d5de7d0",
    "published": "2026-10-29T18:14:21+00:00"
   },
   {
@@ -3026,7 +3060,7 @@
    "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
    "summary": "Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition Gadi Eisenkot, leader of the Yashar party and Benjamin Netanyahu’s main rival, has warned political opponents against exploiting allegations of foreign interference in Israel’s election to delay the swearing-in of the…",
    "link": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-   "image": "https://i.guim.co.uk/img/media/40da4bb6af73d2bc793695b58b615b2dd6c6f3fc/433_0_3583_2867/master/3583.jpg?width=140&quality=85&auto=format&fit=max&s=7d811d224a0b83f67750061a7d606024",
+   "image": "https://i.guim.co.uk/img/media/40da4bb6af73d2bc793695b58b615b2dd6c6f3fc/433_0_3583_2867/master/3583.jpg?width=700&quality=85&auto=format&fit=max&s=a9d2da32488f9d81ab47a2b30dbb82cf",
    "published": "2026-10-29T17:49:57+00:00"
   },
   {
@@ -3037,7 +3071,7 @@
    "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
    "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says the Canadian rock star Bryan Adams , is Lake America. In his new…",
    "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
-   "image": "https://i.guim.co.uk/img/media/d7827a476e14a9fe6c2f060b9b99453364c02b5e/205_0_4252_3403/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=3a433930e59ad86fd80c83ceb24b198c",
+   "image": "https://i.guim.co.uk/img/media/d7827a476e14a9fe6c2f060b9b99453364c02b5e/205_0_4252_3403/master/4252.jpg?width=700&quality=85&auto=format&fit=max&s=a0f07392462d4045e211c97ab25d580e",
    "published": "2026-10-29T17:49:47+00:00"
   },
   {
@@ -3058,7 +3092,7 @@
    "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
    "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this…",
    "link": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-   "image": "https://i.guim.co.uk/img/media/4b8061be068d0c34f7875e002f51ed5bc5855c91/299_0_2102_1682/master/2102.jpg?width=140&quality=85&auto=format&fit=max&s=7d5e04a65fae36a35be7d35843425ab3",
+   "image": "https://i.guim.co.uk/img/media/4b8061be068d0c34f7875e002f51ed5bc5855c91/299_0_2102_1682/master/2102.jpg?width=700&quality=85&auto=format&fit=max&s=92510b21806da5a3883604423ac4fd41",
    "published": "2026-10-29T17:46:38+00:00"
   },
   {
@@ -3343,7 +3377,7 @@
    "title": "Nvidia CEO reportedly targeted by an alleged Chinese spy",
    "summary": "Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has been targeted by an alleged Chinese spy who had done business with him, according to a new report by the New York Times. Alice Huang or Huang Le, of no relation to the Nvidia CEO, is an executive at a…",
    "link": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
-   "image": "https://i.guim.co.uk/img/media/cb6b801a0c5ebf6942051bb480e34a89937dea28/567_351_6376_5101/master/6376.jpg?width=140&quality=85&auto=format&fit=max&s=fac94a673ecd6903eee0c222b36b19db",
+   "image": "https://i.guim.co.uk/img/media/cb6b801a0c5ebf6942051bb480e34a89937dea28/567_351_6376_5101/master/6376.jpg?width=700&quality=85&auto=format&fit=max&s=38b18ade255af35416bc94df5456bc54",
    "published": "2026-10-29T15:23:48+00:00"
   },
   {
@@ -3871,7 +3905,7 @@
    "title": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
    "summary": "Sanrio ends association with TV drama Vivant after China says portrayal of ruthless Chinese agents is ‘deliberate smear’ The company behind the successful Hello Kitty franchise has apologised and ended its commercial tie-up with a Japanese TV drama after Chinese state media and netizens condemned the show’s “deliberate smears” against China. Sanrio, a Japanese firm whose characters are popular…",
    "link": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry",
-   "image": "https://i.guim.co.uk/img/media/7d6d915fba59d8777de3d38003f4e35332cd9d9a/857_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=324b7d90b8e3820ef79590749d14470f",
+   "image": "https://i.guim.co.uk/img/media/7d6d915fba59d8777de3d38003f4e35332cd9d9a/857_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=e52e583d99b519f4542dbfd18fc6b476",
    "published": "2026-10-29T08:03:00+00:00"
   },
   {
@@ -3992,7 +4026,7 @@
    "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
    "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United States. After landing on a private jet with his family in Miami, Florida , on Wednesday morning, the far-right senator published the claim in a…",
    "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-   "image": "https://i.guim.co.uk/img/media/42124afb15a49939e6544c20b2c8ea9523ee7816/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=123bb61c6ce6f4c2626b76e350a4ebcd",
+   "image": "https://i.guim.co.uk/img/media/42124afb15a49939e6544c20b2c8ea9523ee7816/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3b553f654351ab1682495deb9f0a0403",
    "published": "2026-10-28T22:06:46+00:00"
   },
   {
@@ -4014,7 +4048,7 @@
    "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
    "summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between member states just as an EU-Canada summit was set to begin in Montreal. A draft of a joint statement to be issued after the end of the summit, which runs…",
    "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
-   "image": "https://i.guim.co.uk/img/media/24a585605577afb5808339f59d266142de719b65/295_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=76d664f6a0d008e850be8e4f19c9fc79",
+   "image": "https://i.guim.co.uk/img/media/24a585605577afb5808339f59d266142de719b65/295_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=9476a4fb1168d4d3ec098ece684c466f",
    "published": "2026-10-28T21:27:33+00:00"
   },
   {
@@ -4212,7 +4246,7 @@
    "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
    "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the…",
    "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-   "image": "https://i.guim.co.uk/img/media/75e7c001f076ab3b02f724b5cffa0f0d6b244e26/320_316_1688_1351/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=c553b3acef6d1af022889b33d7e9eaa3",
+   "image": "https://i.guim.co.uk/img/media/75e7c001f076ab3b02f724b5cffa0f0d6b244e26/320_316_1688_1351/master/1688.jpg?width=700&quality=85&auto=format&fit=max&s=7bbae0e087bf75c2fb77f30ba633ce62",
    "published": "2026-10-28T14:16:24+00:00"
   },
   {
@@ -4278,7 +4312,7 @@
    "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
    "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director…",
    "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-   "image": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=4eca9873ee9ecb59fb15e289980ef771",
+   "image": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=8d2290453cbf85b2a597ebedc995f05a",
    "published": "2026-10-28T09:37:49+00:00"
   },
   {
@@ -4333,7 +4367,7 @@
    "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
    "summary": "Rubio’s decision not to meet Narendra Modi last week was seen by some as a snub – but by focusing on business leaders and oil, the secretary of state made American priorities clear. Plus: the artist bringing a female perspective to men’s clothing • Don’t get This is India delivered to your inbox? Sign up here When the US secretary of state, Marco Rubio, visited India for the second time this…",
    "link": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
-   "image": "https://i.guim.co.uk/img/media/1feda1d03fd340d455bf7e59753f9cbfd2d7b3e0/427_0_4914_3933/master/4914.jpg?width=140&quality=85&auto=format&fit=max&s=f7d62b0a58fc04cb49dafd4be4e9a7e3",
+   "image": "https://i.guim.co.uk/img/media/1feda1d03fd340d455bf7e59753f9cbfd2d7b3e0/427_0_4914_3933/master/4914.jpg?width=700&quality=85&auto=format&fit=max&s=ec3aaee6bd4d95d9cb4984a549bcb064",
    "published": "2026-10-27T09:21:33+00:00"
   },
   {
@@ -4366,7 +4400,7 @@
    "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
    "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of thousands of civilians killed over several days. A year after the fall of El…",
    "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-   "image": "https://i.guim.co.uk/img/media/c671810cd05b5ef573941d3edd85008c82d9bedf/687_437_3773_3019/master/3773.jpg?width=140&quality=85&auto=format&fit=max&s=af957effb5d8061ca35d33abdce49bd9",
+   "image": "https://i.guim.co.uk/img/media/c671810cd05b5ef573941d3edd85008c82d9bedf/687_437_3773_3019/master/3773.jpg?width=700&quality=85&auto=format&fit=max&s=524e936e3a83127f39f5d50fd08297b6",
    "published": "2026-10-26T15:07:23+00:00"
   },
   {
@@ -4421,7 +4455,7 @@
    "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
    "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has said after the first call with his 81-year-old mother in more than five years. “She still sounds certainly all there…",
    "link": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
-   "image": "https://i.guim.co.uk/img/media/5b99c6ee79292b609bb643617edbc7e5231d66c3/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=2615d7dbde5ea75c7cbde3ddcd70633c",
+   "image": "https://i.guim.co.uk/img/media/5b99c6ee79292b609bb643617edbc7e5231d66c3/285_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=fb75e8f8b4faadccb82a5121944f0425",
    "published": "2026-10-25T02:00:49+00:00"
   }
  ]
