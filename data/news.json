@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T12:04:07+00:00",
+ "generated": "2026-10-30T14:20:23+00:00",
  "status": {
   "politiken": {
    "ok": true,
@@ -31,7 +31,7 @@
   },
   "bbc": {
    "ok": true,
-   "items": 35
+   "items": 36
   },
   "guardian": {
    "ok": true,
@@ -67,7 +67,7 @@
   },
   "bbc_business": {
    "ok": true,
-   "items": 25
+   "items": 26
   },
   "guardian_business": {
    "ok": true,
@@ -83,7 +83,7 @@
   },
   "dr_penge": {
    "ok": true,
-   "items": 17
+   "items": 16
   },
   "borsen": {
    "ok": true,
@@ -116,6 +116,1601 @@
  },
  "items": [
   {
+   "feed": "bbc",
+   "outlet": "BBC News",
+   "section": "World",
+   "lang": "en",
+   "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+   "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+   "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-10-30T14:19:43+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "Germany, France, Italy and Spain: Where was inflation highest in October?",
+   "summary": "Inflation rose in Italy and France, held in Spain and fell in Germany in October. What is driving the gap between Europe's largest economies and will the European Central Bank hike again in December?",
+   "link": "https://www.euronews.com/2026/10/30/germany-france-italy-and-spain-where-was-inflation-highest-in-october",
+   "image": "",
+   "published": "2026-10-30T14:19:16+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "This one chart tells you everything you need to know about Exxon, Chevron and BP’s forecast-beating earnings",
+   "summary": "One slide in ExxonMobil’s investor presentation after its third-quarter earnings explains the financial situation for the integrated oil giants very neatly.",
+   "link": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-48786756",
+   "published": "2026-10-30T14:17:00+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Halloween er ikke bare en amerikansk børnefest. Under græskarrenes grin og kostumernes gru gemmer sig noget dybere",
+   "summary": "Halloween har ikke kun slået rod i Danmark, fordi butikkerne ønskede det, men fordi højtiden udfylder et tomrum.",
+   "link": "https://www.berlingske.dk/kronikker/halloween-er-ikke-bare-en-amerikansk-boernefest-under-graeskarrenes-grin-og-kostumernes-gru-gemmer-sig-noget-dybere?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165704232.webp?t[strip]=true&t[quality]=70&accessToken=efc7a65cf9073adc4f47bfa58ad7de778852808f9a3c704027853c6f1083e0fe",
+   "published": "2026-10-30T14:16:00+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Minister forventer at der kan drives jagt på ulve i Danmark næste år",
+   "summary": "To udbud er sat i gang, der skal give naturminister vished for, om den danske ulvebestand er levedygtig.",
+   "link": "https://www.berlingske.dk/danmark/minister-forventer-at-der-kan-drives-jagt-paa-ulve-i-danmark-naeste-aar?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165808974.webp?t[strip]=true&t[quality]=70&accessToken=6a9c20fce2307ceda20f500c04267acd8c1c1b88472e10a7c3259aa4ea47ae16",
+   "published": "2026-10-30T14:15:48+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Dødsdømt efter fejlslagen henrettelse: Jeg har konstante smerter",
+   "summary": "30. september blev dødsdømte Christa Pike forsøgt henrettet. Nu udtaler hun sig for første gang.",
+   "link": "https://www.berlingske.dk/internationalt/doedsdoemt-efter-fejlslagen-henrettelse-jeg-har-konstante-smerter?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165803065.webp?t[strip]=true&t[quality]=70&accessToken=e18e14e945ec061dd78c20842fdab8bb3f27e385eb39f5204defca64b2a0b624",
+   "published": "2026-10-30T14:15:44+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+   "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+   "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-56448073",
+   "published": "2026-10-30T14:15:00+00:00"
+  },
+  {
+   "feed": "nyt_business",
+   "outlet": "The New York Times",
+   "section": "Markets",
+   "lang": "en",
+   "title": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
+   "summary": "Using sensors developed for self-driving cars, a Chinese start-up claims it can track and destroy tiny flying targets while avoiding people, pets and reflective surfaces.",
+   "link": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
+   "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T14:14:36+00:00"
+  },
+  {
+   "feed": "guardian_business",
+   "outlet": "The Guardian",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Binance hackers using ‘never-seen-before laundering patterns’ to hide proceeds of $6.3bn heist – business live",
+   "summary": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record Explainer: How big a deal is the $6.3bn crypto heist, who did it, and are investments safe? Tell us: have you been affected by the Binance hack? North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist. Most major cryptocurrencies have fallen…",
+   "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/c88d8154f76fef59b24c916cab7348652d9f113c/481_0_4070_3256/master/4070.jpg?width=700&quality=85&auto=format&fit=max&s=9222d9e55df20fc9a26a16b4bdc9da5c",
+   "published": "2026-10-30T14:13:42+00:00"
+  },
+  {
+   "feed": "nyt",
+   "outlet": "The New York Times",
+   "section": "World",
+   "lang": "en",
+   "title": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
+   "summary": "Journalists at Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise: “They killed us.”",
+   "link": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30-RUSSIA-NOVAYA-GAZETA-01-bpwq/30-RUSSIA-NOVAYA-GAZETA-01-bpwq-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T14:12:50+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
+   "summary": "Several TikTokers influencers claim you can save money and be the coolest house on the block with bigger candy this year. Let’s see how that adds up.",
+   "link": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-99069003",
+   "published": "2026-10-30T14:12:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "DR",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Ny EU-udmelding truer regeringens plan for aldersgrænse på sociale medier",
+   "summary": "",
+   "link": "https://dr.dk/nyheder/udland/eu/ny-eu-udmelding-truer-regeringens-plan-aldersgraense-paa-sociale-medier",
+   "image": "",
+   "published": "2026-10-30T14:11:56+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "DR",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Dødsdømt efter mislykket henrettelse: 'Min krop gør ondt'",
+   "summary": "",
+   "link": "https://dr.dk/nyheder/udland/doedsdoemt-efter-mislykket-henrettelse-min-krop-goer-ondt",
+   "image": "",
+   "published": "2026-10-30T14:10:53+00:00"
+  },
+  {
+   "feed": "nyt_business",
+   "outlet": "The New York Times",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Tech Stocks Tumble, but Broader Market Is Holding On",
+   "summary": "The S&P 500 is set for a small loss for the month, despite a deeper slide in some of the A.I. stocks that exert a heavy influence on the index.",
+   "link": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-stocks-promo-image-ztkj/30biz-stocks-promo-image-ztkj-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T14:10:44+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "I sin selvbiografi skrev han, at det var mærkeligt at leve i en verden, hvor hans død ville chokere, men ikke overraske nogen",
+   "summary": "Som ung troede han, at berømmelse kunne være en redning. Alligevel døde Matthew Perry i et badekar. Nu er historien om ham blevet til en rørende dokumentar, der er blandt denne uges bedste streamingpremierer.",
+   "link": "https://www.berlingske.dk/skaerm/i-sin-selvbiografi-skrev-han-at-det-var-maerkeligt-at-leve-i-en-verden-hvor-hans-doed-ville-chokere-men-ikke-overraske-nogen?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165649787.webp?t[strip]=true&t[quality]=70&accessToken=9802372f456d49f6980a57267cea9214a339935f55c8b544581b448e1761747b",
+   "published": "2026-10-30T14:10:02+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Why Intel’s stock is sinking toward its worst day in decades — and a $140 billion wipeout",
+   "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+   "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-37901280",
+   "published": "2026-10-30T14:10:00+00:00"
+  },
+  {
+   "feed": "guardian_sport",
+   "outlet": "The Guardian",
+   "section": "Sports",
+   "lang": "en",
+   "title": "Forest Green launch legal proceedings against Savage departure, England win controversial U-15 World Cup match, and Premier League news – football live",
+   "summary": "⚽ News and previews heading into the weekend’s action. ⚽ Premier League: 10 things to look out for | Mail Andy. Dejan Kulusevski returned to competitive action for Tottenham after a 17-month injury layoff to play the last few minutes in the club’s 3-1 home victory against Coventry last week and followed that up with another substitute appearance in Saturday’s win at Chelsea. Kulusevski had…",
+   "link": "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
+   "image": "https://i.guim.co.uk/img/media/bc76467d3b300f1d6d669863cf9991ed1a0699fd/708_364_2602_2081/master/2602.jpg?width=700&quality=85&auto=format&fit=max&s=f434dac47fef168b1676bbba9d82596c",
+   "published": "2026-10-30T14:08:35+00:00"
+  },
+  {
+   "feed": "dw",
+   "outlet": "Deutsche Welle",
+   "section": "World",
+   "lang": "en",
+   "title": "Seoul fears being left out as US reaches out to North Korea",
+   "summary": "With ties between South Korea and the Trump administration strained, the South Korean government worries that Donald Trump's pursuit of a diplomatic breakthrough with Kim Jong Un may come at Seoul's expense.",
+   "link": "https://www.dw.com/en/seoul-fears-being-left-out-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
+   "image": "",
+   "published": "2026-10-30T14:08:00+00:00"
+  },
+  {
+   "feed": "guardian_sport",
+   "outlet": "The Guardian",
+   "section": "Sports",
+   "lang": "en",
+   "title": "South Africa v Australia: third men’s cricket Test, day four – live",
+   "summary": "Updates from the series decider at Newlands. Any thoughts? Get in touch with an email 52nd over: South Africa 151-4 (Breetzke 23, Rickelton 15) There they go! Rickelton gets a ball from Lyon that is not exactly short, but the batter gets back and leans away to make the length and the width he wants, cuts behind point for four. One good partnership and this could very much be South Africa’s day.…",
+   "link": "https://www.theguardian.com/sport/live/2026/oct/30/south-africa-v-australia-third-test-day-four-cricket-newlands-cape-town-live-updates",
+   "image": "https://i.guim.co.uk/img/media/96424f942ee90fbfe0192a490f216a3e272a24d1/529_0_3242_2594/master/3242.jpg?width=700&quality=85&auto=format&fit=max&s=9971d82ea2121dfd6d9e5df6d07ea3e0",
+   "published": "2026-10-30T14:07:31+00:00"
+  },
+  {
+   "feed": "dr_sporten",
+   "outlet": "DR",
+   "section": "Sports",
+   "lang": "da",
+   "title": "Verdens længste bordtennisduel",
+   "summary": "",
+   "link": "https://www.dr.dk/sporten/reels/verdens-laengste-bordtennisduel",
+   "image": "",
+   "published": "2026-10-30T14:06:00+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Tysk VM-vært: Russisk deltagelse vil have store konsekvenser",
+   "summary": "Russisk VM-deltagelse vil have sikkerhedsmæssige, politiske og økonomiske konsekvenser ifølge tyske værter.",
+   "link": "https://www.berlingske.dk/sport/tysk-vm-vaert-russisk-deltagelse-vil-have-store-konsekvenser?referrer=RSS",
+   "image": "",
+   "published": "2026-10-30T14:05:46+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Tysk VM-vært: Russisk deltagelse vil have store konsekvenser",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/tysk-vm-vaert-russisk-deltagelse-vil-have-store-konsekvenser",
+   "image": "",
+   "published": "2026-10-30T14:05:03+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "Christa Pike describes 'pain in my mind and in my soul' in first statement after failed execution",
+   "summary": "Pike survived two doses of pentobarbital during her attempted execution on 30 September. She was sentenced to death for torturing and killing her classmate Colleen Slemmer in 1995, when she was 18.",
+   "link": "https://www.euronews.com/2026/10/30/christa-pike-describes-pain-in-my-mind-and-in-my-soul-in-first-statement-after-failed-exec",
+   "image": "",
+   "published": "2026-10-30T14:04:32+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "EB",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Anlægsgartner gjorde mystisk fund på jobbet",
+   "summary": "",
+   "link": "https://ekstrabladet.dk/nyheder/samfund/18-aarig-gjorde-mystisk-fund-lignede-et-gerningssted/11337748",
+   "image": "",
+   "published": "2026-10-30T14:04:12+00:00"
+  },
+  {
+   "feed": "nyt_business",
+   "outlet": "The New York Times",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+   "summary": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+   "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+   "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T14:02:24+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Spansk højhastighedstog bragede ind i tog med 160-200 kilometer i timen",
+   "summary": "Mindst 69 personer mistede livet i togulykken i Spanien. Ifølge myndigheder er 64 personer meldt savnet.",
+   "link": "https://www.berlingske.dk/internationalt/spansk-hoejhastighedstog-bragede-ind-i-tog-med-160-200-kilometer-i-timen?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165766155.webp?t[strip]=true&t[quality]=70&accessToken=5ca64bf9ff8899eb2ae46dd5c200062983df6f302850f1994d5bc988a5eac845",
+   "published": "2026-10-30T14:01:44+00:00"
+  },
+  {
+   "feed": "nyt",
+   "outlet": "The New York Times",
+   "section": "World",
+   "lang": "en",
+   "title": "Another Toll of the Violent Unrest in France: The Political Center",
+   "summary": "Support for Édouard Philippe, the leading candidate from the centrist bloc, has eroded, while his far-right and far-left rivals benefit.",
+   "link": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
+   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-france-center-01-gtlk/30int-france-center-01-gtlk-mediumSquareAt3X-v2.jpg",
+   "published": "2026-10-30T14:00:48+00:00"
+  },
+  {
+   "feed": "techcrunch",
+   "outlet": "TechCrunch",
+   "section": "Tech",
+   "lang": "en",
+   "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+   "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+   "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+   "image": "",
+   "published": "2026-10-30T14:00:25+00:00"
+  },
+  {
+   "feed": "guardian",
+   "outlet": "The Guardian",
+   "section": "World",
+   "lang": "en",
+   "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
+   "summary": "Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey says Get our daily political email , free app or daily news podcast Altering copyright law to allow AI companies to scrape music, books and journalism could trigger a constitutional breach, Coalition senators and the recording industry have warned, as they raise new fears…",
+   "link": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+   "image": "https://i.guim.co.uk/img/media/3e7a0fdd3ee1b88bfd479f84f93eb5b6dec2668e/703_0_4478_3583/master/4478.jpg?width=700&quality=85&auto=format&fit=max&s=cc944019051a87f0e18991c46c91273d",
+   "published": "2026-10-30T14:00:18+00:00"
+  },
+  {
+   "feed": "guardian",
+   "outlet": "The Guardian",
+   "section": "World",
+   "lang": "en",
+   "title": "‘His honesty gave courage to survivors’: domestic abuse charities praise Patrick Stewart’s legacy",
+   "summary": "Actor first shared his childhood experiences as part of Amnesty International campaign and became Refuge ambassador. When Patrick Stewart was growing up in the 1940s, he witnessed how, after his father beat his mother, home doctors and ambulance workers would tell her: “You must have done something to provoke him.” Stewart knew the violence was never warranted, a conviction that became the spark…",
+   "link": "https://www.theguardian.com/culture/2026/oct/30/domestic-abuse-charities-patrick-stewart-amnesty-international-refuge",
+   "image": "https://i.guim.co.uk/img/media/73ad7b2871e09a267ed4452fd59eaf39659b7bc0/0_0_1661_1329/master/1661.jpg?width=700&quality=85&auto=format&fit=max&s=63512264d226a244e099e97e601be4d1",
+   "published": "2026-10-30T14:00:18+00:00"
+  },
+  {
+   "feed": "hn",
+   "outlet": "Hacker News",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Massie, Khanna, and Others Introduce the \"Epstein Files Transparency Act II\"",
+   "summary": "14 points, 0 comments on Hacker News.",
+   "link": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849",
+   "image": "",
+   "published": "2026-10-30T14:00:07+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "From derelict food market to futuristic Centre of Excellence: inside a Cyprus success story",
+   "summary": "It is housed in what once was a derelict food market building. It is now a thriving regional hub for immersive technologies. Its urban regeneration project has been shortlisted as one of the EU´s top social cohesion projects. An ongoing metamorphosis… made in Europe.",
+   "link": "https://www.euronews.com/2026/10/30/from-derelict-food-market-to-futuristic-centre-of-excellence-inside-a-cyprus-success-story",
+   "image": "",
+   "published": "2026-10-30T14:00:03+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Hvem tager sejren? F.C. Gladsaxe møder Fredensborg BI",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/hvem-tager-sejren-f-c-gladsaxe-moeder-fredensborg-bi",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Klar til kampdag? Skovshoved IF står overfor FC Nakskov",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/klar-til-kampdag-skovshoved-if-staar-overfor-fc-nakskov",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Frem Hellebæk møder IF Skjold Birkerød – læs optakten her",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/frem-hellebaek-moeder-if-skjold-birkeroed-laes-optakten-her",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "HØJ Elite Kvinder tager imod Odense Håndbold i Bambuni Kvindeligaen",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/hoej-elite-kvinder-tager-imod-odense-haandbold-i-bambuni-kvindeligaen",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Bagsværd BK skal forsøge at få sæsonens første sejr mod Gladsaxe-Hero BK",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/bagsvaerd-bk-skal-forsoege-at-faa-saesonens-foerste-sejr-mod-gladsaxe-hero-bk",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Hvem tager sejren? Hobro IK møder Skovsgaard B",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/hvem-tager-sejren-hobro-ik-moeder-skovsgaard-b",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Næstved HG skal forsøge at få sæsonens første sejr mod Esbjerg fB",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/naestved-hg-skal-forsoege-at-faa-saesonens-foerste-sejr-mod-esbjerg-fb",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Avisen Danmark",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Hvem tager sejren? Herlev IF møder Nerashté, Ballerup",
+   "summary": "",
+   "link": "https://avisendanmark.dk/sport/hvem-tager-sejren-herlev-if-moeder-nerashte-ballerup",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "dw",
+   "outlet": "Deutsche Welle",
+   "section": "World",
+   "lang": "en",
+   "title": "Bollywood and the underworld — together in the spotlight?",
+   "summary": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
+   "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "techcrunch",
+   "outlet": "TechCrunch",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+   "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+   "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+   "image": "",
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "Pope Leo XIV has voted in US midterm elections, Vatican says",
+   "summary": "The US midterm elections, scheduled for 3 November, will determine the make-up of Congress for President Donald Trump's final two years in office.",
+   "link": "https://www.euronews.com/2026/10/30/pope-leo-xiv-has-voted-in-us-midterm-elections-vatican-says",
+   "image": "",
+   "published": "2026-10-30T13:59:38+00:00"
+  },
+  {
+   "feed": "bbc_business",
+   "outlet": "BBC News",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Yorkshire Water boss resigns after firm downgraded",
+   "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dbf/live/d8f7e870-d44a-11f1-b441-2b33b063138f.jpg",
+   "published": "2026-10-30T13:59:16+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Amerikanske pave Leo har stemt ved midtvejsvalget",
+   "summary": "Tirsdag går USA til valg, og paven, der ikke har et helt gnidningsfrit forhold til Trump, har brevstemt.",
+   "link": "https://www.berlingske.dk/internationalt/amerikanske-pave-leo-har-stemt-ved-midtvejsvalget?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165796996.webp?t[strip]=true&t[quality]=70&accessToken=25aeab60c67768054336136e9c9cabfa183470d358ac26127176be90134cf51a",
+   "published": "2026-10-30T13:57:44+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "Islamic states prosecutors call for global enforcement coalition",
+   "summary": "Law enforcement heads from 46 Islamic states gather in Baku to tackle cross-border financial crime, artificial intelligence and international asset recovery.",
+   "link": "https://www.euronews.com/2026/10/30/islamic-states-prosecutors-call-for-global-enforcement-coalition",
+   "image": "",
+   "published": "2026-10-30T13:56:06+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "DR",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "LTF'er er blevet idømt livstid for dobbeltdrab i bandemiljøet",
+   "summary": "",
+   "link": "https://dr.dk/nyheder/indland/ltf-er-er-blevet-idoemt-livstid-dobbeltdrab-i-bandemiljoeet",
+   "image": "",
+   "published": "2026-10-30T13:55:52+00:00"
+  },
+  {
+   "feed": "borsen",
+   "outlet": "Børsen",
+   "section": "Markets",
+   "lang": "da",
+   "title": "Analyse: Netanyahu er et ekko af Trump – valget “er stjålet”",
+   "summary": "Ingen af de to store blokke i israelsk politik har flertal efter tirsdagens valg, og derfor risikerer Israel endnu en gang at stå overfor en periode med flere nyvalg",
+   "link": "https://borsen.dk/nyheder/udland/analyse-netanyahu-er-et-ekko-af-trump-valget-er-stjalet",
+   "image": "https://media.borsen.dk/brapi/size/1200/f020a5fd-cae7-4d7f-a188-60037fb298ba-landscape/4103616-20261030121052/2ba28ffb-956e-4598-b572-8f0e467ea749.jpg",
+   "published": "2026-10-30T13:55:00+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "DIF-formand ser mange argumenter for at udelukke Rusland",
+   "summary": "Der er mange grunde til at udelukke Rusland fra VM i ishockey, mener formand i DIF, Hans Natorp.",
+   "link": "https://www.berlingske.dk/sport/dif-formand-ser-mange-argumenter-for-at-udelukke-rusland?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165801916.webp?t[strip]=true&t[quality]=70&accessToken=d61fbff55b817d8c4beb4375eec84783c2e4a0b3622fec6dd390f13f44c8efc5",
+   "published": "2026-10-30T13:54:48+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "LTF'er idømmes livstid for dobbeltdrab i bandemiljøet",
+   "summary": "29-årig mand er som den syvende idømt fængsel på livstid for bandedobbeltdrab i Kalundborg i 2020. Han anker.",
+   "link": "https://www.berlingske.dk/indland/ltfer-idoemmes-livstid-for-dobbeltdrab-i-bandemiljoeet?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165796101.webp?t[strip]=true&t[quality]=70&accessToken=82697851b4952a4d8525efd037c2403c707e1f16978eea9f284f85316eeb9294",
+   "published": "2026-10-30T13:54:45+00:00"
+  },
+  {
+   "feed": "techcrunch",
+   "outlet": "TechCrunch",
+   "section": "Tech",
+   "lang": "en",
+   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "summary": "DoorDash said that it is open to working with third-party agent makers",
+   "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "image": "",
+   "published": "2026-10-30T13:54:25+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "TV 2",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Natorp ser mange argumenter for at udelukke Rusland",
+   "summary": "",
+   "link": "https://sport.tv2.dk/ishockey/2026-10-30-natorp-ser-mange-argumenter-for-at-udelukke-rusland",
+   "image": "",
+   "published": "2026-10-30T13:54:04+00:00"
+  },
+  {
+   "feed": "ars",
+   "outlet": "Ars Technica",
+   "section": "Tech",
+   "lang": "en",
+   "title": "GM to pay $220 million after selling customer Smart Driver data",
+   "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
+   "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg",
+   "published": "2026-10-30T13:53:20+00:00"
+  },
+  {
+   "feed": "verge",
+   "outlet": "The Verge",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+   "summary": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at Toyota's […]",
+   "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+   "image": "",
+   "published": "2026-10-30T13:52:14+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "EB",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Jacob Riising sagde nej: - Det var ikke sjovt",
+   "summary": "",
+   "link": "https://ekstrabladet.dk/underholdning/dkkendte/jacob-riising-sagde-nej-til-kritiseret-tv-2-program-det-var-ikke-sjovt/11338160",
+   "image": "",
+   "published": "2026-10-30T13:51:27+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "Czech Republic: Meerkats and cheetah cubs play with Halloween pumpkins",
+   "summary": "Halloween has arrived at Prague Zoo, where meerkats are exploring pumpkins stuffed with worms and cheetah cubs are discovering seasonal toys. Four days of activities will bring treats to 14 animal species.",
+   "link": "https://www.euronews.com/video/2026/10/30/czech-republic-meerkats-and-cheetah-cubs-play-with-halloween-pumpkins",
+   "image": "",
+   "published": "2026-10-30T13:50:45+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "Kristeligt Dagblad",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Dødsdømt efter fejlslagen henrettelse: Jeg har konstante smerter",
+   "summary": "",
+   "link": "https://www.kristeligt-dagblad.dk/udland/doedsdoemt-efter-fejlslagen-henrettelse-jeg-har-konstante-smerter",
+   "image": "",
+   "published": "2026-10-30T13:50:30+00:00"
+  },
+  {
+   "feed": "nyt",
+   "outlet": "The New York Times",
+   "section": "World",
+   "lang": "en",
+   "title": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
+   "summary": "Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat.",
+   "link": "https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html",
+   "image": "https://static01.nyt.com/images/2025/12/20/multimedia/30int-uk-andrew-epstein-rgdh/30int-uk-andrew-epstein-rgdh-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T13:49:34+00:00"
+  },
+  {
+   "feed": "berlingske",
+   "outlet": "Berlingske",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Seneste nyt om dansk politik – følg udviklingen her",
+   "summary": "Det ulmer i Venstres bagland, efter Venstres ledelse har ekskluderet mangeårig profil i partiet. Følg med og få de seneste nyheder om dansk politik her.",
+   "link": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-46?referrer=RSS",
+   "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/165735711.webp?t[strip]=true&t[quality]=70&accessToken=a53b1decdf6802dba7bc7c66284758aa7a21e42ca639761736e05f775e3f1ae6",
+   "published": "2026-10-30T13:49:00+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+   "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.",
+   "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-06307348",
+   "published": "2026-10-30T13:49:00+00:00"
+  },
+  {
+   "feed": "guardian",
+   "outlet": "The Guardian",
+   "section": "World",
+   "lang": "en",
+   "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+   "summary": "Some 69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missing. Peunte begins by paying tribute to all affected by the incident. He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to clarify what exactly happened.” He says he still has confidence in the…",
+   "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/761dff5040731572cd809d76f86cf7a461b0100f/517_447_2958_2366/master/2958.jpg?width=700&quality=85&auto=format&fit=max&s=afd77dfc8255499f9508c4a6a3c43dbb",
+   "published": "2026-10-30T13:48:58+00:00"
+  },
+  {
+   "feed": "borsen",
+   "outlet": "Børsen",
+   "section": "Markets",
+   "lang": "da",
+   "title": "Hackerangreb på verdens største kryptobørs – kan skræmme potentielle investorer væk",
+   "summary": "Et af historiens største hackerangreb har ramt verdens største kryptobørs, netop som kryptovaluta vinder indpas hos de etablerede banker. Nu er spørgsmålet, hvor hårdt det vil ramme tilliden til markedet",
+   "link": "https://borsen.dk/nyheder/finans/hackerangreb-pa-verdens-storste-kryptobors-kan-skraemme-potentielle-investorer-vaek",
+   "image": "https://media.borsen.dk/brapi/size/1200/c9f2d091-16ca-4b7d-84d0-b1a2c689267d-landscape/4103610-20261030131020/f203377032ad051ffa40261309de4565ed93dc87b7779666fde34199923921e3.jpg",
+   "published": "2026-10-30T13:48:33+00:00"
+  },
+  {
+   "feed": "nyt_business",
+   "outlet": "The New York Times",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+   "summary": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
+   "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+   "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T13:46:48+00:00"
+  },
+  {
+   "feed": "ars",
+   "outlet": "Ars Technica",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+   "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+   "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
+   "published": "2026-10-30T13:46:39+00:00"
+  },
+  {
+   "feed": "bbc",
+   "outlet": "BBC News",
+   "section": "World",
+   "lang": "en",
+   "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b26/live/71132ab0-d45b-11f1-93d9-89af68edb68a.jpg",
+   "published": "2026-10-30T13:46:16+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "EB",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Christa Pike taler for første gang: Er i konstant smerte",
+   "summary": "",
+   "link": "https://ekstrabladet.dk/krimi/christa-pike-taler-for-foerste-gang-er-i-konstant-smerte/11338256",
+   "image": "",
+   "published": "2026-10-30T13:45:57+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "EB",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Kæmpe blodbad: Aktier styrtdykker",
+   "summary": "",
+   "link": "https://ekstrabladet.dk/penge/kaempe-blodbad-lige-nu-amerikanske-techaktier-styrtdykker/11338252",
+   "image": "",
+   "published": "2026-10-30T13:44:52+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "EB",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Elbil i kæmpe flammer",
+   "summary": "",
+   "link": "https://ekstrabladet.dk/nyheder/samfund/elbil-i-kaempe-flammer/11338195",
+   "image": "",
+   "published": "2026-10-30T13:44:31+00:00"
+  },
+  {
+   "feed": "hn",
+   "outlet": "Hacker News",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Intel plunges 25%, triggers global chip rout on bleak outlook",
+   "summary": "29 points, 22 comments on Hacker News.",
+   "link": "https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/",
+   "image": "",
+   "published": "2026-10-30T13:43:48+00:00"
+  },
+  {
+   "feed": "bbc_sport",
+   "outlet": "BBC Sport",
+   "section": "Sports",
+   "lang": "en",
+   "title": "Popular and talented - but Grealish is running out of chances",
+   "summary": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg",
+   "published": "2026-10-30T13:42:15+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
+   "summary": "Nearly nine in 10 voters — 88% — say they worry the national debt is adding to their own borrowing costs.",
+   "link": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-47992570",
+   "published": "2026-10-30T13:42:00+00:00"
+  },
+  {
+   "feed": "wallnot",
+   "outlet": "EB",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Rusland er tilbage: - Det er helt på månen",
+   "summary": "",
+   "link": "https://ekstrabladet.dk/sport/anden_sport/ishockey/rusland-skal-med-til-ishockey-vm-det-er-uforstaaeligt-og-ubegribeligt/11338109",
+   "image": "",
+   "published": "2026-10-30T13:37:48+00:00"
+  },
+  {
+   "feed": "guardian_business",
+   "outlet": "The Guardian",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Mercury, lead and methanol found in counterfeit beauty products seized across UK",
+   "summary": "Copies of popular cosmetics and skincare products more likely to contain toxic substances, Trading Standards warns. Mercury, lead and methanol have been found in counterfeit beauty products seized across the UK, Trading Standards has said. There is a rising problem with fake beauty products, with scammers selling copies of popular and expensive brands. Cosmetics, skincare and perfumes are now…",
+   "link": "https://www.theguardian.com/fashion/2026/oct/30/mercury-lead-methanol-counterfeit-beauty-products-seized-uk",
+   "image": "https://i.guim.co.uk/img/media/011d34f22885429c286610c015203f751324babf/0_0_2990_2392/master/2990.jpg?width=700&quality=85&auto=format&fit=max&s=65e1aa2372a800affa16e932129bac70",
+   "published": "2026-10-30T13:35:10+00:00"
+  },
+  {
+   "feed": "nyt",
+   "outlet": "The New York Times",
+   "section": "World",
+   "lang": "en",
+   "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
+   "summary": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
+   "link": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
+   "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-ukraine-pipes-promo-afabuo/28int-ukraine-pipes-promo-afabuo-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T13:33:25+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Palestinian child survives Israeli gunshot to the head",
+   "summary": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T13:32:24+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
+   "summary": "Recent Starlink suspension did not much affect Ukrainian lethality, but Kyiv shows it is losing trust in the US.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T13:29:57+00:00"
+  },
+  {
+   "feed": "bbc_sport",
+   "outlet": "BBC Sport",
+   "section": "Sports",
+   "lang": "en",
+   "title": "England edge towards World Cup exit despite PNG win",
+   "summary": "England's points chase against Papua New Guinea descends into an error-strewn 34-12 win that will almost certainly lead to their World Cup exit.",
+   "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cx30e28vn5r4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f71/live/a01588e0-d464-11f1-b441-2b33b063138f.jpg",
+   "published": "2026-10-30T13:29:47+00:00"
+  },
+  {
+   "feed": "guardian",
+   "outlet": "The Guardian",
+   "section": "World",
+   "lang": "en",
+   "title": "Burnham says he wants to ‘draw a line’ under relationship with devolved powers – UK politics live",
+   "summary": "PM hoping for improved relations and ‘model of deeper devolution in Scotland and Wales’ Downing Street has paid tribute to Patrick Stewart following the actor’s death. At the daily lobby briefing, the PM’s spokesperson gave a comment that was a bit more extensive than the usual No 10 contribution when a great British celebrity dies. The spokesperson said that was because Andy Burnham feels…",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/07d1c549b953d6a138c94dd2c4bab47e3d21ff1b/1135_680_2580_2063/master/2580.jpg?width=700&quality=85&auto=format&fit=max&s=7dfeedacedcedce73a570b93348d91d0",
+   "published": "2026-10-30T13:28:01+00:00"
+  },
+  {
+   "feed": "hn",
+   "outlet": "Hacker News",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
+   "summary": "9 points, 12 comments on Hacker News.",
+   "link": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/",
+   "image": "",
+   "published": "2026-10-30T13:26:43+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "Italy: Thousands protest rising living costs and defence spending in general strike",
+   "summary": "Thousands of protesters marched through Rome, Italy, on Friday, 30 October, during a general strike called by the left-wing Unione Sindacale di Base (USB) trade union.",
+   "link": "https://www.euronews.com/video/2026/10/30/italy-thousands-protest-rising-living-costs-and-defence-spending-in-general-strike",
+   "image": "",
+   "published": "2026-10-30T13:26:01+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat",
+   "summary": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
+   "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-40274543",
+   "published": "2026-10-30T13:26:00+00:00"
+  },
+  {
+   "feed": "guardian_business",
+   "outlet": "The Guardian",
+   "section": "Markets",
+   "lang": "en",
+   "title": "How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?",
+   "summary": "The theft from Binance could be the biggest theft of any kind in history. We answer some key questions North Korean group blamed for $6.3bn crypto heist. Tell us: have you been affected? The world’s largest cryptocurrency exchange has been hit by a $6.3bn heist that, according to experts, is likely to be the work of North Korea . This is not the first time a crypto market has been targeted by…",
+   "link": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
+   "image": "https://i.guim.co.uk/img/media/d542f8264ab26168893328cc468931376fc05f01/434_0_4340_3472/master/4340.jpg?width=700&quality=85&auto=format&fit=max&s=b6bc705046732a4454e54158ed51de0b",
+   "published": "2026-10-30T13:22:02+00:00"
+  },
+  {
+   "feed": "dw",
+   "outlet": "Deutsche Welle",
+   "section": "World",
+   "lang": "en",
+   "title": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
+   "summary": "Bayern Munich are to open Nairobi's new Raila Odinga International Stadium against Ajax as Kenya prepares for AFCON 2027. The match highlights Africa's growing sports ambitions — and questions over cost and legacy.",
+   "link": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf",
+   "image": "",
+   "published": "2026-10-30T13:19:00+00:00"
+  },
+  {
+   "feed": "borsen",
+   "outlet": "Børsen",
+   "section": "Markets",
+   "lang": "da",
+   "title": "En kvart mio. familier har udsigt til rekorddyr gasvinter",
+   "summary": "Gasregningen kan blive større end i krisevinteren 2022, hvis prisen holder sig uændret. Ekspert spår endnu højere priser",
+   "link": "https://borsen.dk/nyheder/okonomi/en-kvart-mio-familier-har-udsigt-til-rekorddyr-gasvinter",
+   "image": "https://media.borsen.dk/brapi/size/1200/fed7e7e6-77a0-4789-8fb7-667fa28bd69c-landscape/4103527-20261028081052/67dfafdb0a1839fc4180a2b47585763ce936408e2c8783f3ef130d39fd7e8903.jpg",
+   "published": "2026-10-30T13:18:35+00:00"
+  },
+  {
+   "feed": "cyclingnews",
+   "outlet": "Cyclingnews",
+   "section": "Sports",
+   "lang": "en",
+   "title": "'Unfinished business' – Vuelta return more likely for Tadej Pogačar in 2027 than Giro, says agent Carera",
+   "summary": "Slovenian's full schedule will be confirmed at UAE Team Emirates-XRG's training camp media day in December",
+   "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/unfinished-business-vuelta-return-more-likely-for-tadej-pogacar-in-2027-than-giro-says-agent-carera/",
+   "image": "https://cdn.mos.cms.futurecdn.net/4vQULftgQxCeAqbtXSmKw4-1920-80.jpg",
+   "published": "2026-10-30T13:17:29+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
+   "summary": "After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
+   "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-84410704",
+   "published": "2026-10-30T13:16:00+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Is this suspicious?",
+   "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+   "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-12441339",
+   "published": "2026-10-30T13:15:00+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Italy tightens security as students, unions launch nationwide protests",
+   "summary": "Rallies across the country target living costs, investment in education and the wars in the Middle East.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T13:14:11+00:00"
+  },
+  {
+   "feed": "marketwatch",
+   "outlet": "MarketWatch",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Bitcoin slides after crypto’s nightmare scenario: a historic $6.3 billion heist",
+   "summary": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
+   "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+   "image": "https://images.mktw.net/im-53476673",
+   "published": "2026-10-30T13:13:00+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "This new Times Square hotel will have a free-fall thrill ride, an observation deck and a rooftop pool",
+   "summary": "New York City’s most iconic address is getting a 1,800-key hotel, bringing with it plenty more reasons to visit.",
+   "link": "https://www.euronews.com/2026/10/30/this-new-times-square-hotel-will-have-a-free-fall-thrill-ride-an-observation-deck-and-a-ro",
+   "image": "",
+   "published": "2026-10-30T13:12:39+00:00"
+  },
+  {
+   "feed": "politiken",
+   "outlet": "Politiken",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Nikolaj Lie Kaas vender tilbage til de skrå brædder efter 15 år",
+   "summary": "Nikolaj Lie Kaas indtager otte roller i omskrivning af Anton Tjekhovs klassiske skuespil ’Onkel Vanja’.",
+   "link": "https://politiken.dk/kultur/scene/art11042412/Nikolaj-Lie-Kaas-vender-tilbage-til-de-skr%C3%A5-br%C3%A6dder-efter-15-%C3%A5r",
+   "image": "https://politiken.dk/incoming/img11042613.obhxp0/ORIGINALS/original_960/Nikolaj%20Lie%20Kaas",
+   "published": "2026-10-30T13:12:37+00:00"
+  },
+  {
+   "feed": "politiken",
+   "outlet": "Politiken",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Jeg vil gense denne koncert alene på grund af manden med det flagrende hår og de kæmpe trommer",
+   "summary": "Det er imponerende, men også kvalmende at blive trukket så hårdt ind i den eksistentielle angst, som det sker i Koncerthuset i denne uge.",
+   "link": "https://politiken.dk/kultur/art11026566/Jeg-vil-gense-denne-koncert-alene-p%C3%A5-grund-af-manden-med-det-flagrende-h%C3%A5r-og-de-k%C3%A6mpe-trommer",
+   "image": "https://politiken.dk/incoming/img11041715.g06wnh/ORIGINALS/original_960/26.10",
+   "published": "2026-10-30T13:11:45+00:00"
+  },
+  {
+   "feed": "verge",
+   "outlet": "The Verge",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Silicon Valley wants you to invest in miracles",
+   "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, […]",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+   "image": "",
+   "published": "2026-10-30T13:11:05+00:00"
+  },
+  {
+   "feed": "nyt",
+   "outlet": "The New York Times",
+   "section": "World",
+   "lang": "en",
+   "title": "Oldest Recording of Louisiana’s Vanishing Creole Language Is Published",
+   "summary": "The rediscovery of a forgotten recording from 1935 sheds light on a language rooted in the state’s history of slavery and French colonialism.",
+   "link": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
+   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-creole-woman/30xp-creole-woman-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T13:05:32+00:00"
+  },
+  {
+   "feed": "guardian_business",
+   "outlet": "The Guardian",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
+   "summary": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’ UK politics live – latest updates The leader of the UK’s biggest trade union has called for the same political focus to be given to NHS, education and care sector workers as there has been on those employed in North Sea oil and gas. Andrea Egan, the general secretary of…",
+   "link": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
+   "image": "https://i.guim.co.uk/img/media/44ad5917cfe307f50a5e26514caa5d9e3186e54f/187_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=b27006646208c8d181812d79f0885e23",
+   "published": "2026-10-30T13:04:03+00:00"
+  },
+  {
+   "feed": "bbc",
+   "outlet": "BBC News",
+   "section": "World",
+   "lang": "en",
+   "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+   "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-10-30T13:03:34+00:00"
+  },
+  {
+   "feed": "borsen",
+   "outlet": "Børsen",
+   "section": "Markets",
+   "lang": "da",
+   "title": "Eksperter: Lavere moms vil øge risikoen for snyd og fejl kraftigt",
+   "summary": "Svenske erfaringer med differentieret moms viser, at det kan føre til langt flere fejl og mere snyd med momssystemet, siger flere eksperter",
+   "link": "https://borsen.dk/nyheder/politik/eksperter-lavere-moms-vil-oge-risikoen-for-snyd-og-fejl-kraftigt",
+   "image": "https://media.borsen.dk/brapi/size/1200/f2e97773-52fb-43a8-be27-3789ba1706e3-landscape/4103608-2026102921108/27f77661-b909-4676-b95f-d4c4fe5bd16a.jpg",
+   "published": "2026-10-30T13:02:02+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
+   "summary": "Senator Chris Murphy warns Trump’s reported plan to restart war with Iran could have devastating consequences.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T13:01:43+00:00"
+  },
+  {
+   "feed": "npr",
+   "outlet": "NPR",
+   "section": "World",
+   "lang": "en",
+   "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+   "summary": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
+   "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+   "image": "",
+   "published": "2026-10-30T13:01:22+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Irish government to assess potential for united Ireland",
+   "summary": "London has to call a referendum on Irish unity if it appears likely that most Northern Irish voters would ​back it.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/irish-government-to-assess-potential-for-united-ireland?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T13:01:15+00:00"
+  },
+  {
+   "feed": "verge",
+   "outlet": "The Verge",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "image": "",
+   "published": "2026-10-30T13:01:14+00:00"
+  },
+  {
+   "feed": "guardian",
+   "outlet": "The Guardian",
+   "section": "World",
+   "lang": "en",
+   "title": "‘Ceilidh renaissance’ lures gen Z offline in search of real-life joy",
+   "summary": "Young dancers at the Ivy House in south-east London join the older crowd amid a renewed appetite for authentic, community events. The Ivy House pub in Nunhead, south-east London, has long been associated with raucous music, with the rock legends Ian Dury and Elvis Costello gracing its stage in the 70s, and indie favourites caroline and Kiran Leonard pulling in crowds today. But last Friday, it…",
+   "link": "https://www.theguardian.com/music/2026/oct/30/ceilidh-renaissance-traditional-experience-young-people-community-london",
+   "image": "https://i.guim.co.uk/img/media/2b374f850c1126118f0f7472503af511fc58afcf/0_0_5800_4640/master/5800.jpg?width=700&quality=85&auto=format&fit=max&s=d7353be2b9443c5cc87e5814bbc040cf",
+   "published": "2026-10-30T13:00:54+00:00"
+  },
+  {
+   "feed": "techcrunch",
+   "outlet": "TechCrunch",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+   "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+   "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+   "image": "",
+   "published": "2026-10-30T13:00:00+00:00"
+  },
+  {
+   "feed": "techcrunch",
+   "outlet": "TechCrunch",
+   "section": "Tech",
+   "lang": "en",
+   "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+   "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+   "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+   "image": "",
+   "published": "2026-10-30T13:00:00+00:00"
+  },
+  {
+   "feed": "verge",
+   "outlet": "The Verge",
+   "section": "Tech",
+   "lang": "en",
+   "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+   "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. […]",
+   "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+   "image": "",
+   "published": "2026-10-30T13:00:00+00:00"
+  },
+  {
+   "feed": "nyt",
+   "outlet": "The New York Times",
+   "section": "World",
+   "lang": "en",
+   "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
+   "summary": "Many of the people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
+   "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-ukraine-oleshky-wtk-01-pwbk/30int-ukraine-oleshky-wtk-01-pwbk-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T12:58:05+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "Nature recovery is falling behind. Can COP17 get global action back on track?",
+   "summary": "Biodiversity goals are off track as the UN nature summit faces funding and political tensions on its final day.",
+   "link": "https://www.euronews.com/2026/10/30/nature-recovery-is-falling-behind-can-cop17-get-global-action-back-on-track",
+   "image": "",
+   "published": "2026-10-30T12:57:54+00:00"
+  },
+  {
+   "feed": "bbc_sport",
+   "outlet": "BBC Sport",
+   "section": "Sports",
+   "lang": "en",
+   "title": "Injured Tuipulotu a doubt for England's autumn Tests",
+   "summary": "Uncapped hooker Kepu Tuipulotu has suffered a knee injury in training and will not be included in England's squad for the Australia fixture on 8 November.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cve8rpzk3r0ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc2/live/78a78e90-d45d-11f1-ab12-eb0c94f5b382.jpg",
+   "published": "2026-10-30T12:56:17+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Sudan RSF commander defects from Hemedti’s forces",
+   "summary": "Senior Rapid Support Forces commander Siddiq Ander says he has defected, in an exclusive video obtained by Al Jazeera.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/sudan-rsf-commander-defects-from-hemedtis-forces?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T12:55:10+00:00"
+  },
+  {
+   "feed": "politiken",
+   "outlet": "Politiken",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Die Linke fik opbakning i Berlin fra islamister og kriminelle. Nu frygter partiets frontfigur for sin sikkerhed",
+   "summary": "Det yderste venstrefløjsparti Die Linke sejrede ved lokalvalget i Berlin. Nu viser det sig, at frontfiguren frygter for sin sikkerhed. Truslen kommer fra partiets bagland.",
+   "link": "https://politiken.dk/internationalt/art11041552/Die-Linke-fik-opbakning-i-Berlin-fra-islamister-og-kriminelle.-Nu-frygter-partiets-frontfigur-for-sin-sikkerhed",
+   "image": "https://politiken.dk/incoming/img11041772.ndmqjm/ORIGINALS/original_960/GERMANY-POLITICS-BERLIN",
+   "published": "2026-10-30T12:52:42+00:00"
+  },
+  {
+   "feed": "hn",
+   "outlet": "Hacker News",
+   "section": "Tech",
+   "lang": "en",
+   "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+   "summary": "55 points, 20 comments on Hacker News.",
+   "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+   "image": "",
+   "published": "2026-10-30T12:50:01+00:00"
+  },
+  {
+   "feed": "guardian",
+   "outlet": "The Guardian",
+   "section": "World",
+   "lang": "en",
+   "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+   "summary": "IISS study questions overreliance on American support and ‘overdependence on expensive, high-end systems’ Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued value of US bases in the face of Iranian attack, according to a study by the International Institute for Strategic Studies. The report says…",
+   "link": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+   "image": "https://i.guim.co.uk/img/media/08682fee386a7fd0564b3e9c5c78d005c78d486d/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2487799ed41f0eb25c564d767ae5a1c8",
+   "published": "2026-10-30T12:49:56+00:00"
+  },
+  {
+   "feed": "guardian_sport",
+   "outlet": "The Guardian",
+   "section": "Sports",
+   "lang": "en",
+   "title": "Anderson reveals ‘sadness and shock’ at Lancashire exit as he ponders cricket future",
+   "summary": "England great talks for first time since surprise dismissal. Bowler optimistic about future within or outside sport Jimmy Anderson has revealed the “sadness and shock” he felt at his surprise Lancashire dismissal while he weighs up whether his future involves playing cricket or “something different”. Speaking for the first time since being told he will not have his county contract renewed, the…",
+   "link": "https://www.theguardian.com/sport/2026/oct/30/jimmy-anderson-reveals-sadness-and-shock-lancashire-exit-ponders-cricket-future",
+   "image": "https://i.guim.co.uk/img/media/e689b9b38d15d5656e3be292f4a240ea44c21b3b/150_0_3275_2620/master/3275.jpg?width=700&quality=85&auto=format&fit=max&s=935e9b889d7814b422c5db941221fcf2",
+   "published": "2026-10-30T12:48:20+00:00"
+  },
+  {
+   "feed": "nyt",
+   "outlet": "The New York Times",
+   "section": "World",
+   "lang": "en",
+   "title": "Newly Freed American Describes His Years in Russian Prison",
+   "summary": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.",
+   "link": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
+   "image": "https://static01.nyt.com/images/2026/11/29/multimedia/29int-ukraine-hubbard-sub-pclb/29int-ukraine-hubbard-sub-pclb-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T12:48:14+00:00"
+  },
+  {
+   "feed": "dw",
+   "outlet": "Deutsche Welle",
+   "section": "World",
+   "lang": "en",
+   "title": "Italy: Students and workers rally over living costs",
+   "summary": "Students and workers have marched across Italy for more school funding and relief from rising living costs. The rallies follow weeks of school occupations and protests against higher military spending.",
+   "link": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-rdf",
+   "image": "",
+   "published": "2026-10-30T12:45:00+00:00"
+  },
+  {
+   "feed": "borsen",
+   "outlet": "Børsen",
+   "section": "Markets",
+   "lang": "da",
+   "title": "Netcompany styrker milliardopkøb med 150 medarbejdere",
+   "summary": "Netcompany flytter 150 folk fra hovedorganisationen og placerer dem i bankdelen for at give den en stor dosis energi",
+   "link": "https://borsen.dk/nyheder/finans/netcompany-styrker-milliardopkob-med-150-medarbejdere",
+   "image": "https://media.borsen.dk/brapi/size/1200/36da9201-91d3-4f69-aef7-b008aa0f1da2-landscape/4103601-20261029101044/e0b596fb37a044c4b57b1e72608f3df3ae319d1fd4a29be0f4fcccc50aea4405.jpg",
+   "published": "2026-10-30T12:44:04+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Russia back in ice hockey world championships after sport court ruling",
+   "summary": "Court of Arbitration for Sport overturned IIHF decisions that excluded Russia from events in the 2026-27 season.",
+   "link": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T12:43:28+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "World number one Rybakina withdraws from Pan Pacific Open with neck injury",
+   "summary": "Elena Rybakina expects to return for next month's WTA Finals in Indian Wells after withdrawing from the Tokyo quarterfinals.",
+   "link": "https://www.aljazeera.com/sports/2026/10/30/world-number-one-rybakina-withdraws-from-pan-pacific-open-with-neck-injury?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T12:42:56+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
+   "summary": "The world’s largest crypto exchange halts withdrawals as the theft is linked to North Korean hackers.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T12:38:47+00:00"
+  },
+  {
+   "feed": "bbc",
+   "outlet": "BBC News",
+   "section": "World",
+   "lang": "en",
+   "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+   "summary": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9fe/live/78e57430-d458-11f1-93d9-89af68edb68a.jpg",
+   "published": "2026-10-30T12:36:55+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "North Korea warns South Korea with ballistic missiles as Seoul calls for talks to ease border tensions",
+   "summary": "Missile launches and a dispute over a landmine incident have heightened tensions between the two Koreas. Seoul is seeking military talks to prevent accidental clashes, but Pyongyang has yet to respond.",
+   "link": "https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor",
+   "image": "",
+   "published": "2026-10-30T12:32:29+00:00"
+  },
+  {
+   "feed": "verge",
+   "outlet": "The Verge",
+   "section": "Tech",
+   "lang": "en",
+   "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+   "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David Sedaris in […]",
+   "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+   "image": "",
+   "published": "2026-10-30T12:30:00+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "Italy inflation surges to 5.4% in October as energy costs bite",
+   "summary": "Italian inflation rose 5.4% in October from a year earlier, a sharp rise from the 4.2% rate in September, Italy's statistics agency Istat said on Friday.",
+   "link": "https://www.euronews.com/2026/10/30/italy-inflation-surges-to-54-in-october-as-energy-costs-bite",
+   "image": "",
+   "published": "2026-10-30T12:29:51+00:00"
+  },
+  {
+   "feed": "bbc_business",
+   "outlet": "BBC News",
+   "section": "Markets",
+   "lang": "en",
+   "title": "What we know about Binance's $6.3bn hack",
+   "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+   "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
+   "published": "2026-10-30T12:27:28+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
+   "summary": "The mediation mission comes amid speculation about a potential resumption of hostilities.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T12:26:56+00:00"
+  },
+  {
+   "feed": "bbc",
+   "outlet": "BBC News",
+   "section": "World",
+   "lang": "en",
+   "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+   "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+   "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61c/live/cae6b6f0-d461-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-10-30T12:25:53+00:00"
+  },
+  {
+   "feed": "politiken",
+   "outlet": "Politiken",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Der bor 5.000 mennesker. Nu har byen en international lufthavn",
+   "summary": "I den grønlandske by Ilulissat bliver der festet, for nu har byen fået direkte forbindelse ud i verden.",
+   "link": "https://politiken.dk/rejser/art11027911/Der-bor-5.000-mennesker.-Nu-har-byen-en-international-lufthavn",
+   "image": "https://politiken.dk/incoming/img11041687.wzfz04/ORIGINALS/original_960/45A4195",
+   "published": "2026-10-30T12:25:39+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Spain’s deadly train crash redraws electoral battle lines",
+   "summary": "The tragedy has upended the November 29 election campaign, shifting attention from housing to security.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T12:20:22+00:00"
+  },
+  {
+   "feed": "bbc",
+   "outlet": "BBC News",
+   "section": "World",
+   "lang": "en",
+   "title": "China denies allegations of spy operation targeting Nvidia CEO",
+   "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+   "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05cc/live/95d8dca0-d447-11f1-97f9-27ebf08d99fe.jpg",
+   "published": "2026-10-30T12:20:04+00:00"
+  },
+  {
+   "feed": "borsen",
+   "outlet": "Børsen",
+   "section": "Markets",
+   "lang": "da",
+   "title": "Kapitalfonds softwarefirma fyrer 20 pct. af medarbejderne",
+   "summary": "Siden den engelsk kapitalfond Copilot købte halvdelen af aarhusianske Priceshape i 2024, er medarbejderstaben blevet fordoblet. Men nu har virksomheden, der har omkring 100 medarbejdere, fyret en stor del af dem.",
+   "link": "https://borsen.dk/nyheder/virksomheder/kapitalfonds-softwarefirma-fyrer-20-pct-af-medarbejderne",
+   "image": "https://media.borsen.dk/brapi/size/1200/7a03b590-5386-4376-be49-8e47c9eff7da-landscape/4103595-2026103011108/e75634b3-ad2f-4c4a-9250-666f37a1bcaa.jpg",
+   "published": "2026-10-30T12:20:00+00:00"
+  },
+  {
+   "feed": "borsen",
+   "outlet": "Børsen",
+   "section": "Markets",
+   "lang": "da",
+   "title": "Hvilken virksomhed har åbnet sin største fabrik til dato?",
+   "summary": "Test din viden om begivenheder og nyheder fra ugen, der er gået",
+   "link": "https://borsen.dk/nyheder/quiz/hvilken-virksomhed-har-abnet-sin-storste-fabrik-til-dato",
+   "image": "https://media.borsen.dk/brapi/size/1200/d0f193a0-96d4-48b5-9a6b-b01e6f5dbeb2-landscape/4103337-20261028121024/ae35e74e-e503-4614-aabc-eeb15bfe5949.jpg",
+   "published": "2026-10-30T12:19:25+00:00"
+  },
+  {
+   "feed": "bbc_sport",
+   "outlet": "BBC Sport",
+   "section": "Sports",
+   "lang": "en",
+   "title": "Forest Green launch legal action over Savage approach",
+   "summary": "Forest Green chairman Dale Vince announces the club is taking legal action against Peterborough United.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17ef/live/37196de0-d458-11f1-93d9-89af68edb68a.jpg",
+   "published": "2026-10-30T12:18:28+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "AstraZeneca profit jumps 23% on cancer drugs as it unveils major savings plan",
+   "summary": "AstraZeneca's net profit jumped 23% in the third quarter on booming sales of its cancer drugs, as the British drugmaker unveiled a programme to save $1.5 billion (€1.34bn) a year to invest back into developing new medicines.",
+   "link": "https://www.euronews.com/2026/10/30/astrazeneca-profit-jumps-23-on-cancer-drugs-as-it-unveils-major-savings-plan",
+   "image": "",
+   "published": "2026-10-30T12:17:41+00:00"
+  },
+  {
+   "feed": "euronews",
+   "outlet": "Euronews",
+   "section": "World",
+   "lang": "en",
+   "title": "China rejects report of spy plot targeting Nvidia's Jensen Huang",
+   "summary": "\"Our regional cloud customers receive ordinary business information - not sensitive NVIDIA trade secrets - and zero information relevant to national security,\" a spokesperson for Nvidia told the AFP news agency on Friday.",
+   "link": "https://www.euronews.com/2026/10/30/china-rejects-report-of-spy-plot-targeting-nvidias-jensen-huang",
+   "image": "",
+   "published": "2026-10-30T12:14:31+00:00"
+  },
+  {
+   "feed": "nyt_business",
+   "outlet": "The New York Times",
+   "section": "Markets",
+   "lang": "en",
+   "title": "The Tech Tumult Rocks Wall Street",
+   "summary": "Investors are growing nervous about the huge spending bills that tech giants are amassing to pay for their bets on artificial intelligence.",
+   "link": "https://www.nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
+   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30db-nyse-wlpm/30db-nyse-wlpm-mediumSquareAt3X.jpg",
+   "published": "2026-10-30T12:13:01+00:00"
+  },
+  {
+   "feed": "borsen",
+   "outlet": "Børsen",
+   "section": "Markets",
+   "lang": "da",
+   "title": "Skuffende regnskaber og dyre AI-satsninger sender techaktier ned",
+   "summary": "Investorer har straffet aktierne i en række amerikanske giganter, der de seneste dage har aflagt regnskaber. AI-investeringer, skuffende salgsprognoser og eksterne faktorer i USA kan være en del af forklaringen",
+   "link": "https://borsen.dk/nyheder/investor/skuffende-regnskaber-og-dyre-ai-satsninger-sender-techaktier-ned",
+   "image": "https://media.borsen.dk/brapi/size/1200/d09ca970-d9fd-40f0-bb86-175adfee3bee-landscape/4103555-20261030091012/68065b4ecb15c2812367491f4c9016270c978539fe72acf23ffad8266fc6fe52.jpg",
+   "published": "2026-10-30T12:12:53+00:00"
+  },
+  {
+   "feed": "politiken",
+   "outlet": "Politiken",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Kan man lave en god burger, bare fordi man er god til at spise dem på video?",
+   "summary": "Hvilke spisesteder får københavnerne til at stå i kø lige nu? Det undersøger Ibyens anmelder David Dyrholm. Dagens stop bringer ham forbi byens mest hypede burgerbar.",
+   "link": "https://politiken.dk/ibyen/anmeldelser/art11022217/Kan-man-lave-en-god-burger-bare-fordi-man-er-god-til-at-spise-dem-p%C3%A5-video",
+   "image": "https://politiken.dk/incoming/img11029381.hr95cb/ORIGINALS/original_960/Beni%20Burger",
+   "published": "2026-10-30T12:11:00+00:00"
+  },
+  {
+   "feed": "aljazeera",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "lang": "en",
+   "title": "Georgia midterm elections: Why this is a key US battleground",
+   "summary": "Obama and Trump campaign in key battleground state ahead of next week's midterm elections.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground?traffic_source=rss",
+   "image": "",
+   "published": "2026-10-30T12:09:03+00:00"
+  },
+  {
+   "feed": "borsen",
+   "outlet": "Børsen",
+   "section": "Markets",
+   "lang": "da",
+   "title": "Hvem bliver den næste ECB-chef? To navne nævnes igen og igen",
+   "summary": "Det politiske spil om, hvem der bliver Christine Lagardes arvtager er i fuld gang. Særligt to navne nævnes som favoritter",
+   "link": "https://borsen.dk/nyheder/okonomi/hvem-bliver-den-naeste-ecb-chef-to-navne-naevnes-igen-og-igen",
+   "image": "https://media.borsen.dk/brapi/size/1200/96fab2e3-e9cd-40ff-9f83-2485b2ecec58-landscape/4103559-20261030081020/5b91346e1f8a8d3fff0a7a21caf869d228793a663ed20c0b8ab28fa0b72a022a.jpg",
+   "published": "2026-10-30T12:08:35+00:00"
+  },
+  {
+   "feed": "bbc_sport",
+   "outlet": "BBC Sport",
+   "section": "Sports",
+   "lang": "en",
+   "title": "England thrash Wales to begin World Cup defence",
+   "summary": "Rob Hawkins says England \"were not playing to our standards\" despite beginning their Wheelchair World Cup title defence with a commanding 98-18 win over Wales.",
+   "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6ly0pnr19jzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a9/live/7174c820-d45a-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-10-30T12:08:02+00:00"
+  },
+  {
+   "feed": "hn",
+   "outlet": "Hacker News",
+   "section": "Tech",
+   "lang": "en",
+   "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+   "summary": "171 points, 98 comments on Hacker News.",
+   "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+   "image": "",
+   "published": "2026-10-30T12:08:00+00:00"
+  },
+  {
+   "feed": "politiken",
+   "outlet": "Politiken",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Novaja Gazeta: Vi er blevet slået ihjel",
+   "summary": "Den russiske magtkritiske avis Novaja Gazeta meddeler, at myndighederne har tvunget den til at lukke. Her er avisens egen nekrolog.",
+   "link": "https://politiken.dk/internationalt/art11041773/Novaja-Gazeta-Vi-er-blevet-sl%C3%A5et-ihjel",
+   "image": "https://politiken.dk/incoming/img11042302.rpcqkg/ORIGINALS/original_960/LATVIA-RUSSIA-UKRAINE-CONFLICT-MEDIA",
+   "published": "2026-10-30T12:06:32+00:00"
+  },
+  {
+   "feed": "politiken",
+   "outlet": "Politiken",
+   "section": "Denmark",
+   "lang": "da",
+   "title": "Næsten to millioner borgere har taget stilling til organdonation",
+   "summary": "Nye regler på området for organdonation har fået langt flere til at tage aktivt stilling til emnet.",
+   "link": "https://politiken.dk/danmark/sundhed/art11042364/N%C3%A6sten-to-millioner-borgere-har-taget-stilling-til-organdonation",
+   "image": "",
+   "published": "2026-10-30T12:04:29+00:00"
+  },
+  {
+   "feed": "bbc_business",
+   "outlet": "BBC News",
+   "section": "Markets",
+   "lang": "en",
+   "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+   "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+   "published": "2026-10-30T12:04:02+00:00"
+  },
+  {
+   "feed": "bbc_sport",
+   "outlet": "BBC Sport",
+   "section": "Sports",
+   "lang": "en",
+   "title": "Russia's international ice hockey ban overturned",
+   "summary": "The Court of Arbitration for Sport overturns the ban on Russia by ice hockey's global governing body.",
+   "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cm87zqjrr9dno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d5/live/5d34ee00-d453-11f1-8780-edcbf4859104.jpg",
+   "published": "2026-10-30T12:03:39+00:00"
+  },
+  {
    "feed": "berlingske",
    "outlet": "Berlingske",
    "section": "Denmark",
@@ -136,6 +1731,28 @@
    "link": "https://www.dr.dk/nyheder/seneste/epsteins-ophold-paa-skotsk-slot-efterforskes",
    "image": "",
    "published": "2026-10-30T12:01:02+00:00"
+  },
+  {
+   "feed": "guardian_sport",
+   "outlet": "The Guardian",
+   "section": "Sports",
+   "lang": "en",
+   "title": "The academy system needs a refresh but now is the time for Carrick to trust in youth | David Pleat",
+   "summary": "Manchester United’s most famous eras were built around their academy products, so why not give the current crop a chance to shine? Watching Manchester United succumb meekly against Como and Bournemouth brought to mind questions and comparisons with yesteryear. Two of United’s most famous eras were built around their youth players: the Busby Babes and the Class of ’92. Could this be a moment for…",
+   "link": "https://www.theguardian.com/football/2026/oct/30/the-academy-system-needs-a-refresh-but-now-is-the-time-for-carrick-to-trust-in-youth",
+   "image": "https://i.guim.co.uk/img/media/bf976b94dbbbb9b892067efd58b9fd90571c5ad2/1_0_3502_2801/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=ec2ec0c703c629558b45accf72e6d79d",
+   "published": "2026-10-30T12:00:52+00:00"
+  },
+  {
+   "feed": "ars",
+   "outlet": "Ars Technica",
+   "section": "Tech",
+   "lang": "en",
+   "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+   "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+   "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg",
+   "published": "2026-10-30T12:00:18+00:00"
   },
   {
    "feed": "wallnot",
@@ -219,22 +1836,11 @@
    "outlet": "Euronews",
    "section": "World",
    "lang": "en",
-   "title": "How the Binance hack happened and who was behind it?",
+   "title": "How the Binance hack happened and who was behind it",
    "summary": "Investigators say several factors may have been involved, including a compromised DevOps engineer’s laptop, with signs pointing to North Korean actors being responsible.",
    "link": "https://www.euronews.com/2026/10/30/how-the-binance-hack-happened-and-who-was-behind-it",
    "image": "",
    "published": "2026-10-30T11:50:49+00:00"
-  },
-  {
-   "feed": "guardian_sport",
-   "outlet": "The Guardian",
-   "section": "Sports",
-   "lang": "en",
-   "title": "South Africa v Australia: third men’s cricket Test, day four – live",
-   "summary": "Updates from the series decider at Newlands. Any thoughts? Get in touch with an email 52nd over: South Africa 151-4 (Breetzke 23, Rickelton 15) There they go! Rickelton gets a ball from Lyon that is not exactly short, but the batter gets back and leans away to make the length and the width he wants, cuts behind point for four. One good partnership and this could very much be South Africa’s day.…",
-   "link": "https://www.theguardian.com/sport/live/2026/oct/30/south-africa-v-australia-third-test-day-four-cricket-newlands-cape-town-live-updates",
-   "image": "https://i.guim.co.uk/img/media/d93c714830cd792d4c5b9a4068dc4be7d8852fe0/433_0_2730_2184/master/2730.jpg?width=700&quality=85&auto=format&fit=max&s=788bae67bae99d007b755825b698e81c",
-   "published": "2026-10-30T11:49:06+00:00"
   },
   {
    "feed": "euronews",
@@ -259,28 +1865,6 @@
    "published": "2026-10-30T11:47:00+00:00"
   },
   {
-   "feed": "guardian_sport",
-   "outlet": "The Guardian",
-   "section": "Sports",
-   "lang": "en",
-   "title": "Afcon reverts to being held every two years, Premier League news, Carabao Cup and WCL reaction – football live",
-   "summary": "⚽ News and previews heading into the weekend’s action. ⚽ Premier League: 10 things to look out for | Mail Andy. Dejan Kulusevski returned to competitive action for Tottenham after a 17-month injury layoff to play the last few minutes in the club’s 3-1 home victory against Coventry last week and followed that up with another substitute appearance in Saturday’s win at Chelsea. Kulusevski had…",
-   "link": "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
-   "image": "https://i.guim.co.uk/img/media/854c2b589ef2b7b52aee0fafb6240329356eeabf/431_0_4583_3665/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=9676c656255329749e42d4fb5dd5795c",
-   "published": "2026-10-30T11:46:44+00:00"
-  },
-  {
-   "feed": "guardian",
-   "outlet": "The Guardian",
-   "section": "World",
-   "lang": "en",
-   "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
-   "summary": "69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missing. Peunte begins by paying tribute to all affected by the incident. He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to clarify what exactly happened.” He says he still has confidence in the system.…",
-   "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/5db46eb38c6083f927b683f97dd5e7033a8a2ba7/1543_524_2950_2360/master/2950.jpg?width=700&quality=85&auto=format&fit=max&s=2f5f0080efc06549d60a3ef344641f85",
-   "published": "2026-10-30T11:46:42+00:00"
-  },
-  {
    "feed": "dr",
    "outlet": "DR",
    "section": "Denmark",
@@ -296,19 +1880,8 @@
    "outlet": "The Guardian",
    "section": "Markets",
    "lang": "en",
-   "title": "UK financial watchdogs monitoring fallout from $6.3bn Binance heist, as ‘elite North Korean hackers’ blamed – business live",
-   "summary": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist. Most major cryptocurrencies have fallen in value since news of the Binance theft broke, Coinmarketcap data shows . That includes: Bitcoin : -2.35% over the last 24 hours, to $77,940.…",
-   "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/c88d8154f76fef59b24c916cab7348652d9f113c/481_0_4070_3256/master/4070.jpg?width=700&quality=85&auto=format&fit=max&s=9222d9e55df20fc9a26a16b4bdc9da5c",
-   "published": "2026-10-30T11:45:44+00:00"
-  },
-  {
-   "feed": "guardian_business",
-   "outlet": "The Guardian",
-   "section": "Markets",
-   "lang": "en",
    "title": "BP profits hit 18-year high as Iran war drives up oil refining margins",
-   "summary": "Third-quarter underlying ​replacement ⁠cost profit rises to $8.46bn, angering climate campaigners. BP’s profits have hit their highest level in almost two decades as the war in the Middle East drove up oil and gas prices and led to “significantly higher” trading. The energy company hailed a “banner quarter” on Friday, with its underlying ​replacement ⁠cost profit – a key measure of its income –…",
+   "summary": "Oil giant hails ‘banner quarter’ as earnings reach $8.46bn, prompting anger from climate campaigners. BP’s profits have hit their highest level in almost two decades as the war in the Middle East drove up oil and gas prices and led to “significantly higher” trading. The energy company hailed a “banner quarter” on Friday, with its underlying ​replacement ⁠cost profit – a key measure of its income…",
    "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
    "image": "https://i.guim.co.uk/img/media/d524eb35bfb6cb2a0181248f4fae344aebcfd872/4_0_2723_2180/master/2723.jpg?width=700&quality=85&auto=format&fit=max&s=7910e484103060c3720e829efed8c8c4",
    "published": "2026-10-30T11:45:34+00:00"
@@ -457,6 +2030,17 @@
    "published": "2026-10-30T11:33:34+00:00"
   },
   {
+   "feed": "guardian_sport",
+   "outlet": "The Guardian",
+   "section": "Sports",
+   "lang": "en",
+   "title": "England need miracle to stay in World Cup after failing to crush Papua New Guinea",
+   "summary": "Pool B + C: England 34-12 Papua New Guinea. Men’s and women’s sides exit in matter of hours Game over. Two ultimately straightforward victories from three group games would ordinarily be enough to secure qualification in the Rugby League World Cup, but the format means that barring a rugby league miracle from Tonga on Sunday, England are heading home early. That format – ten teams in lop-sided…",
+   "link": "https://www.theguardian.com/sport/2026/oct/30/england-rugby-league-world-cup-hopes-papua-new-guinea",
+   "image": "https://i.guim.co.uk/img/media/5b182e9b39fb5d4566fe3b16aa283ddc2fc0d8fc/381_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=cf7b368ba1ad71d0b2e4fc4bf9f44fe1",
+   "published": "2026-10-30T11:32:49+00:00"
+  },
+  {
    "feed": "wallnot",
    "outlet": "TV 2",
    "section": "Denmark",
@@ -479,17 +2063,6 @@
    "published": "2026-10-30T11:32:00+00:00"
   },
   {
-   "feed": "nyt_business",
-   "outlet": "The New York Times",
-   "section": "Markets",
-   "lang": "en",
-   "title": "Tech Stocks Tumble, but Broader Market Is Holding On",
-   "summary": "The S&P 500 is set for a small loss for the month, despite a deeper slide in some of the A.I. stocks that exert a heavy influence on the index.",
-   "link": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-stocks-promo-image-ztkj/30biz-stocks-promo-image-ztkj-mediumSquareAt3X.jpg",
-   "published": "2026-10-30T11:31:38+00:00"
-  },
-  {
    "feed": "bbc_sport",
    "outlet": "BBC Sport",
    "section": "Sports",
@@ -501,15 +2074,15 @@
    "published": "2026-10-30T11:30:11+00:00"
   },
   {
-   "feed": "marketwatch",
-   "outlet": "MarketWatch",
-   "section": "Markets",
+   "feed": "ars",
+   "outlet": "Ars Technica",
+   "section": "Tech",
    "lang": "en",
-   "title": "Why Intel’s stock is sinking toward its worst day in two years — and a $128 billion wipeout",
-   "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
-   "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-   "image": "https://images.mktw.net/im-37901280",
-   "published": "2026-10-30T11:27:00+00:00"
+   "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+   "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
+   "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg",
+   "published": "2026-10-30T11:30:01+00:00"
   },
   {
    "feed": "dw",
@@ -550,21 +2123,10 @@
    "section": "Sports",
    "lang": "en",
    "title": "Items stolen from Man Utd air disaster memorial in Munich",
-   "summary": "Four medals and a crystal trophy were taken from the display, according to German media.",
+   "summary": "The foundation has urged the return of stolen items, saying they mean so much to bereaved families.",
    "link": "https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6596/live/bb5877a0-d452-11f1-8780-edcbf4859104.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9412/live/5e0eb9f0-d458-11f1-93d9-89af68edb68a.jpg",
    "published": "2026-10-30T11:23:55+00:00"
-  },
-  {
-   "feed": "nyt_business",
-   "outlet": "The New York Times",
-   "section": "Markets",
-   "lang": "en",
-   "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
-   "summary": "The world’s largest crypto exchange said it was compromised in a “complex hack” that could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
-   "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-   "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
-   "published": "2026-10-30T11:23:54+00:00"
   },
   {
    "feed": "berlingske",
@@ -622,6 +2184,17 @@
    "published": "2026-10-30T11:23:12+00:00"
   },
   {
+   "feed": "bbc",
+   "outlet": "BBC News",
+   "section": "World",
+   "lang": "en",
+   "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+   "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+   "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg",
+   "published": "2026-10-30T11:23:06+00:00"
+  },
+  {
    "feed": "wallnot",
    "outlet": "Kristeligt Dagblad",
    "section": "Denmark",
@@ -631,17 +2204,6 @@
    "link": "https://www.kristeligt-dagblad.dk/ansat-i-politiet-svindlede-ved-koeb-af-vin-i-graensebutik",
    "image": "",
    "published": "2026-10-30T11:21:48+00:00"
-  },
-  {
-   "feed": "guardian",
-   "outlet": "The Guardian",
-   "section": "World",
-   "lang": "en",
-   "title": "Foreign firms that win defence contracts will have to invest in UK under new policy – UK politics live",
-   "summary": "Wes Streeting says overseas suppliers of defence contracts will need to spend the equivalent amount in the UK. John Swinney , the Scottish first minister, and Rhun ap Iorwerth , the Welsh first minister, arrived together for the national economic council meeting in Glasgow. The SNP and Plaid Cymru are sister parties, and recently Swinney, ap Iorwerth and the Sinn Féin leaders Mary Lou McDonald…",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/76e7b06aaa1dba51952f3de74144f02accf20a81/1289_0_3839_3072/master/3839.jpg?width=700&quality=85&auto=format&fit=max&s=4bf81ea1326dd481c69bd5845466f4cb",
-   "published": "2026-10-30T11:21:38+00:00"
   },
   {
    "feed": "npr",
@@ -699,34 +2261,12 @@
    "published": "2026-10-30T11:17:44+00:00"
   },
   {
-   "feed": "bbc",
-   "outlet": "BBC News",
-   "section": "World",
-   "lang": "en",
-   "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-   "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-   "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60e/live/1b89e490-d450-11f1-8780-edcbf4859104.jpg",
-   "published": "2026-10-30T11:17:32+00:00"
-  },
-  {
-   "feed": "bbc_sport",
-   "outlet": "BBC Sport",
-   "section": "Sports",
-   "lang": "en",
-   "title": "England edge towards World Cup exit despite PNG win",
-   "summary": "England edge towards a World Cup exit after their points chase against Papua New Guinea descends into a chaotic and error-strewn 34-12 victory that will almost certainly prove insufficient.",
-   "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cx30e28vn5r4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/178672d0-d452-11f1-8780-edcbf4859104.jpg",
-   "published": "2026-10-30T11:17:27+00:00"
-  },
-  {
    "feed": "hn",
    "outlet": "Hacker News",
    "section": "Tech",
    "lang": "en",
    "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
-   "summary": "5 points, 2 comments on Hacker News.",
+   "summary": "34 points, 31 comments on Hacker News.",
    "link": "https://www.youtube.com/watch?v=MENoB3Rex28",
    "image": "",
    "published": "2026-10-30T11:16:15+00:00"
@@ -829,28 +2369,6 @@
    "link": "https://borsen.dk/nyheder/okonomi/blodrode-tal-i-3f-driftsunderskuddet-runder-143-mia-kr-pa-seks-ar",
    "image": "https://media.borsen.dk/brapi/size/1200/d5b252c5-70dc-4533-b21b-50822311d9a4-landscape/4103572-20261030101036/19aa1f1a-f260-46f6-b5d5-91eb2812c4c7.jpg",
    "published": "2026-10-30T11:10:49+00:00"
-  },
-  {
-   "feed": "nyt",
-   "outlet": "The New York Times",
-   "section": "World",
-   "lang": "en",
-   "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
-   "summary": "Many of the people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
-   "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Ukraine-Oleshky-WTK-tkfg/30int-Ukraine-Oleshky-WTK-tkfg-mediumSquareAt3X.jpg",
-   "published": "2026-10-30T11:10:32+00:00"
-  },
-  {
-   "feed": "nyt",
-   "outlet": "The New York Times",
-   "section": "World",
-   "lang": "en",
-   "title": "Oldest Recording of Louisiana’s Vanishing Creole Language Is Published",
-   "summary": "The rediscovery of a forgotten recording from 1935 sheds light on a language rooted in the state’s history of slavery and French colonialism.",
-   "link": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
-   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-creole-woman/30xp-creole-woman-mediumSquareAt3X.jpg",
-   "published": "2026-10-30T11:09:52+00:00"
   },
   {
    "feed": "berlingske",
@@ -957,7 +2475,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Backdoors in official Claude Code extensions",
-   "summary": "96 points, 15 comments on Hacker News.",
+   "summary": "574 points, 166 comments on Hacker News.",
    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "image": "",
    "published": "2026-10-30T11:05:53+00:00"
@@ -1027,6 +2545,17 @@
    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
    "image": "https://images.mktw.net/im-65126339",
    "published": "2026-10-30T11:01:00+00:00"
+  },
+  {
+   "feed": "ars",
+   "outlet": "Ars Technica",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+   "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
+   "link": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg",
+   "published": "2026-10-30T11:00:35+00:00"
   },
   {
    "feed": "euronews",
@@ -1279,7 +2808,7 @@
    "summary": "That was almost three times as much as what businesses producing and refining oil in the United States made in the same period in 2025.",
    "link": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/2026-10-26-oil-profits-index/2026-10-26-oil-profits-index-mediumSquareAt3X-v4.png",
-   "published": "2026-10-30T10:35:32+00:00"
+   "published": "2026-10-30T10:35:33+00:00"
   },
   {
    "feed": "borsen",
@@ -1463,7 +2992,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Anthropic hacked to deliver remote access trojan",
-   "summary": "86 points, 17 comments on Hacker News.",
+   "summary": "337 points, 62 comments on Hacker News.",
    "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
    "image": "",
    "published": "2026-10-30T10:22:51+00:00"
@@ -1568,17 +3097,6 @@
    "published": "2026-10-30T10:18:21+00:00"
   },
   {
-   "feed": "dr_sporten",
-   "outlet": "DR",
-   "section": "Sports",
-   "lang": "da",
-   "title": "Sportsdomstol vil have Rusland til ishockey-VM næste år",
-   "summary": "CAS har besluttet, at Rusland skal have lov til at deltage ved VM i ishockey fra 2027.",
-   "link": "https://www.dr.dk/sporten/ishockey/sportsdomstol-vil-have-rusland-til-ishockey-vm-naeste-aar",
-   "image": "https://asset.dr.dk/drdk/umbraco-images/pcap55gq/000_99n9gu_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-   "published": "2026-10-30T10:18:21+00:00"
-  },
-  {
    "feed": "wallnot",
    "outlet": "EB",
    "section": "Denmark",
@@ -1599,17 +3117,6 @@
    "link": "https://ekstrabladet.dk/krimi/skyldig-i-sag-om-dobbeltdrab/11336505",
    "image": "",
    "published": "2026-10-30T10:15:11+00:00"
-  },
-  {
-   "feed": "marketwatch",
-   "outlet": "MarketWatch",
-   "section": "Markets",
-   "lang": "en",
-   "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-   "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-   "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-   "image": "https://images.mktw.net/im-56448073",
-   "published": "2026-10-30T10:15:00+00:00"
   },
   {
    "feed": "nyt",
@@ -1688,6 +3195,17 @@
    "published": "2026-10-30T10:07:16+00:00"
   },
   {
+   "feed": "hn",
+   "outlet": "Hacker News",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+   "summary": "104 points, 9 comments on Hacker News.",
+   "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+   "image": "",
+   "published": "2026-10-30T10:06:15+00:00"
+  },
+  {
    "feed": "wallnot",
    "outlet": "TV 2",
    "section": "Denmark",
@@ -1697,6 +3215,17 @@
    "link": "https://nyheder.tv2.dk/krimi/2026-10-29-mistaenkt-for-bedrageri-for-736-millioner-har-gemt-sig-for-politiet-i-ni-aar",
    "image": "",
    "published": "2026-10-30T10:05:58+00:00"
+  },
+  {
+   "feed": "dr_sporten",
+   "outlet": "DR",
+   "section": "Sports",
+   "lang": "da",
+   "title": "Sportsdomsstol giver grønt lys til russisk comeback: 'Uforståeligt'",
+   "summary": "CAS har besluttet, at Rusland skal have lov til at deltage ved VM i ishockey fra 2027.",
+   "link": "https://www.dr.dk/sporten/ishockey/sportsdomstol-vil-have-rusland-til-ishockey-vm-naeste-aar",
+   "image": "https://asset.dr.dk/drdk/umbraco-images/pcap55gq/000_99n9gu_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
+   "published": "2026-10-30T10:05:00+00:00"
   },
   {
    "feed": "aljazeera",
@@ -1918,17 +3447,6 @@
    "published": "2026-10-30T09:51:15+00:00"
   },
   {
-   "feed": "nyt",
-   "outlet": "The New York Times",
-   "section": "World",
-   "lang": "en",
-   "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
-   "summary": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
-   "link": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
-   "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-ukraine-pipes-promo-afabuo/28int-ukraine-pipes-promo-afabuo-mediumSquareAt3X.jpg",
-   "published": "2026-10-30T09:51:11+00:00"
-  },
-  {
    "feed": "wallnot",
    "outlet": "POV International",
    "section": "Denmark",
@@ -1938,17 +3456,6 @@
    "link": "https://pov.international/stemmerne-er-talt-op-svaer-regeringsdannelse-venter-i-israel",
    "image": "",
    "published": "2026-10-30T09:51:02+00:00"
-  },
-  {
-   "feed": "marketwatch",
-   "outlet": "MarketWatch",
-   "section": "Markets",
-   "lang": "en",
-   "title": "Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack",
-   "summary": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
-   "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-   "image": "https://images.mktw.net/im-53476673",
-   "published": "2026-10-30T09:50:00+00:00"
   },
   {
    "feed": "bbc_sport",
@@ -1978,7 +3485,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "How Do You Take a Picture of a Black Hole?",
-   "summary": "21 points, 14 comments on Hacker News.",
+   "summary": "47 points, 35 comments on Hacker News.",
    "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
    "image": "",
    "published": "2026-10-30T09:49:02+00:00"
@@ -2058,17 +3565,6 @@
    "published": "2026-10-30T09:36:05+00:00"
   },
   {
-   "feed": "nyt",
-   "outlet": "The New York Times",
-   "section": "World",
-   "lang": "en",
-   "title": "Another Toll of the Violent Unrest in France: The Political Center",
-   "summary": "Support for Édouard Philippe, the leading candidate from the centrist bloc, has eroded, while his far-right and far-left rivals benefit.",
-   "link": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
-   "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-france-center-01-gtlk/30int-france-center-01-gtlk-mediumSquareAt3X-v2.jpg",
-   "published": "2026-10-30T09:35:23+00:00"
-  },
-  {
    "feed": "bbc_business",
    "outlet": "BBC News",
    "section": "Markets",
@@ -2124,23 +3620,12 @@
    "published": "2026-10-30T09:15:33+00:00"
   },
   {
-   "feed": "marketwatch",
-   "outlet": "MarketWatch",
-   "section": "Markets",
-   "lang": "en",
-   "title": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
-   "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-   "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-   "image": "https://images.mktw.net/im-55748968",
-   "published": "2026-10-30T09:15:00+00:00"
-  },
-  {
    "feed": "hn",
    "outlet": "Hacker News",
    "section": "Tech",
    "lang": "en",
    "title": "elect.horse",
-   "summary": "71 points, 23 comments on Hacker News.",
+   "summary": "309 points, 87 comments on Hacker News.",
    "link": "https://elect.horse/",
    "image": "",
    "published": "2026-10-30T09:14:34+00:00"
@@ -2417,7 +3902,7 @@
    "title": "Andy Burnham admits he would have liked more radical first budget",
    "summary": "Prime minister says room for manoeuvre was limited by geopolitical crises and Labour’s 2024 manifesto. Andy Burnham has admitted his first budget as prime minister was not as radical as he would have liked because of the economic uncertainty facing the country. He said he would have liked to have gone further with this week’s announcement – including with higher energy support payments – but felt…",
    "link": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
-   "image": "https://i.guim.co.uk/img/media/d1abed3b3517445566ea40f0e01c4988b1de5f6f/1187_638_5424_4339/master/5424.jpg?width=700&quality=85&auto=format&fit=max&s=46538ce5b6936f841b51532bf361a3b5",
+   "image": "https://i.guim.co.uk/img/media/966e522be01593737d4f95d792bd4f50de5674c0/1444_1402_1755_1404/master/1755.jpg?width=700&quality=85&auto=format&fit=max&s=b92b56c6f4ddaefdb6e09abfa8861279",
    "published": "2026-10-30T08:53:00+00:00"
   },
   {
@@ -2428,7 +3913,7 @@
    "title": "Spirited England out of World Cup after Samoa loss",
    "summary": "England exit the Women's Rugby League World Cup as Samoa beat them 24-6 in their Group A decider in Wollongong.",
    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c8ly0p5ngwx6o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/261a/live/9108a2d0-d43a-11f1-9ba3-e16b46d57ce6.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d04c/live/df299b20-d464-11f1-b441-2b33b063138f.jpg",
    "published": "2026-10-30T08:43:30+00:00"
   },
   {
@@ -2608,17 +4093,6 @@
    "published": "2026-10-30T08:02:13+00:00"
   },
   {
-   "feed": "bbc",
-   "outlet": "BBC News",
-   "section": "World",
-   "lang": "en",
-   "title": "What we know about Binance's $6.3bn hack",
-   "summary": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
-   "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf2/live/c8fa3060-d439-11f1-b441-2b33b063138f.jpg",
-   "published": "2026-10-30T08:02:02+00:00"
-  },
-  {
    "feed": "bbc_sport",
    "outlet": "BBC Sport",
    "section": "Sports",
@@ -2672,17 +4146,6 @@
    "link": "https://www.dw.com/en/the-dachshund-a-humorous-icon-with-political-symbolism/a-79640191?maca=en-rss-en-all-1573-rdf",
    "image": "",
    "published": "2026-10-30T07:57:00+00:00"
-  },
-  {
-   "feed": "bbc_business",
-   "outlet": "BBC News",
-   "section": "Markets",
-   "lang": "en",
-   "title": "Yorkshire Water boss resigns after firm downgraded",
-   "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dbf/live/d8f7e870-d44a-11f1-b441-2b33b063138f.jpg",
-   "published": "2026-10-30T07:54:08+00:00"
   },
   {
    "feed": "euronews",
@@ -2993,6 +4456,17 @@
    "published": "2026-10-30T07:09:16+00:00"
   },
   {
+   "feed": "hn",
+   "outlet": "Hacker News",
+   "section": "Tech",
+   "lang": "en",
+   "title": "Official Claude Code extension compromise",
+   "summary": "49 points, 7 comments on Hacker News.",
+   "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "image": "",
+   "published": "2026-10-30T07:09:12+00:00"
+  },
+  {
    "feed": "aljazeera",
    "outlet": "Al Jazeera",
    "section": "World",
@@ -3119,7 +4593,7 @@
    "section": "World",
    "lang": "en",
    "title": "India news: Space agency to boost GPS alternative with new satellite",
-   "summary": "The Indian national space agency's NVS-03 mission aims to strengthen NavIC, India's indigenous navigation system, and reduce reliance on the US-owned GPS. DW has more.",
+   "summary": "The Indian national space agency's mission aims to strengthen its indigenous navigation system and reduce reliance on the US-owned GPS. Meanwhile, Rahul Gandhi renewed his call for more election protests. DW has more.",
    "link": "https://www.dw.com/en/india-news-space-agency-to-boost-gps-alternative-with-new-satellite/live-79803564?maca=en-rss-en-all-1573-rdf",
    "image": "",
    "published": "2026-10-30T06:59:00+00:00"
@@ -3184,7 +4658,7 @@
    "outlet": "The New York Times",
    "section": "World",
    "lang": "en",
-   "title": "With No Clear Winner, How Could Israel Get a Prime Minister?",
+   "title": "Israel’s Election Results Show No Clear Winner. What Are the Paths to a New Government?",
    "summary": "Deadlock is possible, as neither the bloc of Prime Minister Benjamin Netanyahu nor his main challenger have won a majority. But there are still paths to a new government.",
    "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v6.png",
@@ -3662,17 +5136,6 @@
    "published": "2026-10-30T04:01:20+00:00"
   },
   {
-   "feed": "nyt_business",
-   "outlet": "The New York Times",
-   "section": "Markets",
-   "lang": "en",
-   "title": "In China, the War on Mosquitoes Has Entered the A.I. Era",
-   "summary": "Using sensors developed for self-driving cars, a Chinese start-up claims it can track and destroy tiny flying targets while avoiding people, pets and reflective surfaces.",
-   "link": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-   "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
-   "published": "2026-10-30T04:01:12+00:00"
-  },
-  {
    "feed": "guardian_sport",
    "outlet": "The Guardian",
    "section": "Sports",
@@ -3871,17 +5334,6 @@
    "published": "2026-10-30T01:35:40+00:00"
   },
   {
-   "feed": "nyt_business",
-   "outlet": "The New York Times",
-   "section": "Markets",
-   "lang": "en",
-   "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-   "summary": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
-   "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-   "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
-   "published": "2026-10-30T01:30:27+00:00"
-  },
-  {
    "feed": "techcrunch",
    "outlet": "TechCrunch",
    "section": "Tech",
@@ -3931,7 +5383,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Herdr has released native app",
-   "summary": "238 points, 158 comments on Hacker News.",
+   "summary": "276 points, 181 comments on Hacker News.",
    "link": "https://github.com/herdrdev/herdr-app",
    "image": "",
    "published": "2026-10-30T00:42:41+00:00"
@@ -3953,7 +5405,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Cormac McCarthy's Library",
-   "summary": "62 points, 23 comments on Hacker News.",
+   "summary": "82 points, 32 comments on Hacker News.",
    "link": "https://cormacmccarthy.lib.utk.edu/",
    "image": "",
    "published": "2026-10-30T00:31:00+00:00"
@@ -4056,17 +5508,6 @@
    "link": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
    "published": "2026-10-29T23:37:35+00:00"
-  },
-  {
-   "feed": "nyt",
-   "outlet": "The New York Times",
-   "section": "World",
-   "lang": "en",
-   "title": "Newly Freed American Describes His Years in Russian Prison",
-   "summary": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.",
-   "link": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
-   "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-hubbard-lgpk/29int-ukraine-hubbard-lgpk-mediumSquareAt3X.jpg",
-   "published": "2026-10-29T23:32:33+00:00"
   },
   {
    "feed": "hn",
@@ -4256,17 +5697,6 @@
    "published": "2026-10-29T22:19:17+00:00"
   },
   {
-   "feed": "bbc_business",
-   "outlet": "BBC News",
-   "section": "Markets",
-   "lang": "en",
-   "title": "Google value plunges by $500bn as AI search hits ad sales",
-   "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-   "published": "2026-10-29T22:17:52+00:00"
-  },
-  {
    "feed": "nyt",
    "outlet": "The New York Times",
    "section": "World",
@@ -4349,7 +5779,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "summary": "310 points, 113 comments on Hacker News.",
+   "summary": "338 points, 136 comments on Hacker News.",
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "image": "",
    "published": "2026-10-29T21:40:28+00:00"
@@ -4371,7 +5801,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-   "summary": "1462 points, 952 comments on Hacker News.",
+   "summary": "1575 points, 1045 comments on Hacker News.",
    "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
    "image": "",
    "published": "2026-10-29T21:38:59+00:00"
@@ -4591,7 +6021,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-   "summary": "232 points, 15 comments on Hacker News.",
+   "summary": "245 points, 16 comments on Hacker News.",
    "link": "https://github.com/SheepSeb/tinyworldformer",
    "image": "",
    "published": "2026-10-29T20:32:28+00:00"
@@ -5711,7 +7141,7 @@
    "section": "Tech",
    "lang": "en",
    "title": "H.264 Is Magic (2016)",
-   "summary": "452 points, 151 comments on Hacker News.",
+   "summary": "476 points, 155 comments on Hacker News.",
    "link": "https://sidbala.com/h-264-is-magic/",
    "image": "",
    "published": "2026-10-29T15:53:03+00:00"
@@ -6881,6 +8311,17 @@
    "link": "https://www.information.dk/indland/2026/10/venstres-tradition-folkeligt-frisind-kolliderer-troels-lunds-nye-topstyring",
    "image": "",
    "published": "2026-10-29T08:14:11+00:00"
+  },
+  {
+   "feed": "bbc_sport",
+   "outlet": "BBC Sport",
+   "section": "Sports",
+   "lang": "en",
+   "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+   "summary": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg",
+   "published": "2026-10-29T08:07:22+00:00"
   },
   {
    "feed": "guardian",
@@ -8399,17 +9840,6 @@
    "link": "https://www.theguardian.com/sport/2026/oct/23/temba-bavuma-masterpiece-risk-losing-south-africa-test-cricket-purge",
    "image": "https://i.guim.co.uk/img/media/6955b0458093ed2d7a6dbbb29fdb29dbfd2c651b/0_0_3543_2835/master/3543.jpg?width=700&quality=85&auto=format&fit=max&s=100a41436ec3ca653f42bdb879209874",
    "published": "2026-10-23T16:00:08+00:00"
-  },
-  {
-   "feed": "dr_penge",
-   "outlet": "DR",
-   "section": "Markets",
-   "lang": "da",
-   "title": "Dansker idømt endnu en lang straf i svindelsag på 1,5 milliarder kroner",
-   "summary": "Svindelnetværk har snydt EU-lande for moms gennem falsk handel med elektronik.",
-   "link": "https://www.dr.dk/nyheder/penge/dansker-idoemt-endnu-en-lang-straf-i-svindelsag-paa-1-5-milliarder-kroner",
-   "image": "https://asset.dr.dk/drdk/umbraco-images/4zgfrrwb/goliath-without-frame.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-   "published": "2026-10-23T13:22:20+00:00"
   }
  ]
 }
