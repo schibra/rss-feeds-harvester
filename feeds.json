@@ -14,5 +14,20 @@
   {"id": "techcrunch", "outlet": "TechCrunch", "section": "Tech", "lang": "en", "url": "https://techcrunch.com/feed/"},
   {"id": "verge", "outlet": "The Verge", "section": "Tech", "lang": "en", "url": "https://www.theverge.com/rss/index.xml"},
   {"id": "ars", "outlet": "Ars Technica", "section": "Tech", "lang": "en", "url": "https://feeds.arstechnica.com/arstechnica/index"},
-  {"id": "hn", "outlet": "Hacker News", "section": "Tech", "lang": "en", "url": "https://hnrss.org/frontpage"}
+  {"id": "hn", "outlet": "Hacker News", "section": "Tech", "lang": "en", "url": "https://hnrss.org/frontpage"},
+  {"id": "bbc_business", "outlet": "BBC News", "section": "Markets", "lang": "en", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+  {"id": "guardian_business", "outlet": "The Guardian", "section": "Markets", "lang": "en", "url": "https://www.theguardian.com/uk/business/rss"},
+  {"id": "nyt_business", "outlet": "The New York Times", "section": "Markets", "lang": "en", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"},
+  {"id": "cnbc", "outlet": "CNBC", "section": "Markets", "lang": "en", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
+  {"id": "marketwatch", "outlet": "MarketWatch", "section": "Markets", "lang": "en", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
+  {"id": "dr_penge", "outlet": "DR", "section": "Markets", "lang": "da", "url": "https://www.dr.dk/nyheder/service/feeds/penge"},
+  {"id": "borsen", "outlet": "Børsen", "section": "Markets", "lang": "da", "url": "https://borsen.dk/rss"},
+  {"id": "politiken_oekonomi", "outlet": "Politiken", "section": "Markets", "lang": "da", "url": "https://politiken.dk/rss/oekonomi.rss"},
+  {"id": "dr_sporten", "outlet": "DR", "section": "Sports", "lang": "da", "url": "https://www.dr.dk/nyheder/service/feeds/sporten"},
+  {"id": "bbc_sport", "outlet": "BBC Sport", "section": "Sports", "lang": "en", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
+  {"id": "bbc_cycling", "outlet": "BBC Sport", "section": "Sports", "lang": "en", "url": "https://feeds.bbci.co.uk/sport/cycling/rss.xml"},
+  {"id": "guardian_sport", "outlet": "The Guardian", "section": "Sports", "lang": "en", "url": "https://www.theguardian.com/uk/sport/rss"},
+  {"id": "guardian_cycling", "outlet": "The Guardian", "section": "Sports", "lang": "en", "url": "https://www.theguardian.com/sport/cycling/rss"},
+  {"id": "cyclingnews", "outlet": "Cyclingnews", "section": "Sports", "lang": "en", "url": "https://www.cyclingnews.com/feeds.xml"},
+  {"id": "tv2_sport", "outlet": "TV 2 Sport", "section": "Sports", "lang": "da", "url": "https://sport.tv2.dk/rss"}
 ]
