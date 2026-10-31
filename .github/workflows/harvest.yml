@@ -1,13 +1,18 @@
 name: harvest
 
-# Runs once a day at about 06:00 Copenhagen time (minute 3, as GitHub is slowest at the top of the hour). GitHub schedules in UTC only, and
-# Copenhagen is UTC+1 in winter and UTC+2 in summer, so two UTC slots are listed
-# and the "gate" step lets through only the one that falls in the 06:xx hour there.
+# Daily harvest for the Garmin Coach dashboard, wanted at about 06:00 Copenhagen time.
+# GitHub schedules in UTC only and sometimes delays or drops scheduled runs, so there are
+# four ticks between 04:13 and 05:43 UTC (05:13-07:43 Copenhagen depending on summer/winter time).
+# The "fresh" gate lets a scheduled tick run only when the data is older than 3 hours,
+# so normally only the first tick that actually fires does the work and the others skip.
+# Manual runs (workflow_dispatch) always go through.
 on:
   schedule:
-    - cron: "3 4 * * *"    # 06:03 in summer (CEST)
-    - cron: "3 5 * * *"    # 06:03 in winter (CET)
-  workflow_dispatch: {}    # manual runs always go through
+    - cron: "13 4 * * *"
+    - cron: "43 4 * * *"
+    - cron: "13 5 * * *"
+    - cron: "43 5 * * *"
+  workflow_dispatch: {}
 
 permissions: {}
 
@@ -23,23 +28,24 @@ jobs:
     permissions:
       contents: write   # only to commit data/
     steps:
-      - name: Gate on Copenhagen local time
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - name: Skip scheduled ticks when the data is already fresh
         id: gate
         run: |
-          hour=$(TZ=Europe/Copenhagen date +%H)
-          echo "Copenhagen hour: $hour, event: ${{ github.event_name }}"
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "$hour" != "06" ]; then
-            echo "run=false" >> "$GITHUB_OUTPUT"
+          run=true
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f data/news.json ]; then
+            age=$(python3 -c "import json,datetime as d; g=json.load(open('data/news.json'))['generated']; print(int((d.datetime.now(d.timezone.utc)-d.datetime.fromisoformat(g)).total_seconds()))")
+            echo "event: schedule, data age: ${age}s"
+            if [ "$age" -lt 10800 ]; then run=false; fi
           else
-            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "event: ${{ github.event_name }}"
           fi
-      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
-        if: steps.gate.outputs.run == 'true'
+          echo "run=$run" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.12"
-      - name: Fetch feeds
+      - name: Fetch feeds and forecast
         if: steps.gate.outputs.run == 'true'
         run: |
           python harvest.py
